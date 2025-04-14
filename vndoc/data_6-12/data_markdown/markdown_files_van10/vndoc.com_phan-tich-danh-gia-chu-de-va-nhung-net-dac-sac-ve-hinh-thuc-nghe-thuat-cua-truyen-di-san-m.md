@@ -1,0 +1,59 @@
+---
+url: https://vndoc.com/phan-tich-danh-gia-chu-de-va-nhung-net-dac-sac-ve-hinh-thuc-nghe-thuat-cua-truyen-di-san-mat-dat-276333
+title: Phân tích đánh giá chủ đề và những nét đặc sắc về hình thức nghệ thuật của truyện Đi san mặt đất - Dàn ý + Bài văn mẫu - VnDoc.com
+date_extracted: 2025-04-14 15:17:23
+description: VnDoc.com xin gửi tới bạn đọc bài viết Phân tích đánh giá chủ đề và những nét đặc sắc về hình thức nghệ thuật của truyện Đi san mặt đất. Mời các bạn cùng tham khảo.
+keywords: Phân tích đánh giá chủ đề và những nét đặc sắc về hình thức nghệ thuật của truyện Đi san mặt đất,phân tích đi san mặt đất,phân tích đánh giá đi san mặt đất,phân tích đánh giá chủ đề và hình thức nghệ thuật của truyện Đi san mặt đất
+---
+
+# Phân tích đánh giá chủ đề và những nét đặc sắc về hình thức nghệ thuật của truyện Đi san mặt đất
+ _Dàn ý + Bài văn mẫu_
+## Phân tích đánh giá Đi san mặt đất
+  * 1\. Dàn ý Phân tích đánh giá Đi san mặt đất
+  * 2\. Phân tích đánh giá chủ đề và những nét đặc sắc về hình thức nghệ thuật của truyện Đi san mặt đất mẫu 1
+  * 3\. Phân tích đánh giá chủ đề và những nét đặc sắc về hình thức nghệ thuật của truyện Đi san mặt đất mẫu 2
+
+[Phân tích đánh giá chủ đề và những nét đặc sắc về hình thức nghệ thuật của truyện Đi san mặt đất](<https://vndoc.com/phan-tich-danh-gia-chu-de-va-nhung-net-dac-sac-ve-hinh-thuc-nghe-thuat-cua-truyen-di-san-mat-dat-276333>) được VnDoc.com tổng hợp gồm có dàn ý và bài văn mẫu phân tích đánh giá. Mời các bạn cùng tham khảo chi tiết bài viết dưới đây nhé.
+### 1\. Dàn ý Phân tích đánh giá Đi san mặt đất
+**a. Mở bài:**
+\- Giới thiệu truyện kể.
+\- Nêu cảm xúc của em về tác phẩm.
+**b. Thân bài:**
+\- Chủ đề: Tác phẩm kể về công cuộc khai hoang đất đai của loài người. Con người góp sức, cùng nhau san mặt đất để làm ăn.
+\- Ý nghĩa:
+\+ Thần thoại "Đi san mặt đất" thể hiện ý thức cải tạo thiên nhiên để phục vụ đời sống con người của người Lô Lô cổ đại.
+\+ Tác phẩm bộc lộ cái nhìn ngây thơ, hồn nhiên của người xưa về thế giới tự nhiên.
+\+ Qua tác phẩm, tác giả dân gian cũng gửi gắm tình cảm yêu mến, ngợi ca đối với công ơn của các thế hệ ông cha đi trước.
+\- Những nét đặc sắc về hình thức nghệ thuật:
+\+ Yếu tố không gian và thời gian mang tính chất cổ xưa.
+\+ Thần thoại "Đi san mặt đất" được viết bằng thơ khiến cho người ta dễ nhớ, dễ thuộc.
+\+ Biện pháp tu từ nhân hóa \(nhân hóa loài vật\) cũng tạo nên sự hấp dẫn cho tác phẩm.
+\+ Ngôn từ, hình ảnh sinh động phản ánh chân thực không gian sinh hoạt của người Lô Lô xưa.
+**c. Kết bài:**
+\- Khẳng định lại giá trị của chủ đề và hình thức nghệ thuật của truyện kể; nêu ý nghĩa của tác phẩm đối với bản thân và người đọc.
+### 2\. Phân tích đánh giá chủ đề và những nét đặc sắc về hình thức nghệ thuật của truyện Đi san mặt đất mẫu 1
+Có lẽ, những bí ẩn về thiên nhiên vẫn là một câu hỏi lớn đối với con người thời cổ. Chính vì vậy, họ đã sáng tạo nên các câu chuyện để trả lời cho những thắc mắc của bản thân. Đọc truyện "Thần Trụ trời", ta thấy được cách phân chia bầu trời và mặt đất. Đọc "Prô-mê-tê và loài người", ta được giải đáp về cách các vị thần tạo ra muôn vật và loài người. Không giống hai tác phẩm trên, truyện "Đi san mặt đất" lại là những lí giải đơn giản về quá trình loài người chung lòng, góp sức san phẳng mặt đất để làm ăn mà không có sự xuất hiện của các vị thần. Truyện gây ấn tượng bởi những đặc sắc trong chủ đề và hình thức nghệ thuật.
+Truyện "Đi san mặt đất" có chủ đề viết về quá trình khai hoang và cải tạo tự nhiên của người Lô lô xưa, quá trình này cần có sự giúp sức của tất cả mọi người lúc bấy giờ. Người Lô Lô xưa đã có những nhận thức khá nguyên sơ, đơn giả về thế giới vũ trụ, đồng thời họ cũng có ý thức trong việc cải tạo thế giới sống quanh mình Khi Trái Đất vẫn còn hoang sơ thì người xưa đã cùng nhau đi trình khai hoang và cải tạo tự nhiên. Đó là thời gian không thể xác định, mà người cổ xưa chỉ biết là:
+"Ngày xưa, từ rất xưa...
+Người già không nhớ nổi
+Mấy năm mấy nghìn đời
+Ngày xưa từ rất xưa...
+Người trẻ không biết tới
+Mấy nghìn, mấy vạn năm"
+Mốc thời gian không cụ thể khiến chúng ta không thể biết chính xác đó là thời điểm nào. Khoảng thời gian ấy xưa đến mức người già cũng không thể nhớ nổi, người trẻ thì lại chẳng thể biết tới. Và cuộc sống con người lúc bấy lại thật đơn giản. Trước khi đi san mặt đất, con người vẫn sống chung, ở chung và ăn chung với nhau. Người Lô Lô xưa đã biết tận dụng điều kiện tự nhiên để trồng bắp, lấy nước uống từ "bụng đá" "Trồng bắp trên núi cao/ Uống nước từ bụng đá". Tuy nhiên, sống trong không gian hoang sơ, thiếu thốn khi "Bầu trời nhìn chưa phẳng/ Mặt đất còn nhấp nhô" nên con người thời cổ đã khẩn trương cùng nhau đi tái tạo thế giới.
+Để có thể san phẳng mặt đất, san phẳng bầu trời thì người Lô Lô đã biết tận dụng sức mạnh của các loài vật xung quanh lúc bấy giờ:
+"Kiếm con trâu sừng cong
+Chọn con trâu sừng dài"
+Họ kiếm những con trâu sừng phải cong, phải dài vì đây là những con trâu khỏe, trâu tốt. Chúng đi cày bừa san đất mà không quản gì mệt nhọc. Có sức giúp đỡ của chúng thì công cuộc cải tạo mặt đất của người Lô Lô xưa chẳng mấy chốc mà thành. Thế nhưng công việc san phẳng mặt đất, san phẳng bầu trời là công việc chung của muôn loài nên con người đã đi chuột chũi cóc, ếch. Đáp lại lời kêu gọi của người Lô Lô xưa, các con vật đều tìm cớ trốn tránh, thoái thác. Không thể trông cậy vào chúng, con người đã tập hợp sức mạnh của nhau để cải tạo thiên nhiên "Giống nào cũng không đi/ Người gọi nhau làm lấy". Truyện "Đi san mặt đất" của người Lô Lô không chỉ đơn thuần là lời lí giải về sự bằng phẳng của mặt đất và bầu trời mà còn phản ánh nhận thức của người Lô Lô xưa về quá trình tạo lập thế giới. Theo cách lí giải của họ, để có được mặt đất, bầu trời bằng phẳng như ngày nay thì người Lô Lô xưa đã phải đi san mặt đất. Con người đã tự biết tập hợp sức mạnh của cộng đồng để chung tay thực hiện công việc. Và qua đây, ta thấy được con người trong buổi sơ khai đã có ý thức trong việc cải tạo thiên nhiên để phục vụ cho cuộc sống của chính mình.
+Không chỉ độc đáo ở chủ đề, truyện "Đi san mặt đất" còn có những đặc sắc ở khía cạnh nghệ thuật. Người Lô Lô xưa đã sáng tạo truyện thần thoại bằng hình thức thơ ca với giọng điệu vui tươi, nhí nhảnh tạo cảm giác thích thú cho người đọc.
+Bên canh đó, truyện còn sử dụng biện pháp nhân hóa cùng với ngôn ngữ giản dị, giàu hình ảnh. Các con vật được nhân hóa có những cử chỉ giống con người đã giúp cho truyện trở nên sinh động hơn. Người Lô Lô xưa đã sử dụng ngôn ngữ gần gũi, giản dị giúp cho bạn đọc ở mọi lứa tuổi dễ dàng tiếp nhận truyện.
+"Đi san mặt đất" là một trong những truyện thần thoại đặc sắc của người Lô Lô. Truyện đã thể hiện những lí giải nguyên sơ của người xưa về vũ trụ, về thế giới qua thể thơ năm chữ kết hợp sử dụng các biện pháp nghệ thuật. Qua câu chuyện, ta càng thêm ấn tượng với trí tưởng tượng của người xưa trong việc sáng tạo những giá trị văn hóa dân gian.
+### 3\. Phân tích đánh giá chủ đề và những nét đặc sắc về hình thức nghệ thuật của truyện Đi san mặt đất mẫu 2
+"Đi san mặt đất" trích "Mẹ Trời, Mẹ Đất" là tác phẩm thần thoại bằng thơ nổi tiếng của người Lô Lô. Cũng như các thần thoại khác, tác phẩm ra đời nhằm giải thích hiện tượng tự nhiên và thể hiện ước mơ khám phá thế giới, chinh phục chúng của người Lô Lô. Bằng sự quan sát tinh tế và trí tưởng tượng phong phú, người Lô Lô đã sáng tạo ra những câu chuyện thần thoại bằng thơ ấn tượng, đi sâu vào lòng người đọc.
+Trong nhận thức của người Lô Lô xưa, quá trình tạo lập thế giới do bàn tay con người tái tạo. Tuy người Lô Lô xưa có nhận thức khá nguyên sơ nhưng họ đã thể hiện ý thức cải tạo thiên nhiên để phục vụ cuộc sống. Tác phẩm như một khúc ca khẳng định vai trò của con người trong quá trình tạo lập thế giới.
+"Đi san mặt đất" ca ngợi công lao của con người trong quá trình cải tạo thiên nhiên. Ngay từ đầu tác phẩm, ta có thể nhận thấy đặc trưng của truyện thần thoại qua các yếu tố không gian, thời gian. Người Lô Lô xưa đã khắc họa thời gian, không gian sống của con người khi chưa san phẳng bầu trời và mặt đất một cách sinh động, gần gũi. Thời gian mang tính chất cổ xưa được tái hiện trong tác phẩm "Ngày xưa, từ rất xưa/ Người già không nhớ nổi/ Mấy trăm, mấy nghìn đời/ Ngày xưa, từ rất xưa/ Người trẻ không biết tới/ Mấy nghìn, mấy vạn năm". Từ "xưa" được lặp lại bốn lần kết hợp với các cụm từ "mấy trăm", "mấy nghìn đời", "mấy nghìn", "mấy vạn năm" làm thời gian như dài ra vô cùng vô tận. Không gian lịch sử của tác phẩm nổi bật lên là không gian bản làng, không gian sinh tồn của cộng đồng, dân tộc. Đó là không gian miền núi với thượng nguồn, núi non về cây cối "Người mặt đất ăn chung/ Cùng đi và cùng ở/ Trồng bắp trên núi cao/ Uống nước từ bụng đá/ Người mặt đất sống chung/ Cùng ở và cùng đi".
+Bởi vì "Bầu trời nhìn chưa phẳng/ Mặt đất còn nhấp nhô" ảnh hưởng việc sinh sống và đi lại nên con người phải đi san phẳng để làm ăn. Cách nói này cũng thể hiện khát vọng tìm kiếm những vùng trời, vùng đất mới còn nhấp nhô để người Lô Lô mở rộng và chinh phục. Và việc san phẳng bầu trời, mặt đất là việc chung vì vậy cần có sự hỗ trợ của muôn loài. Bằng ngôn từ tinh tế, thể thơ năm chữ và nhịp thơ linh hoạt, tác giả dân gian đã khắc họa quá trình san phẳng bầu trời và mặt đất một cách sống động. Trước tiên họ chọn trâu sừng cong, dài, sau đó đeo cái ách cho trâu để trâu đi cày, bừa san mặt đất "Kiếm con trâu sừng cong/ Chọn con trâu sừng dài/ Đẽo cho trâu cái ách/ Đục lỗ ách luồn dây. Chão dẻo làm dây cày/ Thừng dài làm dây bừa/ Trâu cày bừa san mặt đất". Cách diễn tả này khiến ta hình dung quá trình san mặt đất của người Lô Lô xưa chính là cách họ lao động, trồng trọt kiếm sống. Cuộc đi san mặt đất của họ gắn liền với con trâu - con vật gần gũi cho người làm nông "con trâu là đầu cơ nghiệp".
+Các loài động vật được nhân hóa cũng góp phần tạo nên thành công cho tác phẩm. Những loài vật: trâu, chuột chũi, cóc, ếch đều tham gia vào quá trình đi san mặt đất "Người tìm hang chuột chũi/ Gọi hắn, hắn rung râu/ "Suốt ngày trong lòng đất/ Tôi có thấy trời đâu"/ Người lại tìm cóc, ếch/ Đứa tặc lưỡi ngồi nhìn/ Đứa thì kêu ộp oạp:/ "Chân tay tôi đều ngắn/ San mặt đất sao nên?/ Để chúng tôi gọi lên/ Xin trời đổ nước xuống\!". Người Lô Lô chung tay san mặt đất để làm ăn, họ không quản ngại mệt nhọc, khó khăn. Họ nghĩ rằng đó là việc của chung, muốn chinh phục thiên nhiên cần có sự đoàn kết "Chẳng quản gì nhọc mệt/ San đất là việc chung", "Giống nào cũng không đi/ Người gọi nhau làm lấy/ Nhiều sức, chung một lòng/ San mặt đất cho phẳng/ Nhiều tay chung một ý/ San mặt đất làm ăn". Nếu thần thoại "Thần Trụ Trời" của người Kinh thần linh là hình tượng trung tâm thì trong "Đi san mặt đất", con người đã trở thành chủ thể.
+Xuyên suốt văn bản thể hiện nguyên nhân và quá trình con người phải đi san phẳng bầu trời và mặt đất. Với trí tưởng tượng sáng tạo, người Lô Lô xưa đã khiến thần thoại bằng thơ của họ đi sâu vào lòng người nghe. Những câu thơ không chỉ thể hiện khao khát, ước mơ của người dân trong quá trình chinh phục thiên nhiên mà còn phản ánh đời sống sinh hoạt người Lô Lô xưa một cách tinh tế.
+Thần thoại "Đi san mặt đất" đã bộc lộ cái nhìn ngây thơ, hồn nhiên của người xưa về thế giới tự nhiên. Tác giả dân gian cũng gửi gắm trong tác phẩm tình cảm yêu mến, ngợi ca đối với công ơn của các thế hệ ông cha đi trước. Tác phẩm đã đem đến cho người đọc những cảm nhận mới mẻ về cách giải thích thế giới tự nhiên của người Lô Lô cổ đại.
+Trên đây VnDoc.com vừa gửi tới bạn đọc bài [Văn mẫu 10 CTST](<https://vndoc.com/van-mau-lop-10-ctst>) Phân tích đánh giá chủ đề và những nét đặc sắc về hình thức nghệ thuật của truyện Đi san mặt đất. Mong rằng qua bài viết này bạn đọc có thêm nhiều tài liệu để học tập tốt hơn môn [Ngữ văn 10 CTST](<https://vndoc.com/ngu-van-10-chan-troi-sang-tao-tap1>). Mời các bạn cùng tham khảo thêm tài liệu học tập các môn [Toán 10 CTST](<https://vndoc.com/toan-10-chan-troi-sang-tao-tap1>), [Tiếng Anh 10 CTST](<https://vndoc.com/tieng-anh-10-friends-global>)...

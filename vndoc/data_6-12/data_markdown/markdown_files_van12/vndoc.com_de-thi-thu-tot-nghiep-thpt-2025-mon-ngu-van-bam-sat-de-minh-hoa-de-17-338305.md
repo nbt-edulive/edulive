@@ -1,0 +1,84 @@
+---
+url: https://vndoc.com/de-thi-thu-tot-nghiep-thpt-2025-mon-ngu-van-bam-sat-de-minh-hoa-de-17-338305
+title: Đề thi thử tốt nghiệp THPT 2025 môn Ngữ văn bám sát đề minh họa - Đề 17 - Thi THPT Quốc gia 2025 - VnDoc.com
+date_extracted: 2025-04-14 15:18:55
+description: VnDoc.com xin gửi tới bạn đọc bài viết Đề thi thử THPT 2025 môn Văn bám sát đề minh họa - Đề 17 để bạn đọc cùng theo dõi và có thêm tài liệu ôn thi nhé.
+keywords: Thi THPT Quốc gia 2025,đề thi thử tốt nghiệp thpt,đề thi thử thpt môn Ngữ văn,Ngữ văn lớp 12,đề thi thử tốt nghiệp môn văn,đề thi thử tốt nghiệp thpt môn Ngữ văn,Đề thi thử THPT Quốc gia năm 2025 môn Ngữ văn,Đề thi thử THPT Quốc gia năm 2025,Đề thi thử THPT Quốc gia môn Ngữ văn,Đề thi thử THPT Quốc gia 2025 môn Ngữ văn bám sát đề minh họa,đề thi thử bám sát đề minh họa 2025 môn Ngữ văn,đề thi thử bám sát đề minh họa 2025
+---
+
+# Đề thi thử tốt nghiệp THPT 2025 môn Ngữ văn bám sát đề minh họa - Đề 17
+ _Thi THPT Quốc gia 2025_
+## Đề thi thử bám sát đề minh họa 2025 môn Ngữ văn - Đề 17
+  * 1\. Đề thi thử tốt nghiệp môn Văn
+  * 2\. Đáp án đề thi thử tốt nghiệp môn Văn
+
+[Đề thi thử THPT Quốc gia 2025 môn Ngữ văn bám sát đề minh họa - Đề 17](<https://vndoc.com/de-thi-thu-tot-nghiep-thpt-2025-mon-ngu-van-bam-sat-de-minh-hoa-de-17-338305>) có đáp án được VnDoc.com tổng hợp gồm có 2 phần đọc hiểu và làm văn. Thí sinh làm bài trong thời gian 120 phút. Đề có đáp án và lời giải chi tiết kèm theo. Mời các bạn cùng theo dõi bài viết dưới đây để có thêm tài liệu ôn [thi tốt nghiệp THPT Quốc gia](<https://vndoc.com/thi-thpt-quoc-gia>) sắp tới nhé.
+## 1\. Đề thi thử tốt nghiệp môn Văn
+**I. PHẦN ĐỌC HIỂU \(4,0 điểm\)**
+Đọc đoạn trích:
+\(1\) ChatGPT \(Chat Generative Pre-training Transformer\) là một chương trình kết hợp với AI để tương tác với con người, do Công ty OpenAI phát triển. Chat GPT sở hữu nhiều chức năng khác nhau, bao gồm trả lời câu hỏi, giải phương trình toán học, viết văn bản, bài luận, làm thơ, soạn nhạc, thiết kế, gỡ lỗi và sửa mã trong lập trình, dịch giữa các ngôn ngữ, tạo bản tóm tắt văn bản. Thậm chí có thể tạo ra các ý tưởng sơ khai về chiến lược kinh doanh hay lên kế hoạch cho một hoạt động cụ thể.
+Trong lĩnh vực giáo dục, ChatGPT giúp công việc của giáo viên, học sinh, sinh viên trở nên thuận lợi, dễ dàng hơn, đặc biệt là góp phần nâng cao chất lượng, hiệu quả giáo dục. ChatGPT giúp giáo viên giải phóng khỏi một số công việc, tập trung vào thay đổi cách thức dạy học từ truyền đạt nội dung là chủ yếu sang phát triển năng lực sáng tạo của người học và thúc đẩy học tập theo hướng cá thể hóa. Chẳng hạn, sử dụng ChatGPT để tạo tình huống trong giảng dạy hay giao bài tập cho học sinh.
+ChatGPT giúp học sinh, sinh viên mạnh dạn hơn trong học tập, đưa ra các câu hỏi và tranh luận. Khi tiếp xúc trực tiếp với thầy cô, học sinh thường e ngại, không dám hỏi hoặc rất ít hỏi, còn với ChatGPT, người học có thể hỏi mọi câu hỏi. Điều này đồng nghĩa với ChatGPT đi đúng với bản chất của giáo dục hiện đại. Việc khuyến khích sử dụng ChatGPT một cách có trách nhiệm cũng như việc hình thành năng lực số, tận dụng công cụ số là cách thức để giáo viên, học sinh, sinh viên phát triển bản thân, phục vụ việc học tập và phát triển nghề nghiệp.
+\(2\) Tuy nhiên, ChatGPT còn bộc lộ nhiều hạn chế và tiềm ẩn nhiều nguy cơ nếu sử dụng nó một cách vô trách nhiệm và thiếu đạo đức. Trước hết, độ chính xác không đồng đều về dữ kiện thực tế của ChatGPT, trong nhiều trường hợp nội dung hồi đáp bị sai lệch, bởi thông tin đưa ra dựa trên dữ liệu tổng hợp từ nguồn Internet có thể không chính xác. Hơn nữa, kho dữ liệu hiện tại mà Chat GPT sử dụng chỉ mới được cập nhật đến năm 2021. \[...\]
+Với khả năng tạo ra các đoạn văn, bài thơ, bài tiểu luận khá mạch lạc chỉ trong thời gian ngắn, xuất hiện những lo ngại về nguy cơ phụ thuộc của người học vào ChatGPT, dẫn đến hạn chế về tư duy phản biện cũng như kĩ năng giải quyết vấn đề. ChatGPT có thể “tiếp tay” cho việc gian lận học thuật và nguy cơ xói mòn trí tuệ người học. \[..\]
+Mặc dù cho đến nay, OpenAI đã có một số biện pháp bảo vệ, ngăn ngừa mọi người yêu cầu ChatGPT tạo mã phần mềm độc hại, nhưng vẫn có kẽ hở khiến giáo viên, học sinh, sinh viên có thể bị mất cắp dữ liệu một cách nhanh chóng. ChatGPT tạo ra một phần mềm độc hại có thể đánh cắp dữ liệu người khác mà không bị phát hiện chỉ trong thời gian rất ngắn \(vài giờ\). Sau khi nắm giữ dữ liệu, nó có thể chia dữ liệu thành các phần nhỏ hơn và ẩn các phần đó trong các hình ảnh khác trên thiết bị. Những hình ảnh được tải lên thư mục Google Drive và rất khó bị phát hiện.
+\(Theo Nguyễn Nhâm, Để ChatGPT thúc đẩy sự phát triển của giáo dục, dẫn theo vov.vn, ngày 25-4-2023\)
+Thực hiện các yêu cầu sau:
+**Câu 1.** ChatGPT là gì?
+**Câu 2.** Đoạn trích cho thấy hai khía cạnh nào của ChatGPT?
+**Câu 3.** Xác định tên gọi và tác dụng của biện pháp tu từ được sử dụng trong câu văn sau: ChatGPT sở hữu nhiều chức năng khác nhau, bao gồm trả lời câu hỏi, giải phương trình toán học, viết văn bản, bài luận, làm thơ, soạn nhạc, thiết kế, gỡ lỗi và sửa mã trong lập trình, dịch giữa các ngôn ngữ, tạo bản tóm tắt văn bản.
+**Câu 4.** Anh/Chị có đồng tình với ý kiến sau của tác giả hay không? Vì sao?
+Với khả năng tạo ra các đoạn văn, bài thơ, bài tiểu luận khá mạch lạc chỉ trong thời gian ngắn, xuất hiện những lo ngại về nguy cơ phụ thuộc của người học vào ChatGPT, dẫn đến hạn chế về tư duy phản biện cũng như kĩ năng giải quyết vấn đề.
+**Câu 5.** Từ đoạn trích, kết hợp với những trải nghiệm của bản thân, anh/ chị hãy nêu ra một giải pháp để sử dụng ChatGPT có hiệu quả. Trình bày trong khoảng 5 – 7 dòng.
+**II. PHẦN VIẾT \(6,0 điểm\)**
+**Câu 1. \(2,0 điểm\)**
+Mẹ ơi, chân thật là gì?
+Mẹ tôi hôn lên đôi mắt
+Con ơi một người chân thật
+Thấy vui muốn cười cứ cười
+Thấy buồn muốn khóc là khóc.
+Yêu ai cứ bảo là yêu
+Ghét ai cứ bảo là ghét
+Dù ai ngon ngọt nuông chiều
+Cũng không nói yêu thành ghét.
+\(Phùng Quán, Lời mẹ dặn, dẫn theo thivien.net\)
+Từ ý thơ trên, kết hợp với những trải nghiệm của bản thân, anh/chị hãy viết đoạn văn \(khoảng 200 chữ\) bàn về vấn đề: Tuổi trẻ và lòng trung thực.
+**Câu 2. \(4,0 điểm\)**
+Trong truyện Giăng sáng \(sáng tác năm 1943\), Nam Cao viết về nhân vật Điền \(một nhà văn\) như sau:
+... Đó là một cái mộng văn chương. Đã có một thời, Điền chăm chỉ đọc  sách, viết văn. Điền nao nức muốn trở nên một văn sĩ. Điền nguyện sẽ cam chịu tất cả những thiếu thốn, đọa đày mà văn nhân nước mình phải chịu. Điền vẫn thường bảo với một người bạn cùng chí hướng: Điền sẵn lòng từ chối một chỗ làm kiếm mỗi tháng hàng trăm bạc, nếu có thể kiểm được năm đồng bạc về nghề văn... Nhưng viết luôn mấy năm trời, Điền chẳng kiếm được đồng nào. Trong khi ấy Điền vẫn phải ăn. Nhà Điền kiết xác xơ. Các em Điền không được đi học. Mà cũng không được ăn no nữa. Sự túng thiếu đưa đến bao nhiêu là lục đục. Bố Điền bỏ nhà đi. Mẹ Điền gồng thuê, gánh mướn kiếm tiền nuôi hai đứa con thơ. \[...\] Điền thấy mình ích kỉ. Sự nghiệp mà làm gì nữa? Bổn phận Điền phải nghĩ đến gia đình. Điền phải gây dựng lại gia đình\! Điền phải tạm quên cái mộng văn chương để kiếm tiền.
+\(Nam Cao, Giăng sáng, in trong Nam Cao – Truyện ngắn tuyển chọn, NXB Văn học, Hà Nội, 2000, tr. 215 – 216\)
+Còn đây là nhân vật Hộ trong truyện Đời thừa của Nam Cao \(sáng tác năm 1943\).
+Hộ vốn nghèo. Hắn là một nhà văn, trước kia, với cách viết thận trọng của hắn, hắn chỉ kiểm được vừa đủ để một mình hắn sống một cách eo hẹp, có thể nói là cực khổ. Nhưng bấy giờ hắn chỉ có một mình. Đói rét không nghĩa lí gì đối với gã trẻ tuổi say mê lí tưởng. Lòng hắn đẹp. Đầu hắn mang một hoài bão lớn. Hắn khinh những lo lắng tủn mủn về vật chất. Hắn chỉ lo vun trồng cho cái tài của hắn mỗi ngày một thêm nảy nở. Hắn đọc, ngẫm nghĩ, tìm tòi, nhận xét và suy tưởng không biết chán. Đối với hắn lúc ấy, nghệ thuật là tất cả, ngoài nghệ thuật không còn gì đáng quan tâm nữa. Hắn băn khoăn nghĩ đến một tác phẩm nó sẽ làm mở hết các tác phẩm khác cùng ra một thời... Thế rồi, khi đã ghép đời Từ vào cuộc đời của hắn, hắn có cả một gia đình phải chăm lo. Hắn hiểu thế nào là giá trị của đồng tiền; hắn hiểu những nỗi khổ đau của một kẻ đàn ông khi thấy vợ con mình đói rách. Những bận rộn tẹp nhẹp, vô nghĩa lí, nhưng không thể không nghĩ tới, ngốn một phần lớn thì giờ của hắn. Hắn phải cho in nhiều cuốn văn viết vội vàng. Hắn phải viết những bài báo đề người ta đọc rồi quên ngay sau lúc đọc. Rồi mỗi lần đọc lại một cuốn sách, hay một đoạn văn kí tên mình, hắn lại đỏ mặt lên, cau mày, nghiên răng, vò nát sách mà mắng mình như một thằng khốn nạn...
+\(Nam Cao, Đời thừa, in trong Nam Cao – Truyện ngắn tuyển chọn, NXB Văn học, Hà Nội, 2000, tr. 253 – 254\)
+Hãy viết bài văn nghị luận \(khoảng 600 chữ\) so sánh nhân vật Điền và nhân vật Hộ trong hai đoạn trích trên.
+## 2\. Đáp án đề thi thử tốt nghiệp môn Văn
+**Phần**| **Câu**| **Nội dung**| **Điểm**  
+---|---|---|---  
+**I**| | **ĐỌC HIỂU**| **4,0**  
+| **1**|  ChatGPT \(Chat Generative Pre-training Transformer\) là một chương trình kết hợp với AI để tương tác với con người, do Công ty OpenAI phát triển.| 0,5  
+**2**|  Đoạn trích cho thấy hai khía cạnh tích cực và tiêu cực \(hoặc tác dụng và hạn chế\) của ChatGPT.| 0,5  
+**3**|  – Biện pháp tu từ được sử dụng trong câu văn là biện pháp liệt kê.– Tác dụng: thể hiện được chức năng ứng dụng rất đa dạng và phong phú của ChatGPT.| 1,0  
+**4**|  HS bày tỏ sự đồng tình hoặc phản đối của mình với ý kiến đã nêu.Lập luận cần chặt chẽ, có sức thuyết phục.– Nếu đồng tình, có thể lập luận theo hướng: Điều lo ngại của mọi người là đúng. Bởi khi người học không tự mình giải quyết vấn đề mà luôn tìm kiếm câu trả lời hoặc giải pháp từ ChatGTP, sử dụng luôn/ lạm dụng những kết quả mà ChatGTP cung cấp thì người học sẽ luôn bị phụ thuộc vào công cụ này, lười suy nghĩ, hạn chế về tư duy phản biện \(phân biệt đúng / sai\) cũng như kĩ năng giải quyết vấn đề \(tự mình giải quyết các nhiệm vụ đặt ra trong học tập\).– Nếu phản đối, có thể lập luận theo hướng: Không quá lo ngại về điều đó vì trên thực tế không phải câu trả lời nào của ChatGTP cũng đúng và hoàn hảo. Bài làm của HS sẽ được GV đánh giá.Nếu GV chỉ ra được những sai sót hoặc không hợp lí trong các câu trả lời hoặc sản phẩm của HS \(lấy từ ChatGTP\) thì HS sẽ không thể cứ tiếp tục lạm dụng công cụ này.| 1,0  
+**5**|  HS trả lời theo quan điểm riêng. Câu trả lời cần chặt chẽ, có sức thuyết phục. Độ dài câu trả lời theo số dòng quy định.Tham khảo một trong những giải pháp sau:– Tìm kiếm câu trả lời từ ChatGTP để tiết kiệm thời gian và có những dữ liệu bạn đầu. Nhưng sau đó cần kiểm chứng thông tin ấy từ các nguồn dẫn thông tin khác \(như Google chẳng hạn\) để quyết định xem có nên sử dụng thông tin lấy từ ChatGTP hay không.– Hầu hết các câu trả lời của ChatGPT đều không dẫn nguồn, vì thế không sử dụng ChatGPT cho các quyết định quan trọng.– Các thầy cô giáo cần hướng dẫn HS chỉ coi ChatGPT là công cụ, không nên lạm dụng nó. GV cần giáo dục ý thức, lòng tự trọng cho người học; đồng thời, thay đổi định dạng bài kiểm tra để loại bỏ các công cụ AI,...| 1,0  
+**II**| | **VIẾT**| **6,0**  
+| **1**| **Viết đoạn văn \(khoảng 200 chữ\) bàn về vấn đề: Tuổi trẻ và lòng trung thực.**| **2,0**  
+ _a. Xác định được yêu cầu về hình thức, dung lượng của đoạn văn_ Viết đoạn văn \(khoảng 200 chữ\) bàn về vấn đề: Tuổi trẻ và lòng trung thực.| 0,25  
+ _b. Xác định đúng vấn đề cần nghị luận_ Tuổi trẻ và lòng trung thực.| 0,25  
+ _c. Đề xuất được hệ thống ý phù hợp để làm rõ vấn đề nghị luận_ \* Mở đoạn: Giới thiệu đoạn thơ \(đã cho\) và nêu vấn đề: Tuổi trẻ và lòng trung thực.\* Thân đoạn:\- Nêu khái quát về biểu hiện của lòng trung thực \(chân thật\) được thể hiện ở đoạn thơ đã cho \(thể hiện một cách tự nhiên, chân thành những tình cảm và cảm xúc của mình; thật thà, thẳng thắn\).\- Bàn luận về vấn đề tuổi trẻ và lòng trung thực. Cần làm rõ: Tuổi trẻ có đặc điểm gì? Lòng trung thực có ý nghĩa như thế nào? Vì sao tuổi trẻ cần có lòng trung thực? Cho ví dụ minh hoạ.\- Liên hệ bản thân và rút ra bài học\+ Cách thể hiện lòng trung thực của bản thân.\+ Rút ra bài học cho bản thân và những người trẻ tuổi nói chung: cần có lòng trung thực song cần phân biệt giữa sự thật thà, thẳng thắn với sự thô lỗ, thiếu tế nhị.\* Kết đoạn: Khẳng định lại sự cần thiết của việc tuổi trẻ cần có lòng trung thực và nên thể hiện sự trung thực một cách phù hợp.| 0,5  
+ _d. Viết đoạn văn đảm bảo các yêu cầu sau:_ \- Lựa chọn được các thao tác lập luận, phương thức biểu đạt phù hợp để làm rõ vấn đề nghị luận:\- Đảm bảo chuẩn chính tả, ngữ pháp tiếng Việt.**-** Trình bày rõ quan điểm hệ thống các ý\- Lập luận chặt chẽ, thuyết phục: lí lẽ xác đáng, bằng chứng tiêu biểu, phù hợp; kết hợp nhuần nhuyễn giữa lí lẽ và dẫn chứng.| 0,5  
+ _đ. Diễn đạt_ Đảm bảo chuẩn chính tả, dùng từ, ngữ pháp tiếng Việt, liên kết câu trong đoạn văn| 0,25  
+ _e. Sáng tạo_ Thể hiện suy nghĩ sâu sắc về vấn đề nghị luận; có cách diễn đạt mới mẻ.| 0,25  
+| **2**| **Hãy viết bài văn nghị luận \(khoảng 600 chữ\) so sánh nhân vật Điền và nhân vật Hộ trong hai đoạn trích**** _Đời thừa_****và**** _Giăng sáng_****của Nam Cao.**| **4,0**  
+ _a. Đảm bảo cấu trúc bài nghị luận_ _Mở bài_ nêu được vấn đề _, Thân bài_ triển khai được vấn đề _, Kết bài_ khái quát được vấn đề.__|  0,25  
+ _b. Xác định đúng vấn đề cần nghị luận_ So sánh nhân vật Điền và nhân vật Hộ trong hai đoạn trích Đời thừa và Giăng sáng của Nam Cao.| 0,5  
+ _c. Đề xuất được hệ thống ý phù hợp để làm rõ vấn đề của bài viết_ \* Mở bài: Dẫn dắt, khái quát điểm tương đồng và khác biệt giữa hai nhân vật Điền và Hộ trong hai đoạn trích.\* Thân bài:\- Nêu ngắn gọn những hiểu biết chung về nhà văn Nam Cao và hai truyện ngắn: Giăng sáng, Đời thừa \(cùng viết năm 1943, trước Cách mạng tháng Tám 1945\).\- So sánh hai nhân vật trong hai đoạn trích\+ Điểm giống nhau:. Về nội dung: Cả hai nhân vật đều là những người trí thức \(nhà văn\), coi trọng nghề nghiệp; sống có lí tưởng và hoài bão; coi khinh những lo lắng tủn mủn về vật chất; chấp nhận khó khăn, thử thách để mong có được sự nghiệp mà mình mong muốn; biết sống vì người khác;... Tuy nhiên, họ lại rơi vào bi kịch: gia cảnh nghèo khó, phải làm những việc mình không mong muốn để kiếm tiền.. Về nghệ thuật: cả hai đoạn văn đều sử dụng kết hợp phương thức tự sự với biểu cảm, đều sử dụng điểm nhìn toàn tri \(ngôi kể thứ ba\), nhập vai vào nhân vật, với hình thức ngôn ngữ nửa trực tiếp, tập trung khắc hoa bối cảnh và những nghĩ suy, dằn vặt của nhân vật.\+ Điểm khác nhau:. Nhân vật Điền: Không kiếm được đồng nào nhờ việc viết lách trong khi vẫn phải ăn, nhà Điền thì nghèo kiết xác và lục đục; không dám theo đuổi sự nghiệp để kiếm tiền lo cho gia đình; tự nhận thấy mình ích kỉ trong mối quan hệ với người thân.. Nhân vật Hộ: Có cả một gia đình phải chăm lo, tốn nhiều thì giờ vào những bận rộn tẹp nhẹp, vô nghĩa lí nhưng không thể không nghĩ tới; phải viết văn, viết báo một cách cẩu thả để kiếm tiền \(khác với sự thận trọng trước kia\); tự thấy mình là một kẻ khốn nạn trong nghề nghiệp.\- Đánh giá\+ Thông qua hai nhân vật, Nam Cao khái quát được đặc điểm tiêu biểu của người trí thức và bi kịch của họ trong xã hội cũ: có có phẩm chất và lí tưởng cao đẹp nhưng bị "cuộc sống áo cơm ghì sát đất", rơi vào bi kịch và bị tha hóa. Qua hai nhân vật, nhà văn thể hiện tư tưởng nhân đạo sâu sắc của mình.\+ Thể hiện tài năng của nhà văn Nam Cao trong việc xây dựng, khắc họa hình tượng nhân vật người trí thức trong xã hội cũ.\* Kết bài: Nêu ấn tượng sâu đậm về hai nhân vật hoặc về tư tưởng của nhà văn thể hiện qua việc khắc họa hai nhân vật. Cũng có thể nêu những băn khoăn, trăn trở của bản thân được gợi ra từ đặc điểm của các nhân vật này.| 1,0  
+ _d. Viết bài văn đảm bảo các yêu cầu sau:_ \- Triển khai được ít nhất hai luận điểm để làm rõ quan điểm cá nhân\- Lựa chọn được các thao tác lập luận, phương thức biểu đạt phù hợp để triển khai vấn đề nghị luận.\- Đảm bảo chuẩn chính tả, ngữ pháp tiếng Việt.\- Lập luận chặt chẽ, thuyết phục: lí lẽ xác đáng, bằng chứng tiêu biểu, phù hợp; kết hợp nhuần nhuyễn giữa lí lẽ và dẫn chứng.**_Lưu ý:_**_Học sinh có thể bày tỏ suy nghĩ, quan điểm riêng nhưng phải phù hợp với chuẩn mực đạo đức và pháp luật._|  1,5  
+ _đ. Diễn đạt_ Bảo đảm chuẩn chính tả, dùng từ, ngữ pháp tiếng Việt, liên kết văn bản.| 0,25  
+ _e. Sáng tạo_ Thể hiện suy nghĩ sâu sắc về vấn đề nghị luận; có cách diễn đạt mới mẻ.| 0,5  
+**Tổng điểm**| **10,0**  
+Xem thêm các bài Tìm bài trong mục này khác:
+  * [Đề thi thử môn Ngữ văn bám sát đề minh họa - Đề 18](</de-thi-thu-tot-nghiep-thpt-2025-mon-ngu-van-bam-sat-de-minh-hoa-de-18-338309>)
+  * [Đề thi thử môn Ngữ văn bám sát đề minh họa - Đề 19](</de-thi-thu-tot-nghiep-thpt-2025-mon-ngu-van-bam-sat-de-minh-hoa-de-19-338310>)
+  * [Đề thi thử môn Ngữ văn bám sát đề minh họa - Đề 20](</de-thi-thu-tot-nghiep-thpt-2025-mon-ngu-van-bam-sat-de-minh-hoa-de-20-338384>)
+  * [Đề thi thử môn Ngữ văn bám sát đề minh họa - Đề 21](</de-thi-thu-tot-nghiep-thpt-2025-mon-ngu-van-bam-sat-de-minh-hoa-de-21-338394>)
+

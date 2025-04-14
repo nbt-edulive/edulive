@@ -1,0 +1,18 @@
+---
+url: https://vndoc.com/nghi-luan-xa-hoi-trong-the-gioi-khac-nghiet-cua-aids-khong-co-khai-niem-chung-ta-va-ho-194085
+title: Nghị luận xã hội 200 chữ về câu nói: Trong thế giới khắc nghiệt của AIDS, không có khái niệm chúng ta và họ - Bài văn mẫu nghị luận xã hội - VnDoc.com
+date_extracted: 2025-04-14 15:35:48
+description: VnDoc.com xin gửi tới bạn đọc Nghị luận xã hội 200 chữ về câu nói: Trong thế giới khắc nghiệt của AIDS, không có khái niệm chúng ta và họ, mời các bạn cùng tham khảo chi tiết tại đây.
+keywords: Nghị luận xã hội 200 chữ,bài văn mẫu nghị luận xã hội,đoạn văn ngắn nghị luận xã hội 200 chữ,Trong thế giới khắc nghiệt của AIDS,không có khái niệm chúng ta và họ
+---
+
+# Nghị luận xã hội 200 chữ về câu nói: Trong thế giới khắc nghiệt của AIDS, không có khái niệm chúng ta và họ
+ _Bài văn mẫu nghị luận xã hội_
+## Bài nghị luận xã hội 200 chữ về câu nói: Trong thế giới khắc nghiệt của AIDS, không có khái niệm chúng ta và họ
+VnDoc.com xin gửi tới bạn đọc [Nghị luận xã hội 200 chữ về câu nói: Trong thế giới khắc nghiệt của AIDS, không có khái niệm chúng ta và họ](<https://vndoc.com/nghi-luan-xa-hoi-trong-the-gioi-khac-nghiet-cua-aids-khong-co-khai-niem-chung-ta-va-ho-194085>) để bạn đọc cùng tham khảo và có thêm tài liệu ôn tập cho kì [thi THPT Quốc gia](<https://vndoc.com/thi-thpt-quoc-gia>) sắp tới. Mời các bạn cùng tham khảo chi tiết tại đây.
+  * [Nghị luận xã hội 200 chữ về quan điểm: Cống hiến hết mình, hưởng thụ tối đa](<https://vndoc.com/nghi-luan-xa-hoi-200-chu-ve-quan-diem-cong-hien-het-minh-huong-thu-toi-da-194083>)
+  * [Nghị luận xã hội 200 chữ về khoảng lặng trong cuộc sống](<https://vndoc.com/nghi-luan-xa-hoi-200-chu-ve-khoang-lang-trong-cuoc-song-194075>)
+
+### Viết đoạn văn ngắn về câu nói: Trong thế giới khắc nghiệt của AIDS, không có khái niệm chúng ta và họ 200 chữ
+HIV – AIDS – căn bệnh thế kỉ đã huỷ diệt biết bao sinh mệnh của con người. HIV-AIDS là tên viết tắt của những loại virut phá huỷ hồng cầu, làm suy giảm hệ miễn dịch của người, trong đó người bị HIV là giai đoạn đầu của bệnh còn AIDS là giai đoạn cuối của bệnh. Theo thống kê, năm 2007 trên thế giới có 36.1 triệu người nhiễm HIV/ AIDS và 21.8 triệu người trong đó đã tử vong, một con số vô cùng kinh khủng, hơn 10 năm nữa đã trôi qua, con số ấy vẫn tăng lên từng ngày, hiểm hoạ do AIDS gây ra ngày càng kinh khủng cho cả bản thân người mắc lẫn toàn xã hội. Thế nhưng, hậu quả sẽ càng khôn lường hơn nếu chúng ta không có thái độ đúng đắn để đối mặt với căn bệnh thế kỉ đó. Xa lánh, sợ hãi, trốn tránh, im lặng, che giấu,… tất cả những thái độ đó đều chính là ngòi nổ khiến việc giải quyết, xử lí và ngăn chặn HIV – AIDS càng trở nên khó khăn và bế tắc. Thái độ đúng mực, đồng cảm, sẻ chia là điều có ý nghĩa to lớn, đừng bao giờ dùng bức tường ngăn cách, " chúng ta" – "họ” để giết chết những người bệnh trước khi căn bệnh phát tác. Chính vì vậy, im lặng, dù đến từ người mắc bệnh hay xã hội, chính là tìm đến cái chết. Mỗi chúng ta hãy tạo cho mình lối sống lành mạnh và vốn kiến thức sâu rộng để cùng chung tay đẩy lùi căn bệnh thế kỉ này.
+Trên đây VnDoc.com vừa giới thiệu tới các bạn Nghị luận xã hội 200 chữ về câu nói: Trong thế giới khắc nghiệt của AIDS, không có khái niệm chúng ta và họ, mong rằng qua bài viết này các bạn có thể học tập tốt hơn môn [Ngữ văn 12](<https://vndoc.com/ngu-van-lop12>). Mời các bạn cùng tham khảo thêm kiến thức các môn [Toán 12](<https://vndoc.com/toan-lop12>), [Tiếng Anh 12](<https://vndoc.com/tieng-anh-lop12>), [đề thi học kì 1 lớp 12](<https://vndoc.com/de-thi-hoc-ki-1-lop12>), [đề thi học kì 2 lớp 12](<https://vndoc.com/de-thi-hoc-ki-2-lop12>)...

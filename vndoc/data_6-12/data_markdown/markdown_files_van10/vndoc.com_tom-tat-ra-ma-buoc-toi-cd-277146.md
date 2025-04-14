@@ -1,0 +1,42 @@
+---
+url: https://vndoc.com/tom-tat-ra-ma-buoc-toi-cd-277146
+title: Tóm tắt Ra-ma buộc tội Cánh diều - Tóm tắt Ngữ văn 10 Cánh diều - VnDoc.com
+date_extracted: 2025-04-14 15:10:18
+description: VnDoc.com xin gửi tới bạn đọc bài viết Tóm tắt văn bản Ra-ma buộc tội Cánh diều. Mời các bạn cùng tham khảo chi tiết bài viết dưới đây nhé.
+keywords: Tóm tắt Ra-ma buộc tội,Tóm tắt bài Ra-ma buộc tội,Tóm tắt tác phẩm Ra-ma buộc tội,Tóm tắt Ra-ma buộc tội ngắn gọn,ra-ma buộc tội,ngữ văn 10 Cd,tóm tắt ngữ văn 10 cd,ngữ văn 10 cánh diều,tóm tắt ngữ văn 10 cánh diều,Ra-ma buộc tội tóm tắt,Tóm tắt Ra-ma buộc tội ngắn nhất,Tóm tắt văn bản Ra-ma buộc tội,Tóm tắt Ra-ma buộc tội cánh diều
+---
+
+# Tóm tắt Ra-ma buộc tội Cánh diều
+ _Tóm tắt Ngữ văn 10 Cánh diều_
+## Tóm tắt Ra-ma buộc tội ngắn gọn
+  * 1\. Tóm tắt tác phẩm Ra-ma buộc tội mẫu 1
+  * 2\. Tóm tắt tác phẩm Ra-ma buộc tội mẫu 2
+  * 3\. Tóm tắt tác phẩm Ra-ma buộc tội mẫu 3
+  * 4\. Tóm tắt tác phẩm Ra-ma buộc tội mẫu 4
+  * 5\. Tóm tắt tác phẩm Ra-ma buộc tội mẫu 5
+  * 6\. Tóm tắt văn bản Ra-ma buộc tội mẫu 6
+  * 7\. Tóm tắt văn bản Ra-ma buộc tội mẫu 7
+  * 8\. Tóm tắt văn bản Ra-ma buộc tội mẫu 8
+
+[Tóm tắt Ra-ma buộc tội Cánh diều](<https://vndoc.com/tom-tat-ra-ma-buoc-toi-cd-277146>) được VnDoc.com sưu tầm và xin gửi tới bạn đọc cùng tham khảo. Mời các bạn cùng tham khảo chi tiết bài viết dưới đây để có thêm tài liệu [tóm tắt tác phẩm Ngữ văn 10](<https://vndoc.com/tom-tat-ngu-van-10-cd>) nhé.
+### 1\. Tóm tắt tác phẩm Ra-ma buộc tội mẫu 1
+Vua Đa-xa-ra-tha có bốn người con trai do ba bà vợ sinh ra. Ra-ma là con cả, hơn hẳn các em về tài đức. Vua cha có ý định nhường ngôi cho chàng nhưng vì lời hứa với bà vợ thứ Ka-kê-i xinh đẹp nên đã đày Ra-ma vào rừng và trao ngôi lại cho Bha-ra-ta, con của Ka-kê-i. Ra-ma cùng vợ là Xi-ta và em trai Lắc-ma-na vào rừng sống ẩn dật. Quỷ vương Ra-va-na lập mưu cướp Xi-ta đem về làm vợ. Mặc quỷ vương dụ dỗ và ép buộc, Xi-ta vẫn kịch liệt chống cự. Được tướng khỉ Ha-nu-man giúp đỡ, Ra-ma đã cứu được Xi-ta. Nhưng sau đó, Ra-ma nghi ngờ tiết hạnh của Xi-ta và không muốn nhận lại nàng làm vợ. Để chứng tỏ lòng chung thuỷ của mình, Xi-ta đã nhảy vào lửa. Thần lửa biết Xi-ta trong sạch nên đã cứu nàng. Ra-ma và Xi-ta trở về kinh đô.
+### 2\. Tóm tắt tác phẩm Ra-ma buộc tội mẫu 2
+Rama là hoàng tử của vua Daxaratha. Khi chuẩn bị lên ngôi vua thì Rama bị thứ phi Kakei nhắc đến một ân huệ cũ. Lúc này, nhà vua buộc phải đẩy Rama vào rừng 14 năm. Xi ta là vợ của Rama đã đồng ý đi theo chàng. Khi thời gian đầy ải sắp kết thúc, Xita bị quỷ bắt cóc. Để bảo vệ vợ, Rama đã chiến đấu anh dũng để cứu Xita. Thế nhưng khi cứu được nàng, Rama lại nghi ngờ danh tiết của Xita để đến mức Xita phải bước lên dàn hỏa thiêu để tự vẫn. Sau cùng, với sự trợ giúp của thần lửa, Xita quay về bên Rama và sống hạnh phúc.
+### 3\. Tóm tắt tác phẩm Ra-ma buộc tội mẫu 3
+Câu chuyện diễn ra ở vương quốc Kô-sa-la. Đức vua Đa-xa-ra-tha có ba người vợ và bốn chàng hoàng tử. Ra-ma là con cả có trí tuệ và sức mạnh siêu phàm. Vua cha có ý định nhường ngôi cho chàng nhưng vì lời hứa với bà vợ thứ Ka-kê-i nên vua đã đày Ra-ma vào rừng và trao ngôi lại cho Bha-ra-ta, con của Ka-kê-i. Ra-ma cùng vợ là Xi-ta và em trai Lắc-ma-na vào rừng sống ẩn dật. Quỷ vương Ra-va-na cướp Xi-ta đem về làm vợ nhưng Xi-ta một lòng chung thủy với chồng. Tướng khỉ Ha-nu-man giúp đỡ, Ra-ma đã cứu được Xi-ta. Nhưng sau đó, Ra-ma nghi ngờ tiết hạnh của Xi-ta và không muốn nhận lại nàng và đuổi nàng đi. Để chứng tỏ sự trong sạch của mình, Xi-ta đã nhảy vào lửa. Thần lửa biết Xi-ta trong trắng nên đã cứu nàng. Ra-ma và Xi-ta trở về kinh đô sống hạnh phúc bên nhau.
+### 4\. Tóm tắt tác phẩm Ra-ma buộc tội mẫu 4
+Sau chiến thắng, Ra-ma nghi ngờ tiết hạnh của Xi-ta. Chàng nổi cơn ghen dữ dội. Dù thấy đôi mắt đẫm lệ của Xi-ta, lòng Ra-ma như dao cắt nhưng sợ tai tiếng nên chàng vẫn buông những lời xúc phạm nàng. Xi-ta đau đớn như cây dây leo bị vòi voi quật nát. Nàng lấy tư cách của mình ra thề, rồi giải thích, thanh minh trong tiếng nức nở nghẹn ngào nhưng không lay chuyển được Ra-ma. Cuối cùng, nàng đành chứng minh phẩm hạnh, lòng thuỷ chung của mình trước mọi người bằng cách dũng cảm bước lên giàn lửa. Tất thảy mọi người, kể cả loài Rắc-sa-xa và Va-na-ra cùng bật lên tiếng khóc vang trời trước cảnh tượng đau đớn đó.
+### 5\. Tóm tắt tác phẩm Ra-ma buộc tội mẫu 5
+Ngày xưa ở vương quốc Kô-sa-la có đức vũ Đa-xa-ra-tha trị vì. Ông có ba người vợ và 4 chàng hoàng tử. Cả bốn người đều tài giỏi nhưng nổi trội nhất vẫn là vị con trưởng Ra-ma, chàng toàn vẹn cả trí tuệ và sức mạnh siêu phàm. Vua cha đã già, ông có ý muốn truyền lại ngai vàng cho người con trưởng là Ra-ma. Nhưng trước đây, ông đã từng hứa với người vợ ba Ka-kê-I là sẽ truyền ngôi báu cho người con thứ ba là Bra-ra-ta. Thực hiện lời hứa với người vợ ba của mình, Bra-ha-ta được lên là đức vua xứ Kô-sa-la còn Ra-ma, vị tài giỏi nhất bị vua cha sai đầy vào rừng sâu sống ẩn dật mãi mãi. Chàng Ra-ma cùng người vợ xinh đẹp Xita và em trai là Lắc-ma-na cùng đi vào rừng sâu sống theo lệnh vua cha. Trong rừng sâu thẳm ấy, tưởng chàng sống được những ngày bình yên bên gia đình nhưng không ngờ Quỷ Vương Ra-va-na vì say đắm sắc đẹp của Xita nên có âm mưu và bày kế cướp vợ của chàng. Tuy vậy, nhưng Xi-ta vẫn một lòng thủy chung với chồng, đau khổ khi phải rơi vào tay kẻ xấu xa. Biết được đau khổ của nàng, Tướng kỉ Ha-nu-man giúp đỡ và Xi-ta được cứu thoát. Nhưng khi trở về bên chồng, Ra-ma lại nghi ngờ sự trong sạch và tiết hạnh của nàng và đuổi nàng đi. Nàng quá đau khổ, nhục nhã, nàng quyết nhảy vào lửa tự vẫn để chứng minh sự trong sạch của nàng. Dường như thần lửa biết được sự trong sáng của nàng nên đã cứu giúp nàng trở về từ cõi chết. Chàng Ra-ma cũng nhận ra sự trong sạch của vợ, cuối cùng hai người cùng em trai về lại vương quốc và sống hạnh phúc bên nhau.
+### 6\. Tóm tắt văn bản Ra-ma buộc tội mẫu 6
+Sau khi chiến thắng quỷ vương Ra-va-na, cứu được Xi-ta. Vợ chồng gặp lại nhau, nhưng Ra-ma lại nghi ngờ Ri-ra không còn trọn vẹn danh tiết sau những ngày tháng trong tay quỷ. Ra-ma tuyên bố từ bỏ nàng. Xi-ta thanh minh không được, đành bước lên giàn hỏa thiêu. Chứng giám đức hạnh của nàng, thần Lửa đã đem nàng trả lại cho Ra-ma.
+### 7\. Tóm tắt văn bản Ra-ma buộc tội mẫu 7
+Trong đoạn trích “Rama buộc tội” thì nhân vật Rama là hoàng tử trưởng của nhà vua Daxaratha. Khi vua cha mong muốn truyền ngôi cho Rama thì thứ phi Kakei nhắc lại một ân huệ cũ. Lúc này đây cũng đã buộc nhà vua phải đày ải Rama vào rừng 14 năm. Xita chính là vợ của chàng và Lachata-em trai, nàng một mực tình nguyện đi theo Rama. Khi thời gian đầy ải sắp hết thì nàng Xita bị quỷ Ravana bắt cóc và cuốn nàng trong vạt áo. Rama khí đó đã chiến đấu một cách dũng cảm và cứu được Xita ra ngoài. Thế nhưng chính vì sự nghi ngờ nàng đã không còn trọn vẹn danh tiết sau những ngày sống trong tay quỷ Ravana. Lúc đó đã ruồng bơ nàng trước mặt mọi người. Không còn cách nào khác thì Xita phải bước lên trên giàn hỏa thiêu để tự vẫn. Thần lửa hiện ra đã trả lại Xita cho Rama và cả hai người về kinh đô cai quản đất nước khiến cho muôn dân được ấm no, hạnh phúc.
+### 8\. Tóm tắt văn bản Ra-ma buộc tội mẫu 8
+Ra – ma – ya – na là câu chuyện kể về những kì tích của Ra – ma, hoàng tử trưởng của nhà vua Đa – ra – xa – tha. Nhà vua muốn truyền ngôi cho Ra – ma nhưng thứ phi Ka – kê –I đố kị nhắc lại chuyện ân huệ cũ buộc nhà vua phải đày Ra – ma vào rừng 14 năm và trao lại vương quốc cho con trai bà. Ra – ma không muốn vua khó xử liền đồng ý với yêu cầu đó. Vợ chàng là nàng xì ta cùng với những người anh em thân thiết của chàng cũng đồng ý bỏ hết tất cả quyền quý để theo chàng vào rừng chịu cảnh lưu đày. Thời hạn ở rừng sắp hết thì một biến cố xảy ra, vợ chàng bị quỷ vương bắt cóc và ép nàng làm vợ của hắn nhưng Xi – ta nhất quyết cự tuyệt. Được tướng khỉ giúp đỡ, cuối cùng Ra – ma tìm ra chỗ ở của quỷ vương và cứu thoát Xi –ta. Vợ chồng gặp lại nhau nhưng Ra – ma lúc này lại nghi ngờ rằng Xi – ta không còn giữ trọn danh tiết, Ra – ma bỏ nàng. Để chứng minh sự thanh bạch của bản thân và cũng là lời giải thích cho Ra – ma, Xi – ta đã chọn cách bước lên giàn hỏa thiêu tự thiêu chính mình. Chứng giám được tấm lòng của Xi – ta, thần lửa đã cứu sống nàng, đem trả nàng cho Ra – ma. Hai vợ chồng quay lại kinh đô cai quản, trị vì đất nước.
+Xem thêm các bài Tìm bài trong mục này khác:
+  * [Tóm tắt Cảm xúc mùa thu CD](</tom-tat-cam-xuc-mua-thu-cd-277151>)
+  * [Tóm tắt Tự tình](</tom-tat-tu-tinh-cd-277157>)
+  * [Tóm tắt Câu cá mùa thu](</tom-tat-cau-ca-mua-thu-cd-277159>)
+
