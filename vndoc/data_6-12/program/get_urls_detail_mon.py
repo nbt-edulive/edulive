@@ -6,7 +6,13 @@ import os
 import json
 
 def setup_driver():
-	return webdriver.Chrome()
+    options = webdriver.ChromeOptions()
+    options.add_argument('--headless')
+    try:
+        return webdriver.Chrome(options=options)
+    except Exception as e:
+        print(f"Không thể khởi tạo driver: {e}")
+        raise
 
 def read_json_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -26,6 +32,6 @@ def crawl_urls(data, driver):
                 hrefs.append(href)
     return hrefs
 if __name__ == "__main__":
-    data = read_json_file("../data_subject/mon-van/urls_mon_van_lop12.json")
+    data = read_json_file("../data_subject/mon-toan/urls_mon_toan_lop12.json")
     driver = setup_driver()
-    save_json_file(crawl_urls(data, driver), "../data_subject/mon-van/urls_detail_mon_van_lop12.json")
+    save_json_file(crawl_urls(data, driver), "../data_subject/mon-toan/urls_detail_mon_toan_lop12.json")

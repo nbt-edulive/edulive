@@ -7737,3 +7737,58 @@ Tóm tắt:
 2025-04-14 15:09:21,949 - WARNING - The chromedriver version (134.0.6998.88) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (135.0.7049.84); currently, chromedriver 135.0.7049.84 is recommended for chrome 135.*, so it is advised to delete the driver in PATH and retry
 2025-04-14 15:09:22,678 - WARNING - The chromedriver version (134.0.6998.88) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (135.0.7049.84); currently, chromedriver 135.0.7049.84 is recommended for chrome 135.*, so it is advised to delete the driver in PATH and retry
 2025-04-14 15:09:26,141 - WARNING - The chromedriver version (134.0.6998.88) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (135.0.7049.84); currently, chromedriver 135.0.7049.84 is recommended for chrome 135.*, so it is advised to delete the driver in PATH and retry
+2025-04-14 15:26:19,549 - INFO - Bắt đầu xử lý 665 URLs...
+2025-04-14 15:26:29,786 - WARNING - Timeout khi truy cập https://vndoc.com/trac-nghiem-bai-1-tap-hop-267129, lần thử 1/3
+2025-04-14 15:26:50,062 - WARNING - Timeout khi truy cập https://vndoc.com/trac-nghiem-bai-1-tap-hop-267129, lần thử 2/3
+2025-04-14 15:27:29,825 - WARNING - Timeout khi truy cập https://vndoc.com/trac-nghiem-bai-8-quan-he-chia-het-va-tinh-chat-267786, lần thử 1/3
+2025-04-14 15:27:50,098 - WARNING - Timeout khi truy cập https://vndoc.com/trac-nghiem-bai-8-quan-he-chia-het-va-tinh-chat-267786, lần thử 2/3
+2025-04-14 15:28:53,874 - WARNING - Timeout khi truy cập https://vndoc.com/trac-nghiem-bai-18-hinh-tam-giac-deu-hinh-vuong-hinh-luc-giac-deu-270665, lần thử 1/3
+2025-04-14 15:29:14,463 - WARNING - Timeout khi truy cập https://vndoc.com/trac-nghiem-bai-18-hinh-tam-giac-deu-hinh-vuong-hinh-luc-giac-deu-270665, lần thử 2/3
+2025-04-14 15:29:39,217 - WARNING - Timeout khi truy cập https://vndoc.com/trac-nghiem-bai-21-hinh-co-truc-doi-xung-271294, lần thử 1/3
+2025-04-14 15:29:52,897 - INFO - Bắt đầu xử lý 203 URLs...
+2025-04-14 15:30:09,767 - INFO - Bắt đầu xử lý 227 URLs...
+2025-04-14 15:30:28,056 - INFO - Bắt đầu xử lý 610 URLs...
+2025-04-14 15:30:39,355 - WARNING - Timeout khi truy cập https://vndoc.com/trac-nghiem-bai-29-tinh-toan-voi-so-thap-phan-272848, lần thử 1/3
+2025-04-14 15:30:59,842 - WARNING - Timeout khi truy cập https://vndoc.com/trac-nghiem-bai-29-tinh-toan-voi-so-thap-phan-272848, lần thử 2/3
+2025-04-14 15:31:25,474 - WARNING - Timeout khi truy cập https://vndoc.com/trac-nghiem-bai-31-mot-so-bai-toan-ve-ti-so-va-ti-so-phan-tram-272859, lần thử 1/3
+2025-04-14 15:32:05,277 - WARNING - Timeout khi truy cập https://vndoc.com/toan-8-chan-troi-sang-tao-bai-1-don-thuc-va-da-thuc-nhieu-bien-295283, lần thử 1/3
+2025-04-14 15:32:24,429 - WARNING - Timeout khi truy cập https://vndoc.com/trac-nghiem-bai-4-luy-thua-voi-so-mu-tu-nhien-269382, lần thử 1/3
+2025-04-14 15:32:24,685 - WARNING - Timeout khi truy cập https://vndoc.com/toan-8-chan-troi-sang-tao-bai-2-cac-phep-toan-voi-da-thuc-nhieu-bien-295293, lần thử 1/3
+2025-04-14 15:32:48,973 - WARNING - Timeout khi truy cập https://vndoc.com/toan-8-chan-troi-sang-tao-bai-3-hang-dang-thuc-dang-nho-295390, lần thử 1/3
+2025-04-14 15:32:49,502 - WARNING - Timeout khi truy cập https://vndoc.com/toan-7-bai-2-cong-tru-nhan-chia-so-huu-ti-268642, lần thử 1/3
+2025-04-14 15:33:30,275 - WARNING - Timeout khi truy cập https://vndoc.com/toan-8-chan-troi-sang-tao-bai-6-cong-tru-phan-thuc-295416, lần thử 1/3
+2025-04-14 15:33:44,778 - WARNING - Timeout khi truy cập https://vndoc.com/toan-7-bai-tap-cuoi-chuong-1-268671, lần thử 1/3
+2025-04-14 15:34:00,779 - WARNING - Timeout khi truy cập https://vndoc.com/trac-nghiem-bai-3-phep-cong-va-phep-tru-hai-so-nguyen-270369, lần thử 1/3
+2025-04-14 15:34:01,253 - WARNING - Timeout khi truy cập https://vndoc.com/toan-7-bai-5-lam-quen-voi-so-thap-phan-vo-han-tuan-hoan-270899, lần thử 1/3
+2025-04-14 15:34:01,515 - WARNING - Timeout khi truy cập https://vndoc.com/toan-8-chan-troi-sang-tao-bai-1-hinh-chop-tam-giac-deu-hinh-chop-tu-giac-deu-295452, lần thử 1/3
+2025-04-14 15:34:02,173 - WARNING - Timeout khi truy cập https://vndoc.com/toan-9-ket-noi-tri-thuc-bai-1-khai-niem-phuong-trinh-va-he-hai-phuong-trinh-bac-nhat-hai-an-319063, lần thử 1/3
+2025-04-14 15:34:19,747 - WARNING - Timeout khi truy cập https://vndoc.com/toan-8-chan-troi-sang-tao-bai-2-dien-tich-xung-quanh-va-the-tich-cua-hinh-chop-tam-giac-deu-hinh-chop-tu-giac-deu-295456, lần thử 1/3
+2025-04-14 15:34:20,267 - WARNING - Timeout khi truy cập https://vndoc.com/toan-7-bai-6-so-vo-ti-can-bac-hai-so-hoc-270904, lần thử 1/3
+2025-04-14 15:34:20,401 - WARNING - Timeout khi truy cập https://vndoc.com/giai-toan-9-trang-6-tap-1-ket-noi-tri-thuc-319082, lần thử 1/3
+2025-04-14 15:34:36,570 - WARNING - Timeout khi truy cập https://vndoc.com/toan-7-bai-7-tap-hop-cac-so-thuc-270906, lần thử 1/3
+2025-04-14 15:34:38,535 - WARNING - Timeout khi truy cập https://vndoc.com/toan-8-chan-troi-sang-tao-bai-tap-cuoi-chuong-2-295462, lần thử 1/3
+2025-04-14 15:34:50,062 - WARNING - Timeout khi truy cập https://vndoc.com/trac-nghiem-bai-3-chu-vi-va-dien-tich-cua-mot-so-hinh-trong-thuc-tien-271268, lần thử 1/3
+2025-04-14 15:34:50,274 - WARNING - Timeout khi truy cập https://vndoc.com/giai-toan-9-trang-9-tap-1-ket-noi-tri-thuc-319090, lần thử 1/3
+2025-04-14 15:35:04,253 - WARNING - Timeout khi truy cập https://vndoc.com/toan-8-chan-troi-sang-tao-bai-1-dinh-li-pythagore-295506, lần thử 1/3
+2025-04-14 15:35:04,265 - WARNING - Timeout khi truy cập https://vndoc.com/toan-7-luyen-tap-chung-trang-37-270920, lần thử 1/3
+2025-04-14 15:35:19,300 - WARNING - Timeout khi truy cập https://vndoc.com/trac-nghiem-bai-1-thu-thap-va-phan-loai-du-lieu-271519, lần thử 1/3
+2025-04-14 15:35:20,313 - WARNING - Timeout khi truy cập https://vndoc.com/giai-toan-9-trang-10-tap-1-ket-noi-tri-thuc-319091, lần thử 1/3
+2025-04-14 15:35:25,311 - WARNING - Timeout khi truy cập https://vndoc.com/toan-8-chan-troi-sang-tao-bai-1-dinh-li-pythagore-295506, lần thử 2/3
+2025-04-14 15:35:25,465 - WARNING - Timeout khi truy cập https://vndoc.com/toan-7-luyen-tap-chung-trang-37-270920, lần thử 2/3
+2025-04-14 15:36:01,584 - WARNING - Timeout khi truy cập https://vndoc.com/giai-toan-9-trang-13-tap-1-ket-noi-tri-thuc-319177, lần thử 1/3
+2025-04-14 15:36:01,853 - WARNING - Timeout khi truy cập https://vndoc.com/toan-7-bai-9-hai-duong-thang-song-song-va-dau-hieu-nhan-biet-270995, lần thử 1/3
+2025-04-14 15:36:14,777 - WARNING - Timeout khi truy cập https://vndoc.com/toan-8-chan-troi-sang-tao-bai-5-hinh-chu-nhat-hinh-vuong-295529, lần thử 1/3
+2025-04-14 15:36:16,838 - WARNING - Timeout khi truy cập https://vndoc.com/trac-nghiem-bai-2-tinh-chat-co-ban-cua-phan-so-272446, lần thử 1/3
+2025-04-14 15:36:22,268 - WARNING - Timeout khi truy cập https://vndoc.com/giai-toan-9-trang-13-tap-1-ket-noi-tri-thuc-319177, lần thử 2/3
+2025-04-14 15:36:26,476 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/38b866ecdf5d07328068e134f41c4136
+2025-04-14 15:36:26,476 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x71038bc36590>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/38b866ecdf5d07328068e134f41c4136
+2025-04-14 15:36:26,477 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x71038bc35120>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/38b866ecdf5d07328068e134f41c4136
+2025-04-14 15:36:28,473 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/7d94debd79785f1a74e614994c372ff3
+2025-04-14 15:36:28,473 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7614cc3587c0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/7d94debd79785f1a74e614994c372ff3
+2025-04-14 15:36:28,474 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7614cc358910>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/7d94debd79785f1a74e614994c372ff3
+2025-04-14 15:36:29,337 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/1ccffea0c31273da4ac012ffef84251b
+2025-04-14 15:36:29,338 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7dc75e087ac0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ccffea0c31273da4ac012ffef84251b
+2025-04-14 15:36:29,338 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7dc75e087c10>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ccffea0c31273da4ac012ffef84251b
+2025-04-14 15:36:30,211 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/24c55ecd8145d66286f3cf07801574a2
+2025-04-14 15:36:30,212 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7e8178ca61a0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/24c55ecd8145d66286f3cf07801574a2
+2025-04-14 15:36:30,212 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7e8178ca62f0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/24c55ecd8145d66286f3cf07801574a2
