@@ -1,0 +1,34 @@
+---
+url: https://vndoc.com/tom-tat-thuong-nho-mua-xuan-306626
+title: Tóm tắt Thương nhớ mùa xuân - Tóm tắt Văn 11 Cánh diều - VnDoc.com
+date_extracted: 2025-04-14 15:00:58
+description: VnDoc.com xin gửi tới bạn đọc bài viết Tóm tắt Thương nhớ mùa xuân. Mời các bạn cùng tham khảo chi tiết.
+keywords: Tóm tắt ngữ văn 11 Cánh diều,ngữ văn 11 Cánh diều,tóm tắt ngữ văn 11,tóm tắt văn 11,tóm tắt văn 11 Cánh diều,ngữ văn 11,văn 11,văn 11 cánh diều,Tóm tắt Thương nhớ mùa xuân,Tóm tắt bài Thương nhớ mùa xuân,Tóm tắt ngữ văn 11 cánh diều bài Thương nhớ mùa xuân,Tóm tắt nội dung chính bài Thương nhớ mùa xuân,Thương nhớ mùa xuân
+---
+
+# Tóm tắt Thương nhớ mùa xuân
+ _Tóm tắt Văn 11 Cánh diều_
+## Tóm tắt bài Thương nhớ mùa xuân
+  * Tóm tắt Thương nhớ mùa xuân mẫu 1
+  * Tóm tắt Thương nhớ mùa xuân mẫu 2
+  * Tóm tắt Thương nhớ mùa xuân mẫu 3
+  * Tóm tắt Thương nhớ mùa xuân mẫu 4
+  * Tóm tắt Thương nhớ mùa xuân mẫu 5
+
+[Tóm tắt Thương nhớ mùa xuân](<https://vndoc.com/tom-tat-thuong-nho-mua-xuan-306626>) được VnDoc.com sưu tầm và xin gửi tới bạn đọc cùng tham khảo để có thêm tài liệu [Tóm tắt Ngữ văn 11 Cánh diều](<https://vndoc.com/tom-tat-ngu-van-11-canh-dieu>). Mời các bạn cùng theo dõi bài viết dưới đây.
+## Tóm tắt Thương nhớ mùa xuân mẫu 1
+“Thương nhớ mùa xuân” là tác phẩm được khắc họa khung cảnh mùa xuân và miêu tả nó một cách chân thực và tuyệt đẹp. Tác giả đã bộc lộ nỗi nhớ về Hà Nội qua cách miêu tả cảnh sắc thiên nhiên cùng đời sống sinh hoạt của con người nơi đây. Dù đã xa quê nhưng những kí ức về quê hương là thứ mà không bao giờ phai mờ.
+## Tóm tắt Thương nhớ mùa xuân mẫu 2
+Tác phẩm “Thương nhớ mùa xuân” được Vũ Bằng sáng tác vô cùng nổi bật, khắc họa tình yêu, một tình yêu nồng nàn mình dành cho mùa xuân, dành cho tháng Giêng, tháng giêng là tháng đầu của mùa xuân, người ta càng trìu mến, không có gì lạ hết. Nhớ về mùa xuân của đất Bắc, của Hà Nội là những cảnh sắc thiên nhiên và đời sống sinh hoạt của người thủ đô lại hiện rất rõ trong tâm trí của người con xa quê: “Mùa xuân của tôi - mùa xuân Bắc Việt, mùa xuân của Hà Nội - là mùa xuân có mưa riêu riêu, gió lành lạnh, có tiếng nhạn kiêu trong đêm xanh, có tiếng trống chèo vọng lại từ những thôn xóm xa xa, có câu hát huê tình của cô gái đẹp như thơ mộng...” Với giọng văn nhẹ nhàng, du dương, trầm bổng Vũ Bằng đã đưa độc giả lạc vào thế giới hồi ức miên man, dạt dào cảm xúc. Nhà văn đã nhắc đi nhắc lại như một lời tỏ tình thiết tha mà say đắm: “Mùa xuân của tôi... mùa xuân thần thái của tôi...” Qua đó càng chứng tỏ tình yêu mùa xuân đã thấm đẫm vào sâu tâm hồn, máu thịt của người con đất Bắc. Để một lần nữa nhấn mạnh sức sống dẻo dai, mãnh liệt và sự cuốn hút lạ kì của mùa xuân, tác giả đã sử dụng cách nói cường điệu dù vậy nhưng vẫn thật tự nhiên làm sao. Mùa xuân đến, mang theo bao vui tươi cùng cái không khi ấm áp, xe xe lạnh, làm cho con người ta thấy tràn đầy cả sức sống, dường như được trẻ ra bao nhiêu. Đó cũng là thông điệp của tác giả nói về vẻ đẹp của mùa xuân quê hương từ đó thêm yêu và gắn bó với quê hương yêu dấu.
+## Tóm tắt Thương nhớ mùa xuân mẫu 3
+Vũ Bằng, một nhà văn và nhà báo người Việt, sinh vào năm 1913 và đã ra đi mãi mãi. Ông đã bắt đầu sáng tác trước Cách mạng tháng Tám năm 1945, và nổi tiếng với sở trường về thể loại bút kí, tùy bút và truyện ngắn. Tác phẩm “Thương nhớ mùa xuân" thể hiện niềm nhớ thương da diết về quê hương và gia đình. Với cách viết tùy bút chân thực và cụ thể, ông đã biểu lộ tình cảm thiêng liêng đó. Văn bản được trích từ tập Thương nhớ mười hai, trong đó tác giả đã gửi nỗi niềm nhớ thương quê vào từng trang  sách, dù đất nước đang bị chia cắt và ông phải sống trong vùng kiểm soát của Mĩ - ngụy. Nhớ về mùa xuân của đất Bắc, của Hà Nội, Vũ Bằng đã tả lại những cảnh sắc thiên nhiên và đời sống sinh hoạt của người thủ đô một cách rõ ràng trong tâm trí của người con xa quê. Giọng văn nhẹ nhàng, du dương, trầm bổng của ông đã đưa độc giả lạc vào thế giới hồi ức miên man, dạt dào cảm xúc. Ông đã nhắc đi nhắc lại như một lời tỏ tình thiết tha mà say đắm: “Mùa xuân của tôi... mùa xuân thần thái của tôi...” Qua đó, ông chứng tỏ tình yêu mùa xuân đã thấm đẫm vào sâu tâm hồn, máu thịt của người con đất Bắc.
+## Tóm tắt Thương nhớ mùa xuân mẫu 4
+Tác phẩm này được viết trong thời gian tác giả đang xa cách quê hương đất Bắc. Với tình cảm tha thiết và nỗi nhớ nhung da diết về quê hương, tác giả đã vẽ lại bức tranh mùa xuân miền Bắc thật đẹp và bình yên. Mùa xuân của đất Bắc hiện lên với những nét đặc trưng tiêu biểu của vùng miền, như tiết trời se se, cảnh vật trong lành và những cơn mưa xuân riêu riêu. Hơn thế nữa, tác giả đã miêu tả những phong tục tập quán của con người trong những ngày Xuân. Tình yêu quê hương đến mức coi quê hương là một phần trong cơ thể sống đã nuôi dưỡng tác giả. Ông say xưa, đắm mình trong những khoảnh khắc khi nhắc về quê, và những giây phút quây quần bên gia đình mỗi độ xuân về. Tác giả đặc biệt bộc lộ tình cảm thương mến, yêu da diết nhất mùa xuân ở thời điểm sau rằm tháng giêng, khi mọi thứ mang một vẻ riêng của nó, của tiết trời và của những cơn mưa chuyển mình. Dần dần, mọi thứ nhường chỗ cho cuộc sống thường nhật, nhưng tình yêu với mùa xuân và quê hương vẫn mãi trong tâm hồn tác giả. Tác giả đã bày tỏ những tình cảm của mình qua những câu văn nồng nàn và tha thiết: "Đẹp quá đi, mùa xuân ơi – mùa xuân của Hà Nội thân yêu, của Bắc Việt thương mến". Câu văn này cho thấy tình yêu và tâm hồn mãnh liệt của tác giả dành cho quê hương và mùa xuân miền Bắc. Tác phẩm này là một tình khúc ca ngợi tình yêu quê hương và mùa xuân, là một tình ca thắm thiết của một con người đối với quê hương và tuổi xuân của mình.
+## Tóm tắt Thương nhớ mùa xuân mẫu 5
+Bức tranh về mùa xuân trong tác phẩm của Vũ Bằng tỏa sáng với tình yêu đong đầy, là một tình yêu dành cho mùa xuân, cho tháng Giêng - tháng đầu của mùa xuân. Mùa xuân của Hà Nội hiện lên trong lòng người con xa quê với những hình ảnh tươi đẹp của thiên nhiên và cuộc sống sinh hoạt: 'Mùa xuân của tôi - mùa xuân Bắc Việt, mùa xuân Hà Nội - là mùa xuân mưa nhẹ nhàng, gió se lạnh, tiếng nhạn kêu trong đêm xanh, tiếng trống vang vọng từ những ngôi làng xa xăm, giọng hát của cô gái trẻ đẹp như tranh thơ mộng...' Văn phong nhẹ nhàng, du dương của Vũ Bằng đã đưa người đọc vào thế giới của ký ức, cảm xúc dồn dập. Nhà văn đã lặp lại như một lời tâm sự, một lời tỏ tình mê đắm: 'Mùa xuân của tôi... mùa xuân thiên thần của tôi...' Thông điệp về vẻ đẹp của mùa xuân quê hương được tác giả nhấn mạnh, làm cho tình yêu và tương thân với quê hương ngày càng sâu đậm.
+**Bài tiếp theo:**[Tóm tắt Vào chùa gặp lại](<https://vndoc.com/tom-tat-vao-chua-gap-lai-306627>)
+Xem thêm các bài Tìm bài trong mục này khác:
+  * [Vào chùa gặp lại](</tom-tat-vao-chua-gap-lai-306627>)
+  * [Ai đã đặt tên cho dòng sông](</tom-tat-ai-da-dat-ten-cho-dong-song-canh-dieu-306628>)
+  * [Bánh mì Sài Gòn](</tom-tat-banh-mi-sai-gon-306629>)
+

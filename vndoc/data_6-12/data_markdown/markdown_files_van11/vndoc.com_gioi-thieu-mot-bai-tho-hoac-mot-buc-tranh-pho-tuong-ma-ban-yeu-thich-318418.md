@@ -1,0 +1,173 @@
+---
+url: https://vndoc.com/gioi-thieu-mot-bai-tho-hoac-mot-buc-tranh-pho-tuong-ma-ban-yeu-thich-318418
+title: Giới thiệu một bài thơ hoặc một bức tranh, pho tượng mà bạn yêu thích - VnDoc.com
+date_extracted: 2025-04-14 14:42:18
+description: VnDoc.com xin gửi tới bạn đọc bài viết Giới thiệu một bài thơ hoặc một bức tranh, pho tượng mà bạn yêu thích. Mời các bạn cùng theo dõi chi tiết bài viết dưới đây.
+keywords: Văn mẫu 11,Ngữ văn 11,Giới thiệu một bài thơ hoặc một bức tranh pho tượng mà bạn yêu thích,hãy giới thiệu một bài thơ hoặc một bức tranh,pho tượng mà bạn yêu thích,Giới thiệu về một bài thơ hoặc một bức tranh,Giới thiệu một bài thơ hoặc một bức tranh pho tượng,Giới thiệu một bài thơ hoặc một bức tranh hoặc pho tượng mà bạn yêu thích,văn mẫu 11 chân trời sáng tạo
+---
+
+# Giới thiệu một bài thơ hoặc một bức tranh, pho tượng mà bạn yêu thích
+## Hãy giới thiệu một bài thơ hoặc một bức tranh, pho tượng mà bạn yêu thích
+  * 1\. Dàn ý Giới thiệu một bài thơ hoặc một bức tranh, pho tượng mà bạn yêu thích
+  * 2\. Giới thiệu một bài thơ hoặc một bức tranh, pho tượng mà bạn yêu thích mẫu 1
+  * 3\. Giới thiệu một bài thơ hoặc một bức tranh, pho tượng mà bạn yêu thích mẫu 2
+  * 4\. Giới thiệu một bài thơ hoặc một bức tranh, pho tượng mà bạn yêu thích mẫu 3
+  * 5\. Giới thiệu một bài thơ hoặc một bức tranh, pho tượng mà bạn yêu thích mẫu 4
+  * 6\. Giới thiệu một bài thơ hoặc một bức tranh, pho tượng mà bạn yêu thích mẫu 5
+
+[Giới thiệu một bài thơ hoặc một bức tranh, pho tượng mà bạn yêu thích](<https://vndoc.com/gioi-thieu-mot-bai-tho-hoac-mot-buc-tranh-pho-tuong-ma-ban-yeu-thich-318418>) được VnDoc.com tổng hợp và xin gửi tới bạn đọc cùng tham khảo. Mời các bạn cùng theo dõi để có thêm tài liệu học [Ngữ văn 11 Chân trời sáng tạo](<https://vndoc.com/ngu-van-11-chan-troi-sang-tao>) nhé.
+## 1\. Dàn ý Giới thiệu một bài thơ hoặc một bức tranh, pho tượng mà bạn yêu thích
+**Mở bài**
+Giới thiệu chung về bài thơ và xác định vấn đề sẽ được tập trung bàn luận trong bài viết.
+**Thân bài**
+Cần triển khai các ý:
+\- Cảm giác chung mà cấu tứ cùng những hình ảnh và cách diễn tả khác lạ trong bài thơ đã gợi cho người đọc.
+\- Sự khác biệt của bài thơ này so với các bài thơ khác trên phương diện xây dựng hệ thống hình ảnh và tạo sự kết nối giữa các bộ phận cấu tạo trong bài thơ \(thực hiện những so sánh cần thiết để chỉ ra được sự khác biệt\).
+\- Những khả năng hiểu \(cắt nghĩa\) khác nhau đối với một số yếu tố, hình ảnh trong bài thơ 9 \(cần nêu cụ thể\).
+\- Điều được làm sáng tỏ qua việc đọc thăm dò và thử nghiệm các cách đọc khác nhau đối với bài thơ.
+\- Sự gợi mở về cách nhìn mới đối với thế giới và con người được đề xuất từ mạch ngầm văn bản bài thơ.
+**Kết bài**
+Khẳng định lại sự độc đáo của bài thơ và ý nghĩa của nó đối với việc đem lại cách nhìn, cách đọc mới cho đọc giả.
+## 2\. Giới thiệu một bài thơ hoặc một bức tranh, pho tượng mà bạn yêu thích mẫu 1
+Hồ Chí Minh sáng tác bài thơ “Mộ” năm 1942, trong hoàn cảnh vô cùng đặc biệt đó là khi nhà thơ bị giải từ nhà lao Tĩnh Tây đến Thiên Bảo. Trong suốt thời gian bị đày ải bởi chính quyền Tưởng Giới Thạch người lính khổ sai Nguyễn Tất Thành thường xuyên bị áp giải từ nhà lao này đến nhà lao khác. Trong hoàn cảnh đặc biệt đó người bình thường chắc chỉ thấy tiếng kêu rên ai oán số phận, còn với Bác người lính cách mạng có tinh thần thép thì đó chỉ là cái cớ để tâm hồn thi sĩ vút cao lên thành những áng văn thơ trữ tình dạt dào cảm xúc. Chẳng thế mà toàn bài thơ chúng ta không thấy bất kỳ hình ảnh đau khổ của người tù mà chỉ thấy khung cảnh thiên nhiên, con người nơi miền sơn cước vô cùng bình dị, quen thuộc với cuộc sống lao động thường nhật.
+Mở đầu bài thơ miêu tả bức tranh thiên nhiên đặc trưng của buổi chiều tối:
+"Quyện điểu quy lâm tầm túc thụ
+Cô vân mạn mạn độ thiên không"
+Ánh mặt trời dần tắt hẳn, màn đêm chuẩn bị bao trùm lấy cảnh vật, đây là thời khắc con người, vạn vật sinh linh trên trái đất đều mệt mỏi và muốn tìm về với chốn bình yên để nghỉ ngơi. Đầu tiên là hình ảnh của chú chim đang mỏi cánh trên bầu trời, cánh chim ấy đã vất vả sau một ngày dài kiếm ăn khắp chốn, giờ là lúc nó tìm về với bóng cây, chốn yên bình để ngủ. Câu thơ thứ hai vẫn là nét chấm phá cảnh vật của thiên nhiên với hình ảnh của “cô vân”. Cô vân là chòm mây cô đơn, kết hợp với từ láy “mạn mạn” tức là trôi nhẹ, lơ lửng, vô định trên bầu trời. Chòm mây cô đơn lạc trôi trên bầu trời khá tương đồng với hoàn cảnh của người tù khổ sai, cô đơn, lạc lõng nơi đất khách quê người. Trong lòng vẫn luôn đau đáu một ngày được trở về với đồng bào, quê hương.
+Hai câu thơ sử dụng thủ pháp đối khá quen thuộc trong thơ thất ngôn tứ tuyệt Đường luật, đối giữa “cô vân” và “quyện điểu” để tạo nên một bức tranh thiên nhiên cân xứng, hài hòa. Một vài nét chấm phá đơn giản nhưng đã tạo nên một bức tranh thiên nhiên thật hữu tình, nên thơ.
+Hai câu thơ sau là hình ảnh của con người, con người của cuộc sống lao động hiện ra thông qua những nét vẽ thật khỏe khoắn, rắn rỏi:
+"Sơn thôn thiếu nữ ma bao túc
+Bao túc ma hoàn lô dĩ hồng"
+Hình ảnh cô gái xóm núi đang xay ngô chuẩn bị cho bữa cơm tối xuất hiện trong bài thơ là một nét vẽ bất ngờ nhưng rất hợp lý. Nó được cảm nhận thông qua cái nhìn của người tù khổ sai, nó mang một sức sống thật mạnh mẽ, tiềm tàng. Động tác xay ngô của cô gái nhịp nhàng, khỏe khoắn, từng vòng quay của chiếc cối đều, dứt khoát, “ma bao túc” rồi lại” bao túc ma hoàn”; phép lặp từ trong hai câu thơ nhấn mạnh sự cần mẫn, chăm chỉ của người lao động trong cuộc sống thường nhật, qua đó thể hiện cái nhìn trân trọng của thi sĩ dành cho con người nơi đây. Đặc biệt là hình ảnh “lô dĩ hồng” xuất hiện ở cuối bài thơ, đó là một nhãn tự có sức nặng cân cả bài thơ. Chữ hồng xuất hiện đã xua tan không khí lạnh giá nơi xóm núi hoang sơ, nó như tiếp thêm sức sống và sức mạnh cho người tù khổ sai trên con đường đi tìm lối thoát cho dân tộc. Chữ “hồng” cũng thể hiện chất thép vốn rất đặc trưng trong tập “Nhật ký trong tù”. Nó cũng khẳng định vẻ đẹp vừa cổ điển vừa hiện đại trong thơ của Hồ Chủ Tịch.
+Bài thơ khép lại một cách bất ngờ nhưng hết sức tự nhiên, trọn vẹn. Thông qua bài thơ “Mộ” chúng ta cảm nhận vẻ đẹp của nghị lực phi thường, tinh thần mạnh mẽ không lên gân, không khoa trương mà giản dị, khiêm nhường trong thơ của Hồ Chí Minh.
+## 3\. Giới thiệu một bài thơ hoặc một bức tranh, pho tượng mà bạn yêu thích mẫu 2
+Nguyễn Công Trứ \(1778 - 1858\) là nhà thơ lớn của dân tộc ta trong nửa đầu thế kỉ XIX. Văn chương lỗi lạc, có tài kinh bang tế thế, lưu danh sử sách. Lúc sống cuộc đời một hàn sĩ, lúc cầm quân chinh chiến, lúc làm lính thú, lúc làm đại quan. Vinh nhục đã từng, thăng trầm đã trải, nhưng lúc nào ông cũng hăm hở chí nam nhi, sòng phẳng với nợ tang bồng, sống vì một khát vọng phi thường:
+"Đã mang tiếng ở trong trời đất,  
+Phải có danh gì với núi sông".
+Sự nghiệp văn chương của Nguyễn Công Trứ vô cùng rạng rỡ, cho thấy một cá tính sáng tạo rất độc đáo được thể hiện tuyệt đẹp qua bài phú Nôm "Hàn nho phong vị phủ", và trên 60 bài thơ hát nói cực kì tài hoa. "Bài ca ngất ngưởng" là một trong những bài thơ hát nối kiệt tác trong nền thơ ca dân tộc. Bài hát nói này có hai khổ dôi tất cả có 19 câu thơ đầy vần điệu, nhạc điệu trầm bổng, réo rắt, lúc khoan thai, lúc hào hùng, đọc lên nghe rất thú vị. Hắt nói là một thể thơ dân tộc, có bố cục chặt chẽ, chất thơ, chất nhạc kết hợp rất hài hòa, hấp dẫn.
+Nguyễn Công Trứ về chí sĩ năm 1848, sau gần 30 năm làm quan với Chiểu Nguyễn. Bài thơ "Bài ca ngất ngưởng" được ông viết sau khi đã về trí sĩ tại quê nhà. Bài thơ vang lên như một lời tự thuật về cuộc đời, qua đó ông Hi Văn tự hào về tài năng, đức độ và công danh của mình, biểu lộ một cá tính, một phong cách sống tài tử, phóng khoáng ở đời.
+"Ngất ngưởng" nghĩa là không vững, ở chỗ cheo leo dễ đổ, dễ rơi \(Từ điển tiếng Việt\). Trong bài thơ này nên hiểu "ngất ngưởng" là một con người khác đời, một cách sống khác đời và bất chấp mọi người. Và ngất ngưởng đã được Nguyễn Công Trứ nâng lên thành bài ca, thành điệu tâm hồn với tất cả niềm tự hào và sự say sưa hiếm thấy.
+Khổ đầu cất cao một tiếng nói, một lời tuyên ngôn của đấng nam nhi, đấng tài trai. Rất trang trọng và hào hùng: "Vũ trụ nội mạc phi phận sự" — mọi việc trong vũ trụ chằng có việc nào không là phận sự của ta. Một cách nói phủ định để khẳng định tâm thế của một nhà nho chân chính. Mà đâu chỉ có một lần? Lúc thì ông viết: "Vũ trụ giai ngô phận sự" \(Những việc trong vũ trụ đểu thuộc phận sự của ta ~-Nợ tang bồng; "Vũ trụ chức phận nội" \(Việc trong vũ trụ là chức phận của ta - Gánh trung hiếu\). Có cái tâm thế ấy, chính vì "Ông Hi Văn tài bộ đã vào lồng". Hi Văn là biệt hiệu của Nguyễn Công Trứ. "Tài bộ" là tài năng lớn, nhiều tài năng. Chữ "lồng" trong câu thơ có nhiều cách hiểu khác nhau. "Vào lồng là vào khuôn phép vua chúa cái nơi chật hẹp, tù túng trái với cái tài đội trời đạp đất của ông" \(Lê Trí Viễn\). Có người lại giải thích: "lồng là trời đất, vũ trụ". Nguyễn Công Trứ đã nhiều lần nói: "Đã mang tiếng ở trong trời đất", hoặc "Chẳng công danh chi đứng giữa trần hoàn" \(trần hoàn: cõi đời, cõi trần\). Cách hiểu thứ hai hợp lí hơn, vì có vào lồng vũ trụ thì mới có ý chí đấu tranh, như ông nói:
+"Chí làm trai nam bắc tây đông,  
+Cho phí sức vẫy vùng trong bốn bể".
+Sau khi đã xưng danh, nhà thơ tự khẳng định tâm thế mình, "tài bộ" mình, chí nam nhi của mình mang tầm vóc vũ trụ.
+Ông Hi Văn là một người có thực tài và thực danh. Học hành thi cử, ông dám thí thố với thiên hạ: "Cái nợ cầm thư phải trả xong". Năm 1819, Nguyễn Công Trứ đỗ Thủ khoa trường Nghệ An. Làm quan võ, giữ chức Tham tán; làm quan văn, là Tổng đốc Đông \(Hải Dương và Quảng Yên\). Tiếng tăm lẫy lừng "Làm nên đấng anh hùng đâu đấy tỏ" \("Chí anh hùng"\). Đứng trên đỉnh cao danh vọng bời có văn võ toàn tài, bởi có "gồm thao lược", và chính lúc đó ông Hi Văn mới trở thành "tay ngất ngưởng", một con người hơn đời và hơn thiên hạ. Câu thơ với cách ngắt nhịp \(3-3-4-3-3-2\), ba lần điệp lại chữ "khi" đã tạo nên một giọng điệu hào hùng, thể hiện một cốt cách phi thường, một chí khí vô cùng mạnh mẽ:
+"Khi Thủ khoa\! khi Tham tán \! khi Tổng đốc Đông,  
+Gồm thao lược \! đã nên tay \! ngất ngưởng".
+Bốn câu tiếp theo \(khổ giữa\), ý thơ mở rộng, tác giả tự hào, khẳng định mình là một con người, một kẻ sĩ có tài kinh bang tế thế. Thời loạn thì xông pha trận mạc, giữ trọng trách trước ba quân: "Bình Tây cờ Đại tướng". Thời bình thì giúp nước giúp vua, làm "Phủ doãn Thừa Thiên". Đó là năm 1847, Nguyễn Công Trứ đã lên tới đỉnh cao nhất danh vọng. Ông đã từng nói: "Lúc làm Đại tướng, ta chẳng lấy thế làm vinh, lúc làm lính thú, ta cũng chẳng lấy thế làm nhục". Sau 30 năm làm quan, Nguyễn Công Trứ về chí sĩ ở quê nhà, năm đó, ông vừa tròn 70 tuổi \(1848\):
+"Đô môn giải tổ chi niên,  
+Đạc ngựa bò vàng đeo ngất ngưởng".
+Trở lại đời thường, cụ Thượng Trứ đã hành động một cách ngược đời, hình như để giễu đời với tất cả sự ngất ngưởng. Vị đại quan thuở nào "ngựa ngựa xe xe" nay chỉ cưỡi bò vàng và cho bò đeo đạc ngựa. Cả người và bò vàng đều ngất ngưởng. Như một sự thách đố với "miệng thế". Cho đến nay dân gian vẫn cười và truyền tụng bài thơ đề vào chiếc mo cau của ông Hi Văn thuở nào:
+"Xuống ngựa, lên xe, nọ tưởng nhàn.  
+Lợm mùi giáng chức với thăng quan.  
+Điền viên dạo chiếc xe bò cái,  
+Sẵn tấm mo che miệng thế gian".
+Tám câu tiếp theo trong hai khổ dôi nói lên một cách sống ngất ngưởng. Xưa kia là một vị đại thần, một danh tướng — "tay kiếm cung" — thế mà nay sống cuộc đời hiền lành, bình dị "nên dạng từ bi". Đi vãn cảnh chùa, đi thăm thú những danh lam thắng cảnh "Kìa núi nọ phau phau mây trắng", ông đã mang theo "một đôi dì", nhũng nàng hầu xinh đẹp với "gót tiên đủng đỉnh"...
+"Kìa núi nọ phau phau mây trắng,  
+Tay kiếm cung mà nên dạng từ bi.  
+Gót tiên theo đủng đỉnh một đôi dì.  
+Bụt cũng nực cười ông ngất ngưởng..."
+Ông đã sống hết mình và chơi cũng hết mình. "Bụt cũng nực cười ông ngất ngưởng" là một tứ thơ độc đáo. Câu thơ tự trào gợi ít nhiều hóm hỉnh. Bụt cười, hay thiên hạ cười? Hay ông Hi Văn tự cười mình? Đã thoát vòng danh lợi rồi, thì chuyện "được, mất" là lẽ đời, như tích "Thất mã tái ông" mà thôi, cũng chẳng bận tâm làm gì\! Chuyện "khen, chê" của thiên hạ, xin bỏ ngoài tai, như ngọn gió đông \(xuân\) phơi phới thổi qua. Có bản lĩnh, có tự tin về tài đức của mình mới có thái độ phủ định như thế, dám sống vượt lên trên mọi thế tục. Có biết Nguyễn Công Trứ là một nhà nho được đào luyện nơi cửa Khổng sân Trình, một vị đại quan của triều Nguyễn thì mới thấy được một phần nào cá tính cốt cách đời, một nhân cách khác đời, rất phóng túng, phong tình và tài tình hiếm thấy của ông. Không quan tâm đến chuyện "được, mất", bỏ ngoài tai mọi lời thị phi, khen chê, ông đã sống một cách an nhiên, hồn nhiên, vô cùng thảnh thơi, vui thú. Tuy ngất ngưởng mà trong sạch, thanh cao. Đây là hai câu thơ tuyệt hay trong "Bài ca ngất ngưởng":
+"Khi ca / khi tửu / khi cắc / khi tùng /  
+Không Phật / không Tiên / không vướng tục".
+Cách ngắt nhịp 2, nghệ thuật hòa thanh \(bằng, trắc\), lối nhấn, lối diễn tả trùng điệp \(khi... không..,\) đã tạo cho câu thơ phong phú về nhạc điệu, biểu lộ một phong thái ung dung, yêu đời, ham sống, thanh cao chẳng vướng chút bụi trần. Có đọc to và hát lên, có lắng nghe tiếng đàn đáy, nhịp phách, tiếng trống chầu, ta mới cảm được chất thơ, chất nhạc hoà quyện trong những vần thơ đẹp như thế\! Đúng là ngất ngưởng mà tài hoa, tài tử.
+Khổ xếp của bài hát nói chỉ có 3 câu. Câu cuối gọi là câu keo chỉ có 6 từ. Nên ghi đúng như văn bản 'Tuyển tập thơ ca trù" - NXB Văn học 1987 mới đúng thi pháp:
+"Chẳng Trái, Nhạc cũng vào phường Hàn, Phú,  
+Nghĩa vua, tôi cho vẹn đạo sơ chung,  
+Trong triều ai ngất ngưởng như ông\!"
+Nguyễn Công Trứ tự hào khẳng định mình là một danh thần thuỷ chung, trọn vẹn "nghĩa vua tôi". Ông đã viết trong bài "Nợ tang bồng":
+"Chí tang bồng hẹn với giang san,  
+Đường trung hiếu, chữ quân thân là gánh vác".
+Tài năng, công danh mà Nguyễn Công Trứ để lại cho đất nước và nhân dân có kém gì Trái Tuân, Nhạc Phi, Hàn Kì, Phú Bật - những anh tài đời Hán, đời Tống bên Trung Quốc. Hai so sánh gần xa, trong ngoài, phương Bắc và phương Nam, tác giả đã kết thúc bài hát nói bằng một tiếng "ông" đĩnh đạc, hào hùng: "Trong triều ai ngất ngưởng như ông\!". Cái bản ngã phi thường của nhà thơ đã được phô bày cực độ.
+Tóm lại, với Nguyễn Công Trứ, thì phải có thực tài, thực danh, phải "vẹn đạo vua tôi" mới trở thành "tay ngất ngưởng", "ông ngất ngưởng" được. Và cách sống ngất ngưởng của Nguyễn Công Trứ thể hiện chất tài hoa, tài tử, không ô trọc, không vướng tục", cũng không thoát li. Ngất ngưởng thế mới sang trọng.
+Cái nhan đề, thi đề "Bài ca ngất ngưởng" của ông Hi Văn rất độc đáo. Cách bộc lộ bản ngã của nhà thơ cũng rất độc đáo. Một thế kỉ sau, thi sĩ Tản Đà cũng có nhiều bài thơ hát nói, thơ trường thiên đậm đặc chất "ngông". Một đằng ngất ngưởng mà tài danh, một đằng ngông mà chán đời và lãng mạn.
+Thơ hát nói của Nguyễn Công Trứ đạt đến đỉnh cao nghệ thuật. Các câu thơ chữ Hán đem lại sự bề thế, uyên bác. Chất thơ, chất nhạc phối hợp hài hòa, lôi cuốn, hấp dẫn.
+Trong nền thi ca cổ điển Việt nam, Nguyễn Công Trứ, Cao Bá Quát, Dương Khuê, Nguyễn Khuyến, Tản Đà là những nhà thơ cự phách để lại một số bài hát nói tuyệt tác. Nguyễn Công Trứ đã tạo nên một giọng điệu mạnh mẽ, hào hùng, chất tài tử hòa nhập với chí anh hùng, nợ tang bồng, chí nam nhi. Đó là phong cách nghệ thuật, là cốt cách, là bản sắc thơ hát nói của Nguyễn Công Trứ. "Bài ca ngất ngưởng" đích thực là "Bài ca từ đáy lòng" của ông Hi Văn cho ta nhiều thú vị.
+## 4\. Giới thiệu một bài thơ hoặc một bức tranh, pho tượng mà bạn yêu thích mẫu 3
+“Cảnh khuya” nằm trong số những bài thơ trữ tình đặc sắc, bài thơ viết vào thời điểm cuộc kháng chiến chống thực dân Pháp diễn ra vô cùng ác liệt, Bác Hồ đã viết bài thơ “Cảnh khuya” trong hoàn cảnh đó.
+“Tiếng suối trong như tiếng hát xa,
+Trăng lồng cổ thụ, bóng lồng hoa.
+Cảnh khuya như vẽ người chưa ngủ,
+Chưa ngủ vì lo nỗi nước nhà”.
+\(1947 – Hồ Chí Minh\)
+Bài thơ miêu tả cảnh khuya núi rừng một đêm trăng, nói lên những suy tư lo lắng của Bác Hồ đối với vận mệnh của dân tộc. Hai câu đầu làm hiện lên trước mắt người đọc một bức tranh sơn thủy về cảnh suối rừng, trăng ngàn Việt Bắc. Nhà thơ thao thức lắng nghe tiếng suối chảy rì rầm, êm nhẹ và trong trẻo từ rừng sâu vọng đến: “Tiếng suối trong như tiếng hát xa”.
+Suối là vẻ đẹp chốn lâm quyền, vẻ đẹp rừng già Việt Bắc. Bác lấy tiếng suối so sánh với tiếng hát, là khúc nhạc rừng ví với tiếng hát xa, êm ái, ngọt ngào của con người, làm cho cảnh khuya chiến khu trở nên gần gũi, mang hơi ấm cuộc đời. Câu thơ làm ta liên tưởng đến tiếng suối trong bài “Côn Sơn ca” của Ức Trai hơn 600 năm về trước:
+“Côn Sơn suối chảy rì rầm
+Ta nghe như tiếng đàn cầm bên tai…”
+Hai hồn thơ trở nên gần gũi, thân thiết. Nguyễn Trãi đã về Côn Sơn “quê cũ” để xa lánh bụi trần, danh lợi, lấy suối đá thông trúc làm bầu bạn. Bác Hồ cũng đến chốn lâm tuyền Việt Bắc, xây dựng chiến khu đánh Pháp. Suối trở thành bài ca câu hát nâng đỡ tâm hồn Bác trong những năm dài kháng chiến gian khổ.
+Tả suối, nghệ thuật của Bác thật điêu luyện: Lấy cái động \(tiếng suối chảy\) để miêu tả cái tĩnh \(Cảnh khuya\) làm nổi bật sự thanh vắng, tĩnh lặng của chiến khu một đêm trăng. Càng về khuya, núi rừng như chìm trong vắng lặng mênh mông. Bác “chưa ngủ” nên mới nghe rõ âm thanh rì rầm suối chảy. Câu thứ hai tả trăng ngàn: “Trăng lồng cổ thụ bóng lồng hoa”.
+Hai vế tiểu đối gợi lên cảnh đẹp hài hòa của cảnh vật thiên nhiên. Trăng được nhân hóa, rất thơ mộng “lồng” vào cổ thụ, bóng cổ thụ lại “lồng” vào hoa. Cảnh thiên nhiên trở nên hữu tình, huyền ảo. Chữ “lồng” được láy hai lần, chất thơ trữ tình mang hồn người, quyến rũ. Ánh trăng trải khắp núi rừng, dát vàng xuống rừng cây, “lồng” và trùm lên cổ thụ. Cảnh rừng có tầng cao, tầng thấp, có mảnh sáng, mảnh mờ. Nét vẽ tinh tế, gam màu nhẹ và tươi mát, sự phối sắc tài tình, mĩ cảm, hấp dẫn.
+Nếu như ở hai câu thơ đầu Bác chỉ miêu tả về thiên nhiên thì đến hai câu thư cuối ta thấy được hình ảnh một vị lãnh tụ đang trằn trọc không ngủ. Hai câu thơ cho chúng ta hiểu rõ thêm được tâm hồn yêu thiên nhiên của Bác nhưng cũng chính thiên nhiên lại khiến cho tâm hồn ấy trằn trọc chẳng thể nào ngủ nổi vì thiên nhiên mà nỗi lo cho đất nước càng dâng cao khiến cho vị lãnh tụ không thể nào chợp mắt. Giữa vầng trăng sáng vằng vặc giữa cảnh khuya trong trẻo có một người đang thao thức không yên .Người hòa mình vào thiên nhiên để cất tiếng thơ ngợi ca thiên nhiên núi rừng song đó chỉ là giây phút phiêu du vào mây gió còn tâm hồn người thực sự đang gửi gắm ở một chân trời khác: Chưa ngủ vì lo nỗi nước nhà.
+Chưa ngủ, thao thức, bồi hồi vì “lo nỗi nước nhà”. Nhà nước đang bị giặc Pháp xâm lăng, con thuyền kháng chiến đang băng qua ghềnh thác thì vị “thuyền trưởng” chưa thể ngủ ngon giấc được\! Nguyễn Trãi đã từng thao thức vì đại nghĩa:
+“Còn một tấc lòng âu việc nước
+Đêm đêm thức nhẵn nẻo sơ chung”
+\(Quốc âm thi tập\)
+Bác Hồ cũng thao thức: “Chưa ngủ vì lo nỗi nước nhà”. Cùng mang trong tâm hồn một tình yêu lớn đối với đất nước và nhân dân, thơ của bác chứa chan tình yêu nước. Có thể nói, câu thơ bình dị, sáng tỏ như một chân lý, để lại ấn tượng sâu sắc.
+“Cảnh khuya” bài thơ tứ tuyệt làm đẹp nền thơ ca kháng chiến. Câu thơ giàu hình tượng và truyền cảm. Cảnh và tình hòa hợp, vừa cổ kính, vừa hiện đại. Tình yêu nước thiết tha, tình yêu thiên nhiên trong sáng là cốt cách vẻ đẹp của bài thơ.
+## 5\. Giới thiệu một bài thơ hoặc một bức tranh, pho tượng mà bạn yêu thích mẫu 4
+Mỗi con người tạo nên một tính cách, mỗi nhà văn cũng có một phong cách riêng cho mình nhưng đặc biệt là có những tính cách nổi bật khiến người ta nhắc đến là nhớ ngay đến người đó. Và Nguyễn Công Trứ có một tính cách đặc biệt như thế, ông được biết đến với một cá tính đặc biệt, mạnh mẽ "ngất ngưởng". chính cá tính ấy làm cho người ta nhớ đến ông nhiều hơn. Đặc biệt cá tính của ông được thể hiện rất rõ trong bài thơ bài ca ngất ngưởng.
+Bài ca ngất ngưởng giống như một lời tự thuật của Nguyễn Công Trứ về cuộc đời, tài năng, tính cách của ông. Đó là một tài năng lớn cũng là một tính cách lớn vượt qua khuôn khổ của thời trung đại cũng như nho giáo. Ông sinh ra trên mảnh đất Nghệ An, cùng thời với ông cũng có rất nhiều người tài giỏi tuy nhiên người ta lại nhớ đến ông. Phải chăng do tính cách khá đặc biệt của ông- một sự ngất ngưởng và lối sống chân thật ấy đã làm người ta nhớ đến ông nhiều hơn?.
+Tác giả mở đầu bằng năm câu thơ để thuật lại cuộc đời làm quan của mình. Cuộc đời đó có vinh hoa hiển lạc nhưng cũng có lúc vất vả khốn cùng:
+" Vũ trụ nội mạc phi phận sự  
+Ông Hi Văn tài bộ đã vào lồng.  
+Khi Thủ khoa, khi Tham tán, khi Tổng đốc Đông,  
+Gồm thao lược đã nên tay ngất ngưởng.  
+Lúc bình Tây, cờ đại tướng,  
+Có khi về Phủ doãn Thừa Thiên"
+Chỉ với năm câu thơ tác giả đã giới thiệu cho chúng ta vè phần đời làm quan của ông. Trước tiên ta tìm hiểu khái niệm của từ " ngất ngưởng", ngất ngưởng là từ đồng nghĩa với ngất nghểu có thể hiểu là một người luôn ở tư thê cao không vững vàng, chông chênh, lắc lư như trực ngã. Nguyễn Công Trứ dùng tính từ này để nói về mình phải chăng là cả một ẩn ý?.
+Trước hết là câu thơ đầu tiên thể hiện rõ quan niệm sống của Nguyễn Công Trứ. Cùng với bản tuyên ngôn về chí làm trai " chí làm trai nam bắc đông tây- cho phỉ sức vẫy vùng trong bốn bể" thì câu thơ đầu trong bài này cũng là một bản tuyên ngôn về quan niệm sống trong vũ trụ của ông
+" Vũ trụ nội mạc phi phận sự"
+Tác giả muốn gửi gắm một quan niệm sống của mình. Đó là trong vũ trụ này không có việc gì không phải là phận sự của ta. Dường như ta thấy Nguyễn Công Trứ đang đề cao tâm thế của một nhà nho nhân chính. Nó nói lên sự ý thức tầm quan trọng cá nhân của ông và sự nhiệt huyết trong cuộc đời của ông.
+Sau đó ông tóm tắt về cuộc đời làm quan của mình:
+"Ông Hi Văn tài bộ đã vào lồng.  
+Khi Thủ khoa, khi Tham tán, khi Tổng đốc Đông,  
+Gồm thao lược đã nên tay ngất ngưởng.  
+Lúc bình Tây, cờ đại tướng,  
+Có khi về Phủ doãn Thừa Thiên"
+Đối với ông mà nói làm quan như " vào lồng", câu thơ ấy có nghĩa là tác giả coi việc làm quan giống như bị nhốt trong lòng. Bởi vì với tính cách ngông nghênh cùng ý chí ngút trời " vẫy vùng trong trời đất" những đạo lí Tam cương ngũ thường trở thành khuôn phép gò bó tính cách của ông. Nguyễn Công Trứ tự xưng là ông, đó là một cách xưng hô độc đáo. Dẫu biết làm quan là bó buộc mất tự do nhưng ông vẫn làm vì nhờ đó ông thể hiện được tài năng cũng như hoài bão của mình. Qua đó Nguyễn Công Trứ thể hiện mình như một giá trị hiển nhiên giữa đời mà không thể phủ nhận được.
+Sau đó là một loạt chức quan được kể ra như " thủ khoa", "tham tán", " tổng đốc đông" ," bình tây đại tướng" khi lại " Phủ doãn thừa thiên". Có thể nói cuộc đời làm quan của ông hiển đạt vô cùng tất thảy đều là những quan to. Tuy nhiên ở ngoài đời thực thì ông có bị giáng chức xuống làm một anh lính quèn. Tuy nhiên ông từng có một câu nói vô cùng nổi tiếng đó là : "Làm tổng đốc tôi không lấy làm vinh, làm lính tôi cũng không coi là nhục". vì thế cho nên dù làm ở cấp nào đi chăng nữa đối với ông đều không quan trọng miễn sao ông được thỏa sức giúp nước nhà.
+Cuộc đời làm quan khép lại và mở ra buổi nghỉ quan về hưu của Nguyễn Công Trứ. Đúng là một con người khác lạ đến buổi dứt áo quan về quê cũng thật khác bình thường:
+"Đô môn giải tổ chi niên,  
+Đạc ngựa bò vàng đeo ngất ngưởng.  
+Kìa núi nọ phau phau mây trắng,  
+Tay kiếm cung mà nên dạng từ bì.  
+Gót tiên theo đủng đỉnh một đôi dì,  
+Bụt cũng nực cười ông ngất ngưởng"
+Chia tay chốn quan trường nhà thơ về với quê hương thật đúng là " ngất ngưởng". Người ta về quan tiệc tùng linh đình về trong võng lọng kiệu đẹp, hay cùng lắm là con ngựa gầy nhưng Nguyễn Công trứ thì lại khác. Về quê chẳng tiệc chia tay, chẳng người đưa tiễn, chẳng vọng lọng kiệu ngựa mà chỉ một mình với con bò vàng đủng đỉnh. Bò mà đeo đạc ngựa thật sự chỉ có Nguyễn Công Trứ mới có mà thôi\!.
+Về quê nhà thơ tự do vui thú với cảnh quê hương và ca trù. Ông lên thăm chùa mà tự cười nhạo mình từ bi nhưng thật ra đằng sau lại có hai cô ả đào. Theo sau. Như thế là thất kinh nhưng bụt không tức giận mà phải bật cười vì tích cách của vị quan già ngông nghênh ấy.
+Những câu thơ còn lại đều nói về cuộc đời và vui thú của ông khi về hưu:
+"Được mất dương dương người thái thượng,  
+Khen chê phơi phới ngọn đông phong.  
+Khi ca, khi tửu, khi cắc, khi tùng,  
+Không Phật, không Tiên, không vướng tục.  
+Chẳng Trái, Nhạc cũng vào phường Hàn, Phú,  
+Nghĩa vua tôi cho vẹn đạo sơ chung  
+Trong triều ai ngất ngưởng như ông\!"
+Cuộc đời của ông từ đây nhàn hại với những thú vui tao nhã. Đối với ông khen chê không là chuyện ông đáng để tâm tới ông cứ sống theo cách của mình. Cuộc đời này còn gì vui hơn hạnh phúc hơn khi được sống đúng là chính mình. Mấy ai được sống là chính mình còn Nguyễn Công Trứ thì làm được điều đó. từ đây ông đắm mình trong thú vui tuổi già đó là ca trù không vướng tục. Từ "khi" được điệp đi điệp lại nhiều lần thể hiện sự lặp lại của những thú vui ấy. Ca trù, rượu nóng ông say sưa trong hơi men và điệu các điệu tùng. Đúng là một cuộc sống đầy âm nhạc. Ông cứ sống như thế chẳng theo tiên theo phật cứ sống theo cách của chính ông mà thôi. Đây là đoạn thơ hay nhất trong bài nếu như hai câu trước trải dài để thể hiện sự thanh thản khi về hưu thì hai câu sau lại đầy ắp tiếng nhạc.
+Nguyễn Công Trứ tự đặt mình ngang hàng với những các nhân vật nổi tiếng ngày xưa:
+"Chẳng Trái, Nhạc cũng vào phường Hàn, Phú,  
+Nghĩa vua tôi cho vẹn đạo sơ chung.  
+Trong triều ai ngất ngưởng như ông\!"
+Trái Tuân thời Hán và ba người thời Tống: Nhạc Phi, Hàn Kì, Phú Bật - những danh tướng có sự nghiệp hiển hách. Kết thúc bài thơ ông không quên nhắc tới công lao mà mình đã đạt được trước khi về hưu. Đó là nghĩa vua tôi cũng đã tròn đạo. Ông ca lên điệp khúc ngất ngưởng của mình, ông sống và làm việc tận tụy hết mình nhưng đồng thời cũng có những thú vui khác người. Thú vui ấy chỉ có Nguyễn Công Trứ mới có , ông ngất ngưởng như vậy đấy.
+Như vậy có thể thấy Nguyễn Công Trứ quả là một con người độc đáo ông tự ý thức được tài năng cũng như vị trí của mình. Ông sống mà không cần quan tâm đến người ta nói gì về mình. Và quả thật bài ca ngất ngưởng đã truyền tải hết sự ngất ngưởng của nhà thơ. Bài thơ không chỉ ngất ngưởng ở nội dung mà cả giọng điệu cũng góp phần làm nên bài thơ này.
+## 6\. Giới thiệu một bài thơ hoặc một bức tranh, pho tượng mà bạn yêu thích mẫu 5
+Chào mọi người, tên em là… học sinh lớp… Hồ Xuân Hương là một trong những nữ sĩ tài danh của nước ta vào nửa cuối thể kỷ XVIII, đầu thế kỷ XIX. Dù là người con gái tài danh nhưng cuộc đởi truân chuyên, hồng nhan bạc mệnh như bao người phụ nữ sống dưới xã hội phong kiến đầy bất công. Bà đã rất nhiều lần mang cái thân phận nhỏ bé ấy của người phụ nữ sống dưới chế độ cũ vào trang thơ của mình. Tự tình là một trong những sáng tác hay của Hồ Xuân Hương khi thể hiện nỗi đau đớn, buồn tủi trước những tình cảnh éo le của mình, đồng thời thể hiện khát khao mãnh liệt về hạnh phúc cuộc đời.
+Bài thơ được thể hiện dưới dạng thể thơ thất ngôn bát cú đường luật. Mở đầu bài thơ là hai câu đề giới thiệu không gian và thời gian của nhân vật trữ tình:
+“Đêm khuya văng vẳng trống canh dồn
+Trơ cái hồng nhan với nước non”
+Nhà thơ mở đầu bài thơ với thời gian là một đêm khuya vắng. Người ta thường nói “đêm khuya” thường là lúc con người ta bắt đầu suy tư, đầy tâm trạng. Và ở đây với Hồ Xuân Hương cũng vậy. Thời điểm rất hợp với những tâm sự chất chứa trong lòng bà. Âm thanh “văng vẳng” của tiếng trống canh dồn cho người đọc thấy được đó là những âm thanh từ xa vọng lại cứ văng vẳng bên tai người thi sĩ. Và hẳn là một đêm đã khuya lắm rồi, yên tĩnh lắm mới cảm nhận được tiếng trống từ xa vọng lại như thế. Hai từ “hồng nhan” kết hợp với tính từ “trơ” được đảo lên đầu câu thơ như nhấn mạnh sự buồn tủi, cô đơn đến bẽ bàng của người phụ nữ. “Nước non” là một không gian rộng lớn bao la, hình ảnh ẩn dụ của cả một xã hội đầy rẫy những bất công. Hình ảnh “hồng nhan” thật nhỏ nhoi đối lập với sự rộng lớn của “nước non” càng gợi lên sự nhỏ bé, tủi hổ của người phụ nữ trước cuộc đời này. Chỉ có một hồng nhan đương đầu với nước non càng khẳng định sự trống vắng, cô lieu và sự đơn độc trong tâm hồn người thi sĩ.
+Trước không gian buồn vắng, nhà thơ tiếp tục nói lên hoàn cảnh eo le và nỗi đau cho thân phận của mình trong hai câu thực:
+“Chén rượu hương đưa say lại tỉnh
+Vầng trăng bóng xế khuyết chưa tròn”
+Không một ai quan tâm, không một ai để giãi bày tâm sự, người thi sĩ mượn “chén rượu” để giải tỏa cho nỗi lòng của mình. Nhưng dường như càng uống lại càng tỉnh, tỉnh lại say. Cụm từ “say lại tỉnh” cho thấy tâm trạng đau đớn, xót xa của Hồ Xuân Hương. Bà uốn say để quên đi những ưu phiền nhưng rồi cứ say lại tỉnh, và đã tỉnh lại nghĩ đến nỗi đau, ray rứt của bản thân. Không chỉ có rượu mà trong câu còn xuất hiện vầng trăng như một người bạn. Nhưng vầng trăng ấy cũng không được tròn đầy viên mãn, mà lại “khuyết chưa tròn”. Bà nhìn lên vầng trăng cũng chỉ thấy một vầng trăng “khuyết”. Đó là hình ảnh ẩn dụ cho sự dang dở trong hạnh phúc cuộc đời bà. Đúng như Nguyễn Du có viết “người buồn cảnh có vui đâu bao giờ”. Khi buồn thì nhìn đâu cũng chỉ thấy cảnh sầu mà thôi.
+Từ những nỗi phẫn uất trong lòng, tâm trạng nhà thơ thêm dồn nén như muôn tức nước vỡ bờ:
+“Xiên ngang mặt đất rêu từng đám
+Đâm toạc chân mây đá mấy hòn”
+Nhà thơ nhìn thấy những hình ảnh thiên nhiên chỉ thấy “đất” “rêu” “mây” “đá”. Cảnh vật xơ xác, hoang tàn không một sức sống mà chỉ thấy một màu u ám, cứng nhắc. Các động từ mạnh “xiên ngang” “đâm toạc” được đảo lên đầu câu nhấn mạnh một sự đấu trọi của thiên nhiên. Sự đối chọi nhỏ bé của “rêu” với mặt đất rộng, của “mấy hòn đá” nhỏ nhoi với “chân mây” lớn như hình ảnh ẩn dụ cho cái sự bức bối, muốn phá phách, muốn vùng lên phản kháng của người phụ nữ. Đọc tơi đây, người đọc nhận thấy một sự mãnh mẽ muốn đạp lên những bất công để đòi lại công bằng cho thân phận bé nhỏ của nhà thơ. Tâm trạng ở những câu thơ này dường như dâng lên đến cao trào.
+Kết lại bài thơ thất ngôn bát cú, thi sĩ quay lại với tâm trang chán nản đến ngao ngán, đau khổ trước tình duyên ngang trái, éo le:
+“Ngán nỗi xuân đi xuân lại lại
+Mảnh tỉnh san sẻ tí con con”
+Từ “ngán” được đặt ở đầu câu thơ nhắn mạnh nỗi chán chường trong lòng người thi sĩ. Cụm từ “xuân đi” đối lập với “xuân lại lại” thể hiện một sự buồn chán và tẻ nhạt. Cụm từ “mảnh tình” cho thấy một thứ tình cảm nhỏ bé như một “mảnh” có thể đếm đong được. Đã nhỏ bé đến mức có thể đong đếm được lại còn phải “san sẻ” cho người khác từng “tí con con”. Cụm từ “tí con con” càng cho thấy thứ tình cảm đang phải san sẻ kia quá nhỏ bé, nhỏ bé đến mức không còn nhỏ hơn được nữa. Đọc tới đây, người đọc càng hiểu được nỗi niềm buồn đau của nữ sĩ. Điều đó cũng từng được thể hiện trong bài thơ khác:
+“Chém cha cái kiếp lấy chồng chung
+Kẻ đắp chăn bông kẻ lạnh lùng”
+Tự tình là một bài thơ đặc sắc của nhà thơ Hồ Xuân Hương. Bài thơ đã thể hiện sâu sắc nỗi buồn đau, tủi hổ và cô đơn của thân phận người phụ nữ trước tình cảnh éo le trong tình duyên. Qua đó cũng thể hiện niềm khát khao mãnh liệt muốn vùng lên vượt khỏi bi kịch cuộc đời ấy nhưng vẫn chưa tìm ra lối thoát. Bài thơ điển hình cho nỗi đau chung của người phụ nữ sống trong xã hội cũ, để lại những ấn tượng sâu lắng trong trái tim độc giả.

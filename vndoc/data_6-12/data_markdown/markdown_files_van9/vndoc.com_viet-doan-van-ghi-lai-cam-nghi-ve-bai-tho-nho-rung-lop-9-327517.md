@@ -1,0 +1,15 @@
+---
+url: https://vndoc.com/viet-doan-van-ghi-lai-cam-nghi-ve-bai-tho-nho-rung-lop-9-327517
+title: Viết đoạn văn ghi lại cảm nghĩ về bài thơ Nhớ rừng lớp 9 - VnDoc.com
+date_extracted: 2025-04-14 13:25:15
+description: Viết đoạn văn ghi lại cảm nghĩ về bài thơ Nhớ rừng lớp 9 do VnDoc biện soạn, nhằm giúp các em HS có thêm tài liệu tham khảo và có những ý tưởng đa dạng khi thực hành kĩ năng Viết ở lớp 9.
+keywords: Viết đoạn văn ghi lại cảm nghĩ về bài thơ Nhớ rừng lớp 9,đoạn văn ghi lại cảm nghĩ về bài thơ Nhớ rừng,Viết đoạn văn ghi lại cảm nghĩ về bài thơ 8 chữ Nhớ rừng,Viết đoạn văn ghi lại cảm nghĩ về Nhớ rừng lớp 9,đoạn văn ghi lại cảm nghĩ về Nhớ rừng,ghi lại cảm nghĩ về bài thơ Nhớ rừng,cảm nghĩ về bài thơ Nhớ rừng,ghi lại cảm nghĩ về một bài thơ tám chữ lớp 9,văn mẫu lớp 9
+---
+
+# Viết đoạn văn ghi lại cảm nghĩ về bài thơ Nhớ rừng lớp 9
+## **Cảm nghĩ về bài thơ Nhớ rừng lớp 9**
+**Bản quyền tài liệu thuộc về VnDoc, nghiêm cấm hành vi sao chép với mục đích thương mại.**
+### Viết đoạn văn ghi lại cảm nghĩ về bài thơ 8 chữ Nhớ rừng
+“Nhớ rừng” là một sáng tác nổi bật trong phong trào Thơ Mới của Thế Lữ. Bài thơ được viết với thể thơ tám chữ, ngắt nhịp và gieo vần một cách hoàn toàn tự do, không có quy luật nhất định nào giữa các khổ thơ, thể hiện rõ tư tưởng cởi mở, muốn phá tan gông xiềng của thi pháp trung đại của phong trào Thơ Mới. Xuyên suốt bài thơ, là những cung bậc cảm xúc, suy tư của chú hổ - một vị chúa sơn lâm đang rơi vào cảnh ngục tù. Trong quá khứ, con hổ ấy từng là vua của rừng già, là nỗi khiếp sợ của rất nhiều những loài vật khác, nhưng giờ đây bị xem là ngang hàng với lũ gấu dở hơi, cặp báo vô tư lự, bị trở thành đồ chơi cho con người chỉ trỏ. Điều đó khiến con hổ vô cùng đau khổ, nhục nhã và uất hận. Nó căm phẫn những kẻ đẩy nó vào hoàn cảnh này, thù hằn những kẻ đang xem thường, cười cợt nó. Nhưng cùng với những cảm xúc cực đoan ấy, con hổ còn chìm trong những tiếc nuối, nhớ mong, hoài niệm day dứt về quá khứ huy hoàng trước đây. Một quá khứ mà nó được tự do chạy nhảy trong rừng già - điều mà các anh em, tổ tiên của nó vẫn làm suốt bao đời nay. Hoàn cảnh đó của con hổ, không chỉ đơn giản là một con thú bị nhốt trong sở thú. Mà trong bài thơ, Thế Lữ đã mượn hình ảnh đó của nó để ẩn dụ cho dân tộc Việt Nam ta dưới ách cai trị của thực dân Pháp. Lúc đó, đất nước ta là một thuộc địa của thực dân, nhân dân ta là nô lệ của giặc Pháp. Không có tự do, không có nhân quyền, người Việt ta bị đem ra làm trò mua vui, bị bóc lột, đày đọa, đánh đập. Cũng như con hổ, người dân Việt bị giam trong đêm trường nô lệ không biết lối thoát nằm ở đâu. Với những hình ảnh thiên nhiên tráng lệ, kỳ vĩ và bút pháp miêu tả, khắc họa nội tâm con hổ một cách sâu sắc, tinh tế, Thế Lữ đã thành công đánh thức những mong ước, khát vọng về tự do của những người đang phải sống kiếp nô lệ. Nhờ đó, tác phẩm này đã gây nên tiếng vang lớn trên văn đàn lúc bấy giờ, không chỉ nhờ những cải cách trong nghệ thuật mà còn nhờ ý nghĩa nội dung cao cả.
+### Đoạn văn ghi lại cảm nghĩ về bài thơ Nhớ rừng - Mẫu 2
+Đang cập nhật…

@@ -1,0 +1,692 @@
+2025-04-09 08:22:53,624 - ERROR - Lỗi trong quá trình chính: [Errno 2] No such file or directory: 'link_crawl/grade1_links_tieng-anh.json'
+2025-04-09 08:23:49,012 - INFO - Đã tải 34 URL đã xử lý từ checkpoint
+2025-04-09 08:23:49,012 - INFO - Tất cả các URL đã được xử lý!
+2025-04-09 08:25:01,701 - INFO - Đã tải 52 URL đã xử lý từ checkpoint
+2025-04-09 08:25:01,701 - INFO - Tất cả các URL đã được xử lý!
+2025-04-09 08:26:03,024 - INFO - Đã tải 62 URL đã xử lý từ checkpoint
+2025-04-09 08:26:03,024 - INFO - Tất cả các URL đã được xử lý!
+2025-04-09 08:26:38,726 - INFO - Đã tải 139 URL đã xử lý từ checkpoint
+2025-04-09 08:26:38,726 - INFO - Tất cả các URL đã được xử lý!
+2025-04-09 08:27:19,377 - INFO - Đã tải 336 URL đã xử lý từ checkpoint
+2025-04-09 08:27:19,378 - INFO - Tất cả các URL đã được xử lý!
+2025-04-09 08:28:12,334 - INFO - Đã tải 203 URL đã xử lý từ checkpoint
+2025-04-09 08:28:12,334 - INFO - Tất cả các URL đã được xử lý!
+2025-04-09 08:29:25,021 - INFO - Đã tải 377 URL đã xử lý từ checkpoint
+2025-04-09 08:29:25,021 - INFO - Tất cả các URL đã được xử lý!
+2025-04-09 08:30:09,033 - INFO - Đã tải 383 URL đã xử lý từ checkpoint
+2025-04-09 08:30:09,033 - INFO - Tất cả các URL đã được xử lý!
+2025-04-09 08:30:48,830 - INFO - Đã tải 51 URL đã xử lý từ checkpoint
+2025-04-09 08:30:48,830 - INFO - Bắt đầu xử lý 836 URLs...
+2025-04-09 08:31:35,482 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7dfaebf799c0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d848a41c33b0cb0678721eb9d3784858/element
+2025-04-09 08:31:35,482 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7dfaebf79bd0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d848a41c33b0cb0678721eb9d3784858/element
+2025-04-09 08:31:35,483 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7dfaebf79de0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d848a41c33b0cb0678721eb9d3784858/element
+2025-04-09 08:31:35,484 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7dfaebf7a230>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d848a41c33b0cb0678721eb9d3784858/element
+2025-04-09 08:31:35,485 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7dfaebf799f0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d848a41c33b0cb0678721eb9d3784858/element
+2025-04-09 08:31:35,485 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7dfaebf7a020>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d848a41c33b0cb0678721eb9d3784858/element
+2025-04-09 08:31:35,486 - ERROR - Lỗi khi xử lý https://vndoc.com/de-thi-hoc-ki-2-lop-4-mon-toan-chan-troi-sang-tao: HTTPConnectionPool(host='localhost', port=53567): Max retries exceeded with url: /session/d848a41c33b0cb0678721eb9d3784858/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7dfaebf79e70>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-09 08:31:35,487 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7dfaebf79ba0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d848a41c33b0cb0678721eb9d3784858
+2025-04-09 08:31:35,488 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7dfaebf797b0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d848a41c33b0cb0678721eb9d3784858
+2025-04-09 08:31:35,489 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7dfaebf793c0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d848a41c33b0cb0678721eb9d3784858
+2025-04-09 08:31:36,957 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7dfaebf7b400>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/87ef34c34eafd5d361b4ad7d43d5b057
+2025-04-09 08:31:36,958 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7dfaebf7b5b0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/87ef34c34eafd5d361b4ad7d43d5b057
+2025-04-09 08:31:36,958 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7dfaebf7b700>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/87ef34c34eafd5d361b4ad7d43d5b057
+2025-04-09 08:31:37,992 - INFO - Đã tải 51 URL đã xử lý từ checkpoint
+2025-04-09 08:31:37,992 - INFO - Bắt đầu xử lý 836 URLs...
+2025-04-09 08:46:59,688 - INFO - Đã tải 60 URL đã xử lý từ checkpoint
+2025-04-09 08:46:59,689 - INFO - Bắt đầu xử lý 725 URLs...
+2025-04-09 08:51:19,596 - WARNING - Timeout khi truy cập https://vndoc.com/on-tap-he-lop-5-len-lop-6-mon-toan-202958, lần thử 1/3
+2025-04-09 08:54:47,591 - WARNING - Timeout khi truy cập https://vndoc.com/de-kiem-tra-cuoi-tuan-mon-toan-lop-4-tuan-34-de-2-168122, lần thử 1/3
+2025-04-09 09:05:06,754 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/5d9e68d69f1260d40b4a7ddb7c927a43
+2025-04-09 09:05:06,761 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x70c4a01c8be0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/5d9e68d69f1260d40b4a7ddb7c927a43
+2025-04-09 09:05:06,763 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x70c4a01c9240>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/5d9e68d69f1260d40b4a7ddb7c927a43
+2025-04-09 09:05:08,874 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x70f2987b69e0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/79926fa42f68c5b7c6e894cefcc7ae99
+2025-04-09 09:05:08,874 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x70f2987b7b20>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/79926fa42f68c5b7c6e894cefcc7ae99
+2025-04-09 09:05:08,875 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x70f2987b6560>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/79926fa42f68c5b7c6e894cefcc7ae99
+2025-04-09 09:05:45,121 - INFO - Đã tải 234 URL đã xử lý từ checkpoint
+2025-04-09 09:05:45,121 - INFO - Bắt đầu xử lý 643 URLs...
+2025-04-09 09:05:52,144 - INFO - Đã tải 122 URL đã xử lý từ checkpoint
+2025-04-09 09:05:52,144 - INFO - Bắt đầu xử lý 622 URLs...
+2025-04-09 09:14:14,953 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-toan-lop-4-canh-dieu-hoc-ki-1-co-ban-304523, lần thử 1/3
+2025-04-09 09:17:03,142 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-mon-toan-lop-5-tuan-14-de-1-156603, lần thử 1/3
+2025-04-09 09:37:05,912 - WARNING - Không thể trích xuất metadata đầy đủ: Message: timeout: Timed out receiving message from renderer: 30.000
+  (Session info: chrome=134.0.6998.35)
+Stacktrace:
+#0 0x5867f3644a1a <unknown>
+#1 0x5867f30fc390 <unknown>
+#2 0x5867f30e3747 <unknown>
+#3 0x5867f30e3449 <unknown>
+#4 0x5867f30e1159 <unknown>
+#5 0x5867f30e1b9f <unknown>
+#6 0x5867f30f12eb <unknown>
+#7 0x5867f310a7ae <unknown>
+#8 0x5867f3110edb <unknown>
+#9 0x5867f30e22b0 <unknown>
+#10 0x5867f310a40d <unknown>
+#11 0x5867f3199f4c <unknown>
+#12 0x5867f31739a3 <unknown>
+#13 0x5867f313f60e <unknown>
+#14 0x5867f3140dd1 <unknown>
+#15 0x5867f360addb <unknown>
+#16 0x5867f360ecbc <unknown>
+#17 0x5867f35f2392 <unknown>
+#18 0x5867f360f834 <unknown>
+#19 0x5867f35d61ef <unknown>
+#20 0x5867f3633038 <unknown>
+#21 0x5867f3633216 <unknown>
+#22 0x5867f3643896 <unknown>
+#23 0x76db50094ac3 <unknown>
+
+2025-04-09 09:52:10,254 - ERROR - Lỗi trình duyệt khi xử lý https://vndoc.com/phieu-bai-tap-cuoi-tuan-lop-5-mon-toan-nang-cao-tuan-7-207399: Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=134.0.6998.35)
+Stacktrace:
+#0 0x5bc91d970a1a <unknown>
+#1 0x5bc91d428390 <unknown>
+#2 0x5bc91d41f518 <unknown>
+#3 0x5bc91d40fa39 <unknown>
+#4 0x5bc91d41173d <unknown>
+#5 0x5bc91d40fdce <unknown>
+#6 0x5bc91d40f775 <unknown>
+#7 0x5bc91d40f449 <unknown>
+#8 0x5bc91d40d159 <unknown>
+#9 0x5bc91d40da2a <unknown>
+#10 0x5bc91d42b829 <unknown>
+#11 0x5bc91d4c6d85 <unknown>
+#12 0x5bc91d49fbd2 <unknown>
+#13 0x5bc91d4c607b <unknown>
+#14 0x5bc91d49f9a3 <unknown>
+#15 0x5bc91d46b60e <unknown>
+#16 0x5bc91d46cdd1 <unknown>
+#17 0x5bc91d936ddb <unknown>
+#18 0x5bc91d93acbc <unknown>
+#19 0x5bc91d91e392 <unknown>
+#20 0x5bc91d93b834 <unknown>
+#21 0x5bc91d9021ef <unknown>
+#22 0x5bc91d95f038 <unknown>
+#23 0x5bc91d95f216 <unknown>
+#24 0x5bc91d96f896 <unknown>
+#25 0x77889d894ac3 <unknown>
+
+2025-04-09 09:52:10,274 - ERROR - Lỗi trình duyệt khi xử lý https://vndoc.com/toan-lop-4-bai-110-luyen-tap-chung-336807: Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=134.0.6998.35)
+Stacktrace:
+#0 0x5f9e222d2a1a <unknown>
+#1 0x5f9e21d8a390 <unknown>
+#2 0x5f9e21d81518 <unknown>
+#3 0x5f9e21d71a39 <unknown>
+#4 0x5f9e21d7373d <unknown>
+#5 0x5f9e21d71dce <unknown>
+#6 0x5f9e21d71775 <unknown>
+#7 0x5f9e21d71449 <unknown>
+#8 0x5f9e21d6f159 <unknown>
+#9 0x5f9e21d6fa2a <unknown>
+#10 0x5f9e21d8d829 <unknown>
+#11 0x5f9e21e28d85 <unknown>
+#12 0x5f9e21e01bd2 <unknown>
+#13 0x5f9e21e2807b <unknown>
+#14 0x5f9e21e019a3 <unknown>
+#15 0x5f9e21dcd60e <unknown>
+#16 0x5f9e21dcedd1 <unknown>
+#17 0x5f9e22298ddb <unknown>
+#18 0x5f9e2229ccbc <unknown>
+#19 0x5f9e22280392 <unknown>
+#20 0x5f9e2229d834 <unknown>
+#21 0x5f9e222641ef <unknown>
+#22 0x5f9e222c1038 <unknown>
+#23 0x5f9e222c1216 <unknown>
+#24 0x5f9e222d1896 <unknown>
+#25 0x79f789494ac3 <unknown>
+
+2025-04-09 09:52:11,741 - ERROR - Lỗi trình duyệt khi xử lý https://vndoc.com/toan-lop-4-bai-111-day-so-lieu-thong-ke-336819: Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=134.0.6998.35)
+Stacktrace:
+#0 0x6465da9aca1a <unknown>
+#1 0x6465da464390 <unknown>
+#2 0x6465da45b518 <unknown>
+#3 0x6465da44ba39 <unknown>
+#4 0x6465da44d73d <unknown>
+#5 0x6465da44bdce <unknown>
+#6 0x6465da44b775 <unknown>
+#7 0x6465da44b449 <unknown>
+#8 0x6465da449159 <unknown>
+#9 0x6465da449a2a <unknown>
+#10 0x6465da467829 <unknown>
+#11 0x6465da502d85 <unknown>
+#12 0x6465da4dbbd2 <unknown>
+#13 0x6465da50207b <unknown>
+#14 0x6465da4db9a3 <unknown>
+#15 0x6465da4a760e <unknown>
+#16 0x6465da4a8dd1 <unknown>
+#17 0x6465da972ddb <unknown>
+#18 0x6465da976cbc <unknown>
+#19 0x6465da95a392 <unknown>
+#20 0x6465da977834 <unknown>
+#21 0x6465da93e1ef <unknown>
+#22 0x6465da99b038 <unknown>
+#23 0x6465da99b216 <unknown>
+#24 0x6465da9ab896 <unknown>
+#25 0x780d5a094ac3 <unknown>
+
+2025-04-09 09:52:13,348 - ERROR - Lỗi trình duyệt khi xử lý https://vndoc.com/toan-lop-4-bai-112-luyen-tap-336820: Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=134.0.6998.35)
+Stacktrace:
+#0 0x5937da5aaa1a <unknown>
+#1 0x5937da062390 <unknown>
+#2 0x5937da059518 <unknown>
+#3 0x5937da049a39 <unknown>
+#4 0x5937da04b73d <unknown>
+#5 0x5937da049dce <unknown>
+#6 0x5937da049775 <unknown>
+#7 0x5937da049449 <unknown>
+#8 0x5937da047159 <unknown>
+#9 0x5937da047a2a <unknown>
+#10 0x5937da065829 <unknown>
+#11 0x5937da100d85 <unknown>
+#12 0x5937da0d9bd2 <unknown>
+#13 0x5937da10007b <unknown>
+#14 0x5937da0d99a3 <unknown>
+#15 0x5937da0a560e <unknown>
+#16 0x5937da0a6dd1 <unknown>
+#17 0x5937da570ddb <unknown>
+#18 0x5937da574cbc <unknown>
+#19 0x5937da558392 <unknown>
+#20 0x5937da575834 <unknown>
+#21 0x5937da53c1ef <unknown>
+#22 0x5937da599038 <unknown>
+#23 0x5937da599216 <unknown>
+#24 0x5937da5a9896 <unknown>
+#25 0x7f6883a94ac3 <unknown>
+
+2025-04-09 09:52:13,666 - ERROR - Lỗi trình duyệt khi xử lý https://vndoc.com/bai-tap-cuoi-tuan-toan-lop-5-ket-noi-tri-thuc-tuan-7-329095: Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=134.0.6998.35)
+Stacktrace:
+#0 0x580e931c7a1a <unknown>
+#1 0x580e92c7f390 <unknown>
+#2 0x580e92c76518 <unknown>
+#3 0x580e92c66a39 <unknown>
+#4 0x580e92c6873d <unknown>
+#5 0x580e92c66dce <unknown>
+#6 0x580e92c66775 <unknown>
+#7 0x580e92c66449 <unknown>
+#8 0x580e92c64159 <unknown>
+#9 0x580e92c64a2a <unknown>
+#10 0x580e92c82829 <unknown>
+#11 0x580e92d1dd85 <unknown>
+#12 0x580e92cf6bd2 <unknown>
+#13 0x580e92d1d07b <unknown>
+#14 0x580e92cf69a3 <unknown>
+#15 0x580e92cc260e <unknown>
+#16 0x580e92cc3dd1 <unknown>
+#17 0x580e9318dddb <unknown>
+#18 0x580e93191cbc <unknown>
+#19 0x580e93175392 <unknown>
+#20 0x580e93192834 <unknown>
+#21 0x580e931591ef <unknown>
+#22 0x580e931b6038 <unknown>
+#23 0x580e931b6216 <unknown>
+#24 0x580e931c6896 <unknown>
+#25 0x7b2331694ac3 <unknown>
+
+2025-04-09 09:52:15,141 - ERROR - Lỗi trình duyệt khi xử lý https://vndoc.com/bai-tap-cuoi-tuan-mon-toan-lop-5-tuan-8-de-1-150826: Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=134.0.6998.35)
+Stacktrace:
+#0 0x6532d24a2a1a <unknown>
+#1 0x6532d1f5a390 <unknown>
+#2 0x6532d1f51518 <unknown>
+#3 0x6532d1f41a39 <unknown>
+#4 0x6532d1f4373d <unknown>
+#5 0x6532d1f41dce <unknown>
+#6 0x6532d1f41775 <unknown>
+#7 0x6532d1f41449 <unknown>
+#8 0x6532d1f3f159 <unknown>
+#9 0x6532d1f3fa2a <unknown>
+#10 0x6532d1f5d829 <unknown>
+#11 0x6532d1ff8d85 <unknown>
+#12 0x6532d1fd1bd2 <unknown>
+#13 0x6532d1ff807b <unknown>
+#14 0x6532d1fd19a3 <unknown>
+#15 0x6532d1f9d60e <unknown>
+#16 0x6532d1f9edd1 <unknown>
+#17 0x6532d2468ddb <unknown>
+#18 0x6532d246ccbc <unknown>
+#19 0x6532d2450392 <unknown>
+#20 0x6532d246d834 <unknown>
+#21 0x6532d24341ef <unknown>
+#22 0x6532d2491038 <unknown>
+#23 0x6532d2491216 <unknown>
+#24 0x6532d24a1896 <unknown>
+#25 0x79fb8be94ac3 <unknown>
+
+2025-04-09 09:52:16,093 - ERROR - Lỗi trình duyệt khi xử lý https://vndoc.com/toan-lop-4-bai-113-bieu-do-cot-336829: Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=134.0.6998.35)
+Stacktrace:
+#0 0x5912f469ba1a <unknown>
+#1 0x5912f4153390 <unknown>
+#2 0x5912f414a518 <unknown>
+#3 0x5912f413aa39 <unknown>
+#4 0x5912f413c73d <unknown>
+#5 0x5912f413adce <unknown>
+#6 0x5912f413a775 <unknown>
+#7 0x5912f413a449 <unknown>
+#8 0x5912f4138159 <unknown>
+#9 0x5912f4138a2a <unknown>
+#10 0x5912f4156829 <unknown>
+#11 0x5912f41f1d85 <unknown>
+#12 0x5912f41cabd2 <unknown>
+#13 0x5912f41f107b <unknown>
+#14 0x5912f41ca9a3 <unknown>
+#15 0x5912f419660e <unknown>
+#16 0x5912f4197dd1 <unknown>
+#17 0x5912f4661ddb <unknown>
+#18 0x5912f4665cbc <unknown>
+#19 0x5912f4649392 <unknown>
+#20 0x5912f4666834 <unknown>
+#21 0x5912f462d1ef <unknown>
+#22 0x5912f468a038 <unknown>
+#23 0x5912f468a216 <unknown>
+#24 0x5912f469a896 <unknown>
+#25 0x783ae8e94ac3 <unknown>
+
+2025-04-09 09:52:17,647 - ERROR - Lỗi trình duyệt khi xử lý https://vndoc.com/toan-lop-4-bai-114-luyen-tap-336830: Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=134.0.6998.35)
+Stacktrace:
+#0 0x6471bba66a1a <unknown>
+#1 0x6471bb51e390 <unknown>
+#2 0x6471bb515518 <unknown>
+#3 0x6471bb505a39 <unknown>
+#4 0x6471bb50773d <unknown>
+#5 0x6471bb505dce <unknown>
+#6 0x6471bb505775 <unknown>
+#7 0x6471bb505449 <unknown>
+#8 0x6471bb503159 <unknown>
+#9 0x6471bb503a2a <unknown>
+#10 0x6471bb521829 <unknown>
+#11 0x6471bb5bcd85 <unknown>
+#12 0x6471bb595bd2 <unknown>
+#13 0x6471bb5bc07b <unknown>
+#14 0x6471bb5959a3 <unknown>
+#15 0x6471bb56160e <unknown>
+#16 0x6471bb562dd1 <unknown>
+#17 0x6471bba2cddb <unknown>
+#18 0x6471bba30cbc <unknown>
+#19 0x6471bba14392 <unknown>
+#20 0x6471bba31834 <unknown>
+#21 0x6471bb9f81ef <unknown>
+#22 0x6471bba55038 <unknown>
+#23 0x6471bba55216 <unknown>
+#24 0x6471bba65896 <unknown>
+#25 0x7c65d3494ac3 <unknown>
+
+2025-04-09 09:52:17,951 - ERROR - Lỗi trình duyệt khi xử lý https://vndoc.com/phieu-bai-tap-cuoi-tuan-lop-5-mon-toan-nang-cao-ket-noi-tri-thuc-tuan-8-330656: Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=134.0.6998.35)
+Stacktrace:
+#0 0x5f0cede98a1a <unknown>
+#1 0x5f0ced950390 <unknown>
+#2 0x5f0ced947518 <unknown>
+#3 0x5f0ced937a39 <unknown>
+#4 0x5f0ced93973d <unknown>
+#5 0x5f0ced937dce <unknown>
+#6 0x5f0ced937775 <unknown>
+#7 0x5f0ced937449 <unknown>
+#8 0x5f0ced935159 <unknown>
+#9 0x5f0ced935a2a <unknown>
+#10 0x5f0ced953829 <unknown>
+#11 0x5f0ced9eed85 <unknown>
+#12 0x5f0ced9c7bd2 <unknown>
+#13 0x5f0ced9ee07b <unknown>
+#14 0x5f0ced9c79a3 <unknown>
+#15 0x5f0ced99360e <unknown>
+#16 0x5f0ced994dd1 <unknown>
+#17 0x5f0cede5eddb <unknown>
+#18 0x5f0cede62cbc <unknown>
+#19 0x5f0cede46392 <unknown>
+#20 0x5f0cede63834 <unknown>
+#21 0x5f0cede2a1ef <unknown>
+#22 0x5f0cede87038 <unknown>
+#23 0x5f0cede87216 <unknown>
+#24 0x5f0cede97896 <unknown>
+#25 0x77786ce94ac3 <unknown>
+
+2025-04-09 09:52:23,529 - ERROR - Lỗi trình duyệt khi xử lý https://vndoc.com/bai-tap-cuoi-tuan-toan-lop-5-ket-noi-tri-thuc-tuan-8-329098: Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=134.0.6998.35)
+Stacktrace:
+#0 0x629e08094a1a <unknown>
+#1 0x629e07b4c390 <unknown>
+#2 0x629e07b43518 <unknown>
+#3 0x629e07b33a39 <unknown>
+#4 0x629e07b3573d <unknown>
+#5 0x629e07b33dce <unknown>
+#6 0x629e07b33775 <unknown>
+#7 0x629e07b33449 <unknown>
+#8 0x629e07b31159 <unknown>
+#9 0x629e07b31a2a <unknown>
+#10 0x629e07b4f829 <unknown>
+#11 0x629e07bead85 <unknown>
+#12 0x629e07bc3bd2 <unknown>
+#13 0x629e07bea07b <unknown>
+#14 0x629e07bc39a3 <unknown>
+#15 0x629e07b8f60e <unknown>
+#16 0x629e07b90dd1 <unknown>
+#17 0x629e0805addb <unknown>
+#18 0x629e0805ecbc <unknown>
+#19 0x629e08042392 <unknown>
+#20 0x629e0805f834 <unknown>
+#21 0x629e080261ef <unknown>
+#22 0x629e08083038 <unknown>
+#23 0x629e08083216 <unknown>
+#24 0x629e08093896 <unknown>
+#25 0x732d39694ac3 <unknown>
+
+2025-04-09 09:52:24,201 - ERROR - Lỗi trình duyệt khi xử lý https://vndoc.com/toan-lop-4-bai-116-luyen-tap-chung-336841: Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=134.0.6998.35)
+Stacktrace:
+#0 0x63200a0fda1a <unknown>
+#1 0x632009bb5390 <unknown>
+#2 0x632009bac518 <unknown>
+#3 0x632009b9ca39 <unknown>
+#4 0x632009b9e73d <unknown>
+#5 0x632009b9cdce <unknown>
+#6 0x632009b9c775 <unknown>
+#7 0x632009b9c449 <unknown>
+#8 0x632009b9a159 <unknown>
+#9 0x632009b9aa2a <unknown>
+#10 0x632009bb8829 <unknown>
+#11 0x632009c53d85 <unknown>
+#12 0x632009c2cbd2 <unknown>
+#13 0x632009c5307b <unknown>
+#14 0x632009c2c9a3 <unknown>
+#15 0x632009bf860e <unknown>
+#16 0x632009bf9dd1 <unknown>
+#17 0x63200a0c3ddb <unknown>
+#18 0x63200a0c7cbc <unknown>
+#19 0x63200a0ab392 <unknown>
+#20 0x63200a0c8834 <unknown>
+#21 0x63200a08f1ef <unknown>
+#22 0x63200a0ec038 <unknown>
+#23 0x63200a0ec216 <unknown>
+#24 0x63200a0fc896 <unknown>
+#25 0x759299494ac3 <unknown>
+
+2025-04-09 09:52:33,509 - ERROR - Lỗi trình duyệt khi xử lý https://vndoc.com/phieu-bai-tap-cuoi-tuan-lop-5-mon-toan-nang-cao-ket-noi-tri-thuc-tuan-9-331133: Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=134.0.6998.35)
+Stacktrace:
+#0 0x5ad5b8e00a1a <unknown>
+#1 0x5ad5b88b8390 <unknown>
+#2 0x5ad5b88af518 <unknown>
+#3 0x5ad5b889fa39 <unknown>
+#4 0x5ad5b88a173d <unknown>
+#5 0x5ad5b889fdce <unknown>
+#6 0x5ad5b889f775 <unknown>
+#7 0x5ad5b889f449 <unknown>
+#8 0x5ad5b889d159 <unknown>
+#9 0x5ad5b889da2a <unknown>
+#10 0x5ad5b88bb829 <unknown>
+#11 0x5ad5b8956d85 <unknown>
+#12 0x5ad5b892fbd2 <unknown>
+#13 0x5ad5b895607b <unknown>
+#14 0x5ad5b892f9a3 <unknown>
+#15 0x5ad5b88fb60e <unknown>
+#16 0x5ad5b88fcdd1 <unknown>
+#17 0x5ad5b8dc6ddb <unknown>
+#18 0x5ad5b8dcacbc <unknown>
+#19 0x5ad5b8dae392 <unknown>
+#20 0x5ad5b8dcb834 <unknown>
+#21 0x5ad5b8d921ef <unknown>
+#22 0x5ad5b8def038 <unknown>
+#23 0x5ad5b8def216 <unknown>
+#24 0x5ad5b8dff896 <unknown>
+#25 0x7ba247094ac3 <unknown>
+
+2025-04-09 09:52:35,100 - ERROR - Lỗi trình duyệt khi xử lý https://vndoc.com/bai-tap-cuoi-tuan-toan-lop-5-ket-noi-tri-thuc-tuan-9-329103: Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=134.0.6998.35)
+Stacktrace:
+#0 0x6083dac24a1a <unknown>
+#1 0x6083da6dc390 <unknown>
+#2 0x6083da6d3518 <unknown>
+#3 0x6083da6c3a39 <unknown>
+#4 0x6083da6c573d <unknown>
+#5 0x6083da6c3dce <unknown>
+#6 0x6083da6c3775 <unknown>
+#7 0x6083da6c3449 <unknown>
+#8 0x6083da6c1159 <unknown>
+#9 0x6083da6c1a2a <unknown>
+#10 0x6083da6df829 <unknown>
+#11 0x6083da77ad85 <unknown>
+#12 0x6083da753bd2 <unknown>
+#13 0x6083da77a07b <unknown>
+#14 0x6083da7539a3 <unknown>
+#15 0x6083da71f60e <unknown>
+#16 0x6083da720dd1 <unknown>
+#17 0x6083dabeaddb <unknown>
+#18 0x6083dabeecbc <unknown>
+#19 0x6083dabd2392 <unknown>
+#20 0x6083dabef834 <unknown>
+#21 0x6083dabb61ef <unknown>
+#22 0x6083dac13038 <unknown>
+#23 0x6083dac13216 <unknown>
+#24 0x6083dac23896 <unknown>
+#25 0x740659094ac3 <unknown>
+
+2025-04-09 09:52:37,596 - ERROR - Lỗi trình duyệt khi xử lý https://vndoc.com/toan-lop-4-bai-119-on-tap-chu-de-4-tiep-theo-336851: Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=134.0.6998.35)
+Stacktrace:
+#0 0x5b25d5b67a1a <unknown>
+#1 0x5b25d561f390 <unknown>
+#2 0x5b25d5616518 <unknown>
+#3 0x5b25d5606a39 <unknown>
+#4 0x5b25d560873d <unknown>
+#5 0x5b25d5606dce <unknown>
+#6 0x5b25d5606775 <unknown>
+#7 0x5b25d5606449 <unknown>
+#8 0x5b25d5604159 <unknown>
+#9 0x5b25d5604a2a <unknown>
+#10 0x5b25d5622829 <unknown>
+#11 0x5b25d56bdd85 <unknown>
+#12 0x5b25d5696bd2 <unknown>
+#13 0x5b25d56bd07b <unknown>
+#14 0x5b25d56969a3 <unknown>
+#15 0x5b25d566260e <unknown>
+#16 0x5b25d5663dd1 <unknown>
+#17 0x5b25d5b2dddb <unknown>
+#18 0x5b25d5b31cbc <unknown>
+#19 0x5b25d5b15392 <unknown>
+#20 0x5b25d5b32834 <unknown>
+#21 0x5b25d5af91ef <unknown>
+#22 0x5b25d5b56038 <unknown>
+#23 0x5b25d5b56216 <unknown>
+#24 0x5b25d5b66896 <unknown>
+#25 0x75229aa94ac3 <unknown>
+
+2025-04-09 09:52:37,630 - ERROR - Lỗi trình duyệt khi xử lý https://vndoc.com/bai-tap-cuoi-tuan-mon-toan-lop-5-tuan-10-de-1-153179: Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=134.0.6998.35)
+Stacktrace:
+#0 0x56c5b0e6fa1a <unknown>
+#1 0x56c5b0927390 <unknown>
+#2 0x56c5b091e518 <unknown>
+#3 0x56c5b090ea39 <unknown>
+#4 0x56c5b091073d <unknown>
+#5 0x56c5b090edce <unknown>
+#6 0x56c5b090e775 <unknown>
+#7 0x56c5b090e449 <unknown>
+#8 0x56c5b090c159 <unknown>
+#9 0x56c5b090ca2a <unknown>
+#10 0x56c5b092a829 <unknown>
+#11 0x56c5b09c5d85 <unknown>
+#12 0x56c5b099ebd2 <unknown>
+#13 0x56c5b09c507b <unknown>
+#14 0x56c5b099e9a3 <unknown>
+#15 0x56c5b096a60e <unknown>
+#16 0x56c5b096bdd1 <unknown>
+#17 0x56c5b0e35ddb <unknown>
+#18 0x56c5b0e39cbc <unknown>
+#19 0x56c5b0e1d392 <unknown>
+#20 0x56c5b0e3a834 <unknown>
+#21 0x56c5b0e011ef <unknown>
+#22 0x56c5b0e5e038 <unknown>
+#23 0x56c5b0e5e216 <unknown>
+#24 0x56c5b0e6e896 <unknown>
+#25 0x775f66e94ac3 <unknown>
+
+2025-04-09 09:52:40,025 - ERROR - Lỗi trình duyệt khi xử lý https://vndoc.com/toan-lop-4-bai-120-phep-cong-phan-so-336860: Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=134.0.6998.35)
+Stacktrace:
+#0 0x62d97668aa1a <unknown>
+#1 0x62d976142390 <unknown>
+#2 0x62d976139518 <unknown>
+#3 0x62d976129a39 <unknown>
+#4 0x62d97612b73d <unknown>
+#5 0x62d976129dce <unknown>
+#6 0x62d976129775 <unknown>
+#7 0x62d976129449 <unknown>
+#8 0x62d976127159 <unknown>
+#9 0x62d976127a2a <unknown>
+#10 0x62d976145829 <unknown>
+#11 0x62d9761e0d85 <unknown>
+#12 0x62d9761b9bd2 <unknown>
+#13 0x62d9761e007b <unknown>
+#14 0x62d9761b99a3 <unknown>
+#15 0x62d97618560e <unknown>
+#16 0x62d976186dd1 <unknown>
+#17 0x62d976650ddb <unknown>
+#18 0x62d976654cbc <unknown>
+#19 0x62d976638392 <unknown>
+#20 0x62d976655834 <unknown>
+#21 0x62d97661c1ef <unknown>
+#22 0x62d976679038 <unknown>
+#23 0x62d976679216 <unknown>
+#24 0x62d976689896 <unknown>
+#25 0x7fad95894ac3 <unknown>
+
+2025-04-09 09:52:42,829 - ERROR - Lỗi trình duyệt khi xử lý https://vndoc.com/phieu-bai-tap-cuoi-tuan-lop-5-mon-toan-nang-cao-ket-noi-tri-thuc-tuan-10-331145: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=134.0.6998.35)
+Stacktrace:
+#0 0x59f445fcea1a <unknown>
+#1 0x59f445a86390 <unknown>
+#2 0x59f445a7d518 <unknown>
+#3 0x59f445a6da39 <unknown>
+#4 0x59f445a6f73d <unknown>
+#5 0x59f445a6ddce <unknown>
+#6 0x59f445a6d775 <unknown>
+#7 0x59f445a6d449 <unknown>
+#8 0x59f445a6b159 <unknown>
+#9 0x59f445a6ba2a <unknown>
+#10 0x59f445a89829 <unknown>
+#11 0x59f445b24d85 <unknown>
+#12 0x59f445afdbd2 <unknown>
+#13 0x59f445b2407b <unknown>
+#14 0x59f445afd9a3 <unknown>
+#15 0x59f445ac960e <unknown>
+#16 0x59f445acadd1 <unknown>
+#17 0x59f445f94ddb <unknown>
+#18 0x59f445f98cbc <unknown>
+#19 0x59f445f7c392 <unknown>
+#20 0x59f445f99834 <unknown>
+#21 0x59f445f601ef <unknown>
+#22 0x59f445fbd038 <unknown>
+#23 0x59f445fbd216 <unknown>
+#24 0x59f445fcd896 <unknown>
+#25 0x7122de494ac3 <unknown>
+
+2025-04-09 09:52:43,060 - ERROR - Lỗi trình duyệt khi xử lý https://vndoc.com/toan-lop-4-bai-121-luyen-tap-336871: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=134.0.6998.35)
+Stacktrace:
+#0 0x585effb86a1a <unknown>
+#1 0x585eff63e390 <unknown>
+#2 0x585eff635518 <unknown>
+#3 0x585eff625a39 <unknown>
+#4 0x585eff62773d <unknown>
+#5 0x585eff625dce <unknown>
+#6 0x585eff625775 <unknown>
+#7 0x585eff625449 <unknown>
+#8 0x585eff623159 <unknown>
+#9 0x585eff623a2a <unknown>
+#10 0x585eff641829 <unknown>
+#11 0x585eff6dcd85 <unknown>
+#12 0x585eff6b5bd2 <unknown>
+#13 0x585eff6dc07b <unknown>
+#14 0x585eff6b59a3 <unknown>
+#15 0x585eff68160e <unknown>
+#16 0x585eff682dd1 <unknown>
+#17 0x585effb4cddb <unknown>
+#18 0x585effb50cbc <unknown>
+#19 0x585effb34392 <unknown>
+#20 0x585effb51834 <unknown>
+#21 0x585effb181ef <unknown>
+#22 0x585effb75038 <unknown>
+#23 0x585effb75216 <unknown>
+#24 0x585effb85896 <unknown>
+#25 0x7db6cde94ac3 <unknown>
+
+2025-04-09 09:52:45,928 - ERROR - Lỗi trình duyệt khi xử lý https://vndoc.com/bai-tap-cuoi-tuan-toan-lop-5-ket-noi-tri-thuc-tuan-10-330611: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=134.0.6998.35)
+Stacktrace:
+#0 0x597f193c1a1a <unknown>
+#1 0x597f18e79390 <unknown>
+#2 0x597f18e70518 <unknown>
+#3 0x597f18e60a39 <unknown>
+#4 0x597f18e6273d <unknown>
+#5 0x597f18e60dce <unknown>
+#6 0x597f18e60775 <unknown>
+#7 0x597f18e60449 <unknown>
+#8 0x597f18e5e159 <unknown>
+#9 0x597f18e5ea2a <unknown>
+#10 0x597f18e7c829 <unknown>
+#11 0x597f18f17d85 <unknown>
+#12 0x597f18ef0bd2 <unknown>
+#13 0x597f18f1707b <unknown>
+#14 0x597f18ef09a3 <unknown>
+#15 0x597f18ebc60e <unknown>
+#16 0x597f18ebddd1 <unknown>
+#17 0x597f19387ddb <unknown>
+#18 0x597f1938bcbc <unknown>
+#19 0x597f1936f392 <unknown>
+#20 0x597f1938c834 <unknown>
+#21 0x597f193531ef <unknown>
+#22 0x597f193b0038 <unknown>
+#23 0x597f193b0216 <unknown>
+#24 0x597f193c0896 <unknown>
+#25 0x7553d6a94ac3 <unknown>
+
+2025-04-09 09:52:48,903 - ERROR - Lỗi trình duyệt khi xử lý https://vndoc.com/bai-tap-cuoi-tuan-mon-toan-lop-5-tuan-11-de-1-153613: Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=134.0.6998.35)
+Stacktrace:
+#0 0x63465ad5ca1a <unknown>
+#1 0x63465a814390 <unknown>
+#2 0x63465a80b518 <unknown>
+#3 0x63465a7fba39 <unknown>
+#4 0x63465a7fd73d <unknown>
+#5 0x63465a7fbdce <unknown>
+#6 0x63465a7fb775 <unknown>
+#7 0x63465a7fb449 <unknown>
+#8 0x63465a7f9159 <unknown>
+#9 0x63465a7f9a2a <unknown>
+#10 0x63465a817829 <unknown>
+#11 0x63465a8b2d85 <unknown>
+#12 0x63465a88bbd2 <unknown>
+#13 0x63465a8b207b <unknown>
+#14 0x63465a88b9a3 <unknown>
+#15 0x63465a85760e <unknown>
+#16 0x63465a858dd1 <unknown>
+#17 0x63465ad22ddb <unknown>
+#18 0x63465ad26cbc <unknown>
+#19 0x63465ad0a392 <unknown>
+#20 0x63465ad27834 <unknown>
+#21 0x63465acee1ef <unknown>
+#22 0x63465ad4b038 <unknown>
+#23 0x63465ad4b216 <unknown>
+#24 0x63465ad5b896 <unknown>
+#25 0x7c842ce94ac3 <unknown>
+
+2025-04-09 09:52:49,004 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/0c5cc106c37b6665304306a31b9e3e51
+2025-04-09 09:52:49,005 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7531d27c7850>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/0c5cc106c37b6665304306a31b9e3e51
+2025-04-09 09:52:49,005 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7531d27c7d00>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/0c5cc106c37b6665304306a31b9e3e51
+2025-04-09 09:52:50,783 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/3c0683e6b79f88f49ebd211e281b58a6
+2025-04-09 09:52:50,783 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7e0ac6bbb2b0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/3c0683e6b79f88f49ebd211e281b58a6
+2025-04-09 09:52:50,783 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7e0ac6bbba00>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/3c0683e6b79f88f49ebd211e281b58a6
+2025-04-09 09:58:06,819 - INFO - Đã tải 472 URL đã xử lý từ checkpoint
+2025-04-09 09:58:06,819 - INFO - Bắt đầu xử lý 402 URLs...
+2025-04-09 09:58:09,899 - INFO - Đã tải 243 URL đã xử lý từ checkpoint
+2025-04-09 09:58:09,899 - INFO - Bắt đầu xử lý 387 URLs...
+2025-04-09 10:19:48,485 - WARNING - Timeout khi truy cập https://vndoc.com/toan-lop-5-chan-troi-sang-tao-bai-68-em-lam-duoc-nhung-gi-336189, lần thử 1/3
+2025-04-09 10:33:35,144 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/f2f2a99f1acb5f5484eb04ec12f028f5
+2025-04-09 10:33:35,148 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7a9f0a658e80>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/f2f2a99f1acb5f5484eb04ec12f028f5
+2025-04-09 10:33:35,149 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7a9f0a659cc0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/f2f2a99f1acb5f5484eb04ec12f028f5

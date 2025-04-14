@@ -1,0 +1,69 @@
+---
+url: https://vndoc.com/nghi-luan-ve-hoc-sinh-voi-viec-giu-gin-su-trong-sang-cua-tieng-viet-lop-8-297328
+title: Nghị luận về học sinh với việc giữ gìn sự trong sáng của tiếng Việt lớp 8 - Viết bài văn nghị luận về một vấn đề đời sống - VnDoc.com
+date_extracted: 2025-04-14 13:21:00
+description: Viết bài văn nghị luận về học sinh với việc giữ gìn sự trong sáng của tiếng Việt lớp 8 được biên soạn nhằm giúp các em HS đạt kết quả tốt trong quá trình làm bài tập và học tập môn Ngữ văn lớp 8.
+keywords: nghị luận giữ gìn sự trong sáng của tiếng Việt lớp 8,Viết bài văn nghị luận giữ gìn sự trong sáng của tiếng Việt,Nghị luận giữ gìn sự trong sáng của tiếng Việt lớp 8 Ngắn gọn,nghị luận về học sinh với việc giữ gìn sự trong sáng của tiếng Việt,Viết văn bản nghị luận về học sinh với việc giữ gìn sự trong sáng của tiếng Việt,Viết bài văn nghị luận về học sinh với việc giữ gìn sự trong sáng của tiếng Việt,bài văn nghị luận về học sinh với việc giữ gìn sự trong sáng của tiếng Việt lớp 8
+---
+
+# Nghị luận về học sinh với việc giữ gìn sự trong sáng của tiếng Việt lớp 8
+ _Viết bài văn nghị luận về một vấn đề đời sống_
+## **Nghị luận về học sinh với việc giữ gìn sự trong sáng của tiếng Việt lớp 8**
+  * Nghị luận giữ gìn sự trong sáng của tiếng Việt lớp 8 Ngắn gọn
+  * Viết bài văn nghị luận giữ gìn sự trong sáng của tiếng Việt - Mẫu 1
+  * Viết bài văn nghị luận giữ gìn sự trong sáng của tiếng Việt - Mẫu 2
+  * Viết bài văn nghị luận về một vấn đề đời sống Ngắn gọn
+  * Viết bài văn nghị luận về một vấn đề đời sống Hay Nhất
+
+**Bản quyền tài liệu thuộc về VnDoc.  
+Nghiêm cấm mọi hành vi sao chép với mục đích thương mại.**
+## **Nghị luận giữ gìn sự trong sáng của tiếng Việt lớp 8 Ngắn gọn**
+Tiếng Việt là ngôn ngữ của người Việt, là nòng cốt của nền văn hóa nước ta. Tuy nhiên, trong xã hội hiện đại ngày nay, cùng với sự du nhập của nhiều nền văn hóa khác thì nét trong sáng của tiếng Việt đang dần bị ảnh hưởng và cần được giữ gìn, bảo vệ.
+Vì sao lại cần phải giữ gìn sự trong sáng của tiếng Việt? Bởi vì hiện nay, nhiều người sử dụng tiếng Việt một cách thiếu chuẩn mực. Họ biến tướng các từ ngữ gốc thành thứ ngôn ngữ kí hiệu không có ý nghĩa. Chế tạo ra các cụm từ mới với ý nghĩa độc hại và gán ghép, sử dụng với mục đích xấu. Ban đầu, đó chỉ là cách viết tắt, viết kí hiệu nhằm tạo cá tính riêng hoặc rút gọn thời gian viết khi vội. Nhưng dần dần, thứ ngôn ngữ độc hại đó ngày càng lan rộng và xâm lấn mạnh mẽ, xuất hiện trong mọi cuộc trò chuyện, thậm chí ám vào  sách vở. Điều đó làm tiếng Việt - một ngôn ngữ hay và trong sáng dần bị biến chất. Trong đó, các bạn học sinh là những người sử dụng và chịu ảnh hưởng nhiều nhất. Các bạn học sinh là tương lai của đất nước, nên càng cần phải có biện pháp xử lí, răn đe phù hợp khi các bạn sử dụng những ngôn từ thiếu chuẩn mực, bất lịch sự trong giao tiếp hoặc viết bài. Bởi điều đó không chỉ ảnh hưởng đến tiếng Việt, mà còn ảnh hưởng trực tiếp đến cách người khác đánh giá, nhìn nhận về các bạn. Vì vậy, chúng ta cần hành động ngay và thật quyết liệt để đầy lùi hiện tượng này. Chỉ khi nhà trường và gia đình cùng nhau phối hợp thì mới đạt hiệu quả cao nhất. Nhưng cuối cùng, vẫn cần chính các bạn học sinh nhận thức được tầm quan trọng của vấn đề và tự mình sửa chữa, thì mới giải quyết triệt để được.
+Dù trong thời đại nào, xã hội phát triển ra sao, các giá trị thay đổi như thế nào, thì tiếng Việt vẫn phải là tiếng Việt. Là thế hệ trẻ - tương lai của đất nước, chúng ta cần có trách nhiệm tiếp bước cha ông gìn giữ sự trong sáng ấy của tiếng Việt.
+## **Viết bài văn nghị luận giữ gìn sự trong sáng của tiếng Việt - Mẫu 1**
+“Tiếng Việt còn, nước ta còn”. Câu nói đó có lẽ không hề xa lạ với bất kì người dân Việt Nam ta. Dù trải qua nhiều lần bị giặc ngoại xâm đô hộ, nhưng người dân ta vẫn luôn gìn giữ được tiếng nói của dân tộc mình. Đó là một niềm tự hào to lớn của người Việt. Tuy nhiên, trong cuộc sống hiện đại ngày nay, việc gìn giữ tiếng Việt đang gặp phải những thách thức to lớn, khi nó dần bị một bộ phận người trẻ làm mất đi sự trong sáng vốn có.
+Sự trong sáng của tiếng Việt chính là chỉ việc chúng ta sử dụng tiếng Việt để nói, viết, đọc một cách chính xác, đúng với nghĩa vốn có của nó. Nghe thì có vẻ thật hiển nhiên và đơn giản, tuy nhiên, điều này lại trở nên khó khăn trong thời đại công nghệ hiện nay. Bởi có một bộ phận người trẻ đã cố tình biến tấu tiếng Việt thành một dạng ngôn ngữ mới với cách nói, cách viết và hàm nghĩa khác đi, mang nét tiêu cực. Điều này thường bắt gặp ở giới trẻ, đặc biệt là ở các trang mạng xã hội mà họ sử dụng để giao lưu, trao đổi. Thoạt đầu, đó chỉ là những cách kí hiệu giúp rút ngắn thời gian ghi chép, hoặc tạo nên ẩn ý thú vị. Nhưng dần dần, chúng trở nên biến chất hơn, trở thành những từ ngữ có cách đọc, viết kì quái, biểu thị cho các nội dung độc hại. Khiến người nghe cảm thấy khó chịu khi tiếp xúc. Ranh giới giữa sự đổi mới, giải trí và sự tha hóa, suy đồi trong ngữ nghĩa và cách sử dụng tiếng Việt ở đây rất mong manh. Do đó nhiều bạn trẻ không hề ý thức được sự sai lầm của bản thân, không hề nhận ra rằng bản thân đã và đang khiến tiếng Việt dần mất đi sự trong sáng và ý nghĩa của tiếng Việt.
+Do đó, chúng ta cần phải kéo lên một hồi chuông cảnh tỉnh mạnh mẽ tới những người trẻ - mặt trời ban trưa của tổ quốc. Để họ nhận thức được tính nghiêm trọng của hành động cố tình sử dụng sai lệch, gán nghĩa tiêu cực, suy đồi. Từ đó có các hành động thiết thực hơn nhằm bảo vệ sự trong sáng của tiếng Việt. Điều này cần được nâng cao và đẩy mạnh thông qua các biện pháp giáo dục và tuyên truyền, đặc biệt trên các phương tiện truyền thông đại chúng cùng các trang mạng xã hội. Hiện nay, giới trẻ đã và đang làm rất tốt điều này, góp phần giữ gìn và phát huy nét đẹp của tiếng Việt.
+Do đó, chúng ta hoàn toàn có thể tự tin rằng, thế hệ trẻ ngày nay sẽ tiếp bước cha ông, gìn giữ sự trong sáng của tiếng Việt để tiếp tục truyền lại cho các thế hệ mai sau.
+## **Viết bài văn nghị luận giữ gìn sự trong sáng của tiếng Việt - Mẫu 2**
+Tiếng Việt là tiếng nói, là ngôn ngữ của nước Việt Nam ta. Nó không chỉ là phương tiện để trao đổi đơn thuần, mà còn có vai trò then chốt trong việc gìn giữ và phát triển văn hóa dân tộc. Giống như Phạm Quỳnh đã từng nói “Tiếng ta còn, nước ta còn”.
+Lịch sử nước ta đã trải qua cả nghìn năm đầy biến động, với không ít lần bị kẻ thù đô hộ, nhưng chưa bao giờ chúng ta quên đi tiếng nói của mình. Tiếng Việt là tiếng nói của người Việt, là biểu hiện của văn hóa dân tộc Việt không thể nào bị trộn lẫn, bị đồng hóa, bị cướp đoạt. Đó là niềm tự hào, là sợi dây gắn kết những đồng bào cùng chung dòng máu Tiên Rồng với nhau.
+Trân quý đến như vậy, nhưng hiện nay lại có một bộ phận học sinh đã sử dụng tiếng Việt không còn thuần túy nữa. Các bạn ấy đã tự mình “sáng tạo” ra những cách dùng mới với lối nói và hàm nghĩa riêng, làm mất đi sự trong sáng của tiếng Việt. Những từ ngữ ấy là các cách viết tắt, viết bằng kí hiệu, hoặc tiếng lóng, tiếng đảo ngữ. Thậm chí là gán ghép các mặt nghĩa đen tối, thiếu đứng đắn cho một từ ngữ rồi dùng một cách phổ biến. Các từ ngữ ấy được sử dụng để các bạn học sinh trao đổi với nhau, trước hết là trên mạng xã hội dành cho giới trẻ. Lúc đầu, chúng giúp rút ngắn thời gian khi nói, viết. Đồng thời tạo cảm giác hài hước, thú vị cho câu thoại. Tuy nhiên, theo thời gian, mọi thứ dần bị biến chất. Các bạn ấy sử dụng các từ ngữ đó cả khi nói chuyện với người lớn, trong cuộc hội thoại ở nơi công cộng, rồi nhiều bạn còn “lậm” cả vào trong bài vở. Nếu chỉ sử dụng giữa những người bạn với nhau, thì còn có thể xếp các từ ngữ đó vào nhóm biệt ngữ. Nhưng khi nó đã được đưa ra để sử dụng ở nơi công cộng thì sẽ trở thành hành vi bất lịch sự. Đặc biệt là khi các bạn ấy còn truyền đạt cho cả người nước ngoài, thậm chí là quên mất việc sử dụng các từ ngữ “chính thống”. Điều đó khiến cho tiếng Việt - một ngôn ngữ chứa đầy lòng tự hào của dân tộc dần mất đi sự trong sáng của nó. Đây là một thực trạng hết sức đáng buồn. Bởi các bạn học sinh là tương lai của đất nước, mà chính tương lai ấy lại đang có những hành vi thiếu chuẩn mực.
+Do đó, chúng ta cần phải có những hành vi thiết thực và phù hợp để chấn chỉnh lại hiện tượng này. Đó không phải là ngăn cấm hoàn toàn việc sử dụng các “biệt ngữ” của riêng các bạn. Mà cần yêu cầu các bạn ấy sử dụng chúng đúng môi trường và đối tượng phù hợp. Đồng thời, có các hoạt động, chương trình tuyên truyền và giáo dục về giá trị của tiếng Việt, để giúp các bạn học sinh thêm yêu quý và thấu hiệu hơn về ngôn ngữ của dân tộc mình. Cùng với đó, cần có các biện pháp răn đe, xử phạt hợp lí với các trường hợp nhiều lần cố tình có hành vi phá hoại sự trong sáng của tiếng Việt.
+Học sinh là tương lai của đất nước của dân tộc. Vì vậy, chính các bạn học sinh phải tự ý thức được vai trò và tầm quan trọng của bản thân trong việc bảo vệ và gìn giữ sự trong sáng của tiếng Việt. Để từ đó có những hành vi đúng mực và phù hợp với vai trò của bản thân.
+## **Viết bài văn nghị luận về một vấn đề đời sống Ngắn gọn**
+Tham khảo các bài văn nghị luận ngắn gọn tại đây [Viết văn bản nghị luận về một vấn đề của đời sống lớp 8 Ngắn gọn](<https://vndoc.com/nghi-luan-ve-mot-van-de-doi-song-lop-8-ngan-gon-297251>)
+## **Viết bài văn nghị luận về một vấn đề đời sống Hay Nhất**
+Tham khảo các bài văn mẫu nghị luận về nhiều vấn đề khác nhau trong đời sống tại đây: [Viết văn bản nghị luận về một vấn đề của đời sống lớp 8](<https://vndoc.com/viet-van-ban-nghi-luan-ve-mot-van-de-cua-doi-song-lop-8-297249>)
+Xem thêm các bài Tìm bài trong mục này khác:
+  * [Nghị luận về giữ gìn và phát huy giá trị văn hóa của dân tộc thông qua việc tổ chức một lễ hội ở quê em](</nghi-luan-ve-giu-gin-va-phat-huy-gia-tri-van-hoa-cua-dan-toc-thong-qua-viec-to-chuc-mot-le-hoi-o-que-em-297411>)
+  * [Nghị luận về trách nhiệm của con người đối với nơi mình sinh sống](</bai-tap-on-he-lop-3-len-lop-4-mon-tieng-viet-chuong-trinh-moi-297296>)
+  * [Nghị luận về sự tùy tiện khi tham gia giao thông của một số người dân](</nghi-luan-ve-su-tuy-tien-khi-tham-gia-giao-thong-cua-mot-so-nguoi-dan-lop-8-297415>)
+  * [Nghị luận về thói kiêu ngạo, thích chơi trội của một bộ phận thanh thiếu niên](</nghi-luan-ve-thoi-kieu-ngao-thich-choi-troi-cua-mot-bo-phan-thanh-thieu-nien-lop-8-297418>)
+  * [Nghị luận về thói lười nhác, hay than vãn](</nghi-luan-ve-thoi-luoi-nhac-hay-than-van-lop-8-297419>)
+  * [Nghị luận về sự ba phải, thiếu chủ kiến khi làm việc nhóm](</nghi-luan-ve-su-ba-phai-thieu-chu-kien-khi-lam-viec-nhom-lop-8-297420>)
+  * [Nghị luận về lối sống ảo mà một số người đang theo đuổi](</nghi-luan-ve-loi-song-ao-ma-mot-so-nguoi-dang-theo-duoi-lop-8-297422>)
+  * [Nghị luận về thói ích kỉ](</trinh-bay-suy-nghi-cua-em-ve-loi-song-ich-ki-171119>)
+  * [Nghị luận về hiện tượng bắt nạt \(hiện tượng bạo lực học đường\)](</nghi-luan-ve-hien-tuong-bat-nat-nghi-luan-ve-bao-luc-hoc-duong-lop-8-303099>)
+  * [Nghị luận về tình trạng ô nhiễm môi trường](</nghi-luan-ve-tinh-trang-o-nhiem-moi-truong-lop-8-303100>)
+  * [Nghị luận về tác hại của trò chơi điện tử với học sinh](</em-hay-trinh-bay-tac-hai-cua-tro-choi-dien-tu-voi-hoc-sinh-151206>)
+  * [Nghị luận về vai trò của thế hệ trẻ trong công cuộc xây dựng và bảo vệ đất nước](</nghi-luan-ve-vai-tro-cua-the-he-tre-trong-cong-cuoc-xay-dung-va-bao-ve-dat-nuoc-lop-8-303101>)
+  * [Nghị luận về một vấn đề đời sống phù hợp với lứa tuổi được gợi ra từ tác phẩm văn học](</nghi-luan-ve-mot-van-de-doi-song-phu-hop-voi-lua-tuoi-duoc-goi-ra-tu-tac-pham-van-hoc-lop-8-303103>)
+  * [Trình bày ý kiến về một vấn đề xã hội: Văn học trong đời sống hiện nay](</trinh-bay-y-kien-ve-mot-van-de-xa-hoi-van-hoc-trong-doi-song-hien-nay-lop-8-303105>)
+  * [Trình bày ý kiến của em về hiện tượng Hay đổ lỗi cho người khác](</trinh-bay-y-kien-cua-em-ve-hien-tuong-hay-do-loi-cho-nguoi-khac-lop-8-303106>)
+  * [Suy nghĩ của em về lòng nhân ái trong cuộc sống sau khi học truyện Gió lạnh đầu mùa](</suy-nghi-cua-em-ve-long-nhan-ai-trong-cuoc-song-sau-khi-hoc-truyen-gio-lanh-dau-mua-lop-8-303107>)
+  * [Thảo luận ý kiến về một vấn đề trong đời sống: Gia đình có vai trò như thế nào trong cuộc sống của mỗi chúng ta?](</thao-luan-gia-dinh-co-vai-tro-nhu-the-nao-trong-cuoc-song-cua-moi-chung-ta-lop-8-303108>)
+  * [Thảo luận ý kiến về một vấn đề trong đời sống: Tình cảm quê hương quan trọng với mỗi người như thế nào?](</thao-luan-tinh-cam-que-huong-quan-trong-voi-moi-nguoi-nhu-the-nao-lop-8-303110>)
+  * [Trình bày suy nghĩ của em về cách ứng xử với những số phận thiếu may mắn trong cuộc sống](</trinh-bay-suy-nghi-cua-em-ve-cach-ung-xu-voi-nhung-so-phan-thieu-may-man-trong-cuoc-song-lop-8-303112>)
+  * [Nghị luận về Bảo vệ rừng là bảo vệ cuộc sống của chúng ta](</bai-van-mau-lop-7-bai-viet-so-2-de-2-hay-chung-minh-rang-bao-ve-rung-la-bao-ve-cuoc-song-cua-chung-ta-99265>)
+  * [Nghị luận về Bảo vệ rừng](</hay-chung-minh-rang-bao-ve-rung-la-bao-ve-cuoc-song-cua-chung-ta-192795>)
+  * [Nghị luận về một thói xấu của con người trong xã hội hiện đại Ngắn gọn](</nghi-luan-ve-mot-thoi-xau-cua-con-nguoi-trong-xa-hoi-hien-dai-ngan-gon-lop-8-311631>)
+  * [Nghị luận về một thói xấu của con người trong xã hội hiện đại](</nghi-luan-ve-mot-thoi-xau-cua-con-nguoi-trong-xa-hoi-hien-dai-lop-8-311634>)
+  * [Suy nghĩ của em về những biểu hiện của tình yêu Tổ quốc](</suy-nghi-cua-em-ve-nhung-bieu-hien-cua-tinh-yeu-to-quoc-lop-8-311653>)
+  * [Nghị luận về hút thuốc lá ở học sinh](</van-mau-lop-8-nghi-luan-ve-viec-hut-thuoc-la-hien-nay-6781>)
+  * [Nghị luận về tình yêu quê hương, đất nước của thế hệ trẻ ngày nay](</nghi-luan-ve-tinh-yeu-que-huong-dat-nuoc-cua-the-he-tre-ngay-nay-151019>)
+  * [Nghị luận về vấn đề học sinh nghiện game online](</nghi-luan-ve-van-de-hoc-sinh-nghien-game-online-162717>)
+  * [Nghị luận xã hội về sự vô cảm của con người ](</nghi-luan-xa-hoi-ve-su-vo-cam-cua-con-nguoi-trong-doi-song-xa-hoi-hien-nay-162877>)
+  * [Tuyển tập những bài văn nghị luận xã hội](</van-mau-lop-8-tuyen-tap-nhung-bai-van-nghi-luan-125185>)
+

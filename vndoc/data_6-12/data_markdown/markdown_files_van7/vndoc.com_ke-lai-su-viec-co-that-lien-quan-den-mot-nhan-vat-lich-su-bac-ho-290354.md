@@ -1,0 +1,42 @@
+---
+url: https://vndoc.com/ke-lai-su-viec-co-that-lien-quan-den-mot-nhan-vat-lich-su-bac-ho-290354
+title: Kể lại sự việc có thật liên quan đến một nhân vật lịch sử Bác Hồ - Viết bài văn kể lại sự việc có thật liên quan đến một nhân vật lịch sử - VnDoc.com
+date_extracted: 2025-04-14 13:38:37
+description: Viết bài văn kể lại sự việc có thật liên quan đến một nhân vật lịch sử Bác Hồ lớp 7 được biên soạn nhằm giúp các em HS đạt kết quả tốt trong quá trình làm bài tập và học tập môn Ngữ văn lớp 7.
+keywords: Kể lại sự việc có thật liên quan đến một nhân vật lịch sử Bác Hồ,Viết bài văn kể lại sự việc có thật liên quan đến Bác Hồ,Viết bài văn kể lại sự việc có thật liên quan đến một nhân vật lịch sử Bác Hồ,Viết bài văn kể lại sự việc có thật liên quan đến một nhân vật lịch sử Hồ Chí Minh,Viết bài văn kể lại sự việc có thật liên quan đến một nhân vật lịch sử,kể lại sự việc có thật liên quan đến một nhân vật lịch sử,bài văn kể lại sự việc có thật liên quan đến một nhân vật lịch sử
+---
+
+# Kể lại sự việc có thật liên quan đến một nhân vật lịch sử Bác Hồ
+ _Viết bài văn kể lại sự việc có thật liên quan đến một nhân vật lịch sử_
+## **Kể lại sự việc có thật liên quan đến một nhân vật lịch sử Bác Hồ lớp 7**
+  * Kể lại sự việc có thật liên quan đến một nhân vật lịch sử Bác Hồ - Mẫu 1
+  * Viết bài văn kể lại sự việc có thật liên quan đến Bác Hồ - Mẫu 2
+  * Viết bài văn kể lại sự việc có thật liên quan đến một nhân vật lịch sử Bác Hồ - Mẫu 3
+  * Viết bài văn kể lại sự việc có thật liên quan đến một nhân vật lịch sử
+
+**Viết bài văn kể lại sự việc có thật liên quan đến một nhân vật lịch sử Bác Hồ lớp 7** với các đoạn văn mẫu hay và đa dạng sẽ giúp các em có thêm tài liệu tham khảo, để học tập tốt môn Ngữ văn 7.
+**Bản quyền tài liệu thuộc về VnDoc.  
+Nghiêm cấm mọi hành vi sao chép với mục đích thương mại.**
+## **Kể lại sự việc có thật liên quan đến một nhân vật lịch sử Bác Hồ - Mẫu 1**
+Bác Hồ là người anh hùng lịch sử vĩ đại được nhân dân kính yêu, không chỉ ở Việt Nam ta mà còn trên toàn thế giới. Xoay quanh cuộc đời Bác, có rất nhiều những sự việc hay và ý nghĩa, giúp nhân dân hiểu thêm về bậc vĩ nhân này. Một trong số đó là mẩu chuyện về Bác và bác sĩ Chánh.
+Chuyện kể rằng, hồi đó bác sĩ Chánh được giao nhiệm vụ chăm sóc sức khỏe đặc biệt cho Bác Hồ. Nhưng khi bác sĩ đến nơi, Bác Hồ lại cho rằng mình không bị ốm thì không cần bác sĩ riêng túc trực. Nên đã dặn dò bác sĩ Chánh xuống chỗ chú Phan Mỹ để ở và chăm sóc cho các chú ở đó. Hành động ấy không chỉ thể hiện sự thanh bạch, giản dị ở Bác Hồ, mà còn thể hiện sự yêu thương, quan tâm của Bác với đồng bào.
+Một lần khác, khi Bác Hồ biết tin có một đoàn công tác mới đến gần nơi đóng quân. Trong đoàn có vợ của bác sĩ Chánh mà hai người thì vì nhiệm vụ nên rất lâu chưa gặp mặt được. Vì vậy, Bác Hồ đã cử bác sĩ Chánh đi công tác ở nơi vợ làm việc, có ý cho hai người gặp mặt nhau. Nhưng sau khi hoàn thành nhiệm vụ, để đảm bảo thời gian, bác sĩ Chánh lại trở về ngay. Thấy bác sĩ về, Bác Hồ ngỏ lời hỏi thăm sức khỏe vợ ông, thì mới biết ông không hề ghé qua gặp vợ. Điều này làm Bác không vui, cho rằng bác sĩ chưa biết quan tâm đến vợ.
+Hai mẩu chuyện nhỏ ấy được bác sĩ Chánh kể lại. Nhờ vậy, chúng ta biết thêm một chút về Bác Hồ. Bên trong con người vĩ đại ấy, là một trái tim ấm áp, luôn nghĩ cho người khác. Sự quan tâm chu đáo, tinh tế ấy của Bác khiến em xúc động vô cùng.
+## **Viết bài văn kể lại sự việc có thật liên quan đến Bác Hồ - Mẫu 2**
+Bác Hồ là người cha già vĩ đại và đáng kính của cả dân tộc Việt Nam. Có rất nhiều những câu chuyện, sự kiện ý nghĩa về Bác được truyền tụng. Đặc biệt là những câu chuyện về Bác và thiếu nhi. Trong đó, câu chuyện được nhiều bạn nhỏ biết đến nhất, chính là câu chuyện về Bác Hồ và chiếc rễ đa tròn.
+Chuyện xảy ra ở khu vườn trong ngôi nhà sàn mà Bác sinh sống. Một đêm nọ, trời có mưa bão lớn, khiến cây đa già sau Bác bị gãy rơi rất nhiều đoạn rễ. Sáng hôm sau, lúc đi tập thể dục, Bác đã nhặt được các đoạn rễ đó. Trong số đó, có một nhánh rễ khác dài, bác tần ngần một chút, liền nghĩ ra ý kiến hay. Thế là Bác bèn gọi một chú cần vụ đang ở gần đó lại, nhờ chú trồng chiếc rễ đa này xuống phần đất trống ở góc vườn. Bác dặn anh cần vụ là trồng chiếc rễ thành hình tròn, nhưng anh vẫn không hiểu lắm. Nhìn chiếc rễ đã được cuộn lại trên tay, anh nghi hoặc hỏi lại Bác cách trồng. Thế là, Bác liền chỉ anh từng bước một. Đầu tiên là tìm hai chiếc cọc gỗ nhỏ, rồi đào hai cái lỗ để vùi rễ xuống. Hai cái lỗ đó cách nhau vừa bằng đúng đường kính của vòng rễ tròn vừa cuộn. Sau đó, vùi hai đầu của vòng rễ tròn xuống, và cố định thân vòng rễ vào hai chiếc cọc. Nhờ vậy, vòng rễ tròn được cố định đứng thẳng trên mặt đất. Chú cần vụ cứ thắc mắc mãi, vì sao lại phải trồng cầu kì như thế, dù sao rễ đa rất khỏe, cứ vùi xuống là sẽ mọc thành cây thôi mà. Nhưng Bác Hồ không giải thích gì, chỉ mỉm cười hiền từ nói rằng sau này anh sẽ hiểu. Rất nhiều năm sau, rễ đa nhỏ bé ngày nào đã lớn lên thành một cây đa cuộn tròn lại như cái cổng xinh xắn. Trẻ em đến thăm vườn Bác, bạn nào cũng thích thú lắm. Rủ nhau làm đoàn tau chạy qua chạy lai gốc cây vui vô cùng.
+Từ câu chuyện ấy, em càng thêm thán phục sự thông minh, sáng tạo của Bác Hồ. Nhưng hơn cả là tình yêu thương, quý mến của Bác dành cho các em thiếu nhi. Tình cảm ấy thật ấm áp và thiêng liêng biết bao nhiêu.
+## Viết bài văn kể lại sự việc có thật liên quan đến một nhân vật lịch sử Bác Hồ - Mẫu 3
+Bác Hồ là vị lãnh tụ vĩ đại của dân tộc Việt Nam ta. Suốt cả cuộc đời mình, Bác sống thanh bạch, giản dị. Những câu chuyện về Bác luôn đem đến những cảm xúc ý nghĩa và bài học giá trị. Trong những câu chuyện ấy, em nhớ nhất là câu chuyện về chiếc vòng bạc.
+Chuyện xảy ra từ lúc Bác đang ở Pác Pó trong những năm tháng ta đang chuẩn bị cho kháng chiến chống giặc ngoại xâm. Tuy là một vị lãnh tụ, nhưng Bác rất hòa đồng và yêu thương tất cả mọi người, giống như một vị cha già vậy. Đặc biệt, các em nhỏ lại càng yêu quý Bác hơn, lúc nào cũng quấn quýt bên Bác như đang chơi với ông của mình. Ít lâu sau, Bác rời Pác Pó để về xuôi thực hiện công việc. Lúc chia tay, người dân ai cũng buồn và bịn rịn lắm. Bỗng có một bé gái hằng ngày thường được Bác bế, tiến lại và xin được Bác mua cho chiếc vòng bạc làm quà.
+Hai năm sau, Bác lại lần nữa trở về Pác Pó, và bé gái năm xưa cũng đã lớn hơn rồi. Mọi người và cả chính cô bé cũng không còn nhớ về sự kiện năm đó nữa. Ấy thế mà, sau khi chào hỏi mọi người, Bác đã chủ động gọi cô bé ấy, rồi lấy từ trong túi một chiếc vòng bạc mới đưa cho cô bé. Thấy mọi người đều ngỡ ngàng, Bác mỉm cười hiền từ và giải thích “Cháu nó nhờ mua tức là nó thích lắm, mình là người lớn đã hứa thì phảilàm được, đó là "chữ tín". Chúng ta cần phải giữ trọn niềm tin với mọi người”. Lời dạy ấy của Bác khiến tất cả mọi người có mặt ngày hôm đó hết sức xúc động và ghi nhớ mãi.
+Câu chuyện ấy được mọi người kể cho nhau nghe, và đến ngày hôm nay, nó vẫn là một bài học có ý nghĩa sâu sắc về giữ chữ tín. Bác là một vị lãnh tụ với biết bao việc lớn, vậy mà vẫn luôn nhớ và giữ lời hứa với một cô bé dù đã hai năm trôi qua. Chính Bác đã lấy mình làm tấm gương để mọi người học tập và noi theo.
+## **Viết bài văn kể lại sự việc có thật liên quan đến một nhân vật lịch sử**
+Tham khảo các bài văn mẫu hay tại đây [Viết bài văn kể lại sự việc có thật liên quan đến một nhân vật lịch sử](<https://vndoc.com/viet-bai-van-ke-lai-su-viec-co-that-lien-quan-den-mot-nhan-vat-lich-su-289150>)
+\-------------------------------------------------
+Trên đây là tài liệu [Viết bài văn kể lại sự việc có thật liên quan đến một nhân vật lịch sử Bác Hồ](<https://vndoc.com/ke-lai-su-viec-co-that-lien-quan-den-mot-nhan-vat-lich-su-bac-ho-290354>). Ngoài ra, mời các bạn tham khảo thêm [đề thi giữa kì 1 lớp 7](<https://vndoc.com/de-thi-giua-ki-1-lop7>), [đề thi học kì 1 lớp 7](<https://vndoc.com/de-thi-hoc-ki-1-lop7>), [đề thi giữa kì 2 lớp 7](<https://vndoc.com/de-thi-giua-ki-2-lop7>) và [đề thi cuối kì 2 lớp 7](<https://vndoc.com/de-thi-hoc-ki-2-lop7>) tất cả các môn. Chúc các bạn học tập tốt và đạt kết quả cao trong năm học này.
+Xem thêm các bài Tìm bài trong mục này khác:
+  * [Kể lại sự việc có thật liên quan đến một nhân vật lịch sử Mạc Đĩnh Chi](</ke-lai-su-viec-co-that-lien-quan-den-mot-nhan-vat-lich-su-mac-dinh-chi-290357>)
+  * [Kể lại sự việc có thật liên quan đến một nhân vật lịch sử Đinh Bộ Lĩnh](</ke-lai-su-viec-co-that-lien-quan-den-mot-nhan-vat-lich-su-dinh-bo-linh-290359>)
+  * [Vai trò của công nghệ đối với đời sống của con người](</thao-luan-ve-vai-tro-cua-cong-nghe-doi-voi-doi-song-con-nguoi-289201>)
+

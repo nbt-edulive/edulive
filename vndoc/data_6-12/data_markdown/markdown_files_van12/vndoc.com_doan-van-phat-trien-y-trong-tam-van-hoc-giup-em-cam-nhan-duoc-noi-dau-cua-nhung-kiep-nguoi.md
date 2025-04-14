@@ -1,0 +1,27 @@
+---
+url: https://vndoc.com/doan-van-phat-trien-y-trong-tam-van-hoc-giup-em-cam-nhan-duoc-noi-dau-cua-nhung-kiep-nguoi-326182
+title: Đoạn văn phát triển ý trọng tâm Văn học giúp em cảm nhận được nỗi đau của những kiếp người - VnDoc.com
+date_extracted: 2025-04-14 14:35:32
+description: VnDoc.com xin gửi tới bạn đọc bài viết Đoạn văn phát triển ý trọng tâm Văn học giúp em cảm nhận được nỗi đau của những kiếp người để bạn đọc cùng tham khảo nhé.
+keywords: Văn mẫu lớp 12,Ngữ văn 12,Ngữ văn 12 Cánh diều,Đoạn văn phát triển ý trọng tâm Văn học giúp em cảm nhận được nỗi đau của những kiếp người,Văn học giúp em cảm nhận được nỗi đau của những kiếp người,viết Đoạn văn phát triển ý trọng tâm Văn học giúp em cảm nhận được nỗi đau của những kiếp người,dàn ý Đoạn văn phát triển ý trọng tâm Văn học giúp em cảm nhận được nỗi đau của những kiếp người
+---
+
+# Đoạn văn phát triển ý trọng tâm Văn học giúp em cảm nhận được nỗi đau của những kiếp người
+## Viết đoạn văn phát triển ý trọng tâm Văn học giúp em cảm nhận được nỗi đau của những kiếp người
+  * Văn học giúp em cảm nhận được nỗi đau của những kiếp người mẫu 1
+  * Văn học giúp em cảm nhận được nỗi đau của những kiếp người mẫu 2
+  * Văn học giúp em cảm nhận được nỗi đau của những kiếp người mẫu 3
+
+[Đoạn văn phát triển ý trọng tâm Văn học giúp em cảm nhận được nỗi đau của những kiếp người](<https://vndoc.com/doan-van-phat-trien-y-trong-tam-van-hoc-giup-em-cam-nhan-duoc-noi-dau-cua-nhung-kiep-nguoi-326182>) được VnDoc.com sưu tầm và xin gửi tới bạn đọc cùng tham khảo để có thêm tài liệu làm bài [văn mẫu lớp 12](<https://vndoc.com/van-mau-lop12>) nhé.
+**Đề bài:** Viết một đoạn văn \(khoảng 12 – 15 dòng\) phát triển ý trọng tâm: “Văn học giúp em cảm nhận được nỗi đau của những kiếp người”.
+## Văn học giúp em cảm nhận được nỗi đau của những kiếp người mẫu 1
+Văn học là mảnh đất nuôi dưỡng tâm hồn con người, bởi vậy mà văn học có giá trị vô cùng to lớn trong đời sống tâm hồn. Bên cạnh giá trị nuôi dưỡng, văn học còn giúp em cảm nhận được nỗi đau của những kiếp người. Trong thế giới văn chương không thể du nhập “những kẻ chỉ biết làm theo vài kiểu mẫu đưa cho”mà họ phải cố gắng trở thành người “đi tìm những hạt ngọc ẩn giấu trong bề sâu tâm hồn con người”. Khi ta đi sâu vào bên trong con người, ta lại càng nhìn thấy những nỗi đau thương ẩn giấu. Như trong truyện ngắn “Chiếc thuyền ngoài xa” của Nguyễn Minh Châu, tác phẩm đã cho người đọc thấy rằng đằng sau vẻ đẹp tuyệt diệu của bức tranh thiên nhiên là một bức tranh cuộc sống vô cùng tàn khốc. Ta nhìn thấy nỗi bế tắc, bất lực, chịu đựng những trận đòn roi của người vợ, ta thấy những nỗi đau đớn và vết nứt tâm lý trong người con khi lớn lên trong môi trường bạo lực, ta cũng nhìn thấy chiến tranh đã phá huỷ con người như thế nào. Văn chương ẩn chứa bao vị đắng cuộc đời bởi mỗi câu chuyện đều ẩn chứa những nỗi niềm riêng, ẩn chứa nỗi đau của con người.
+## Văn học giúp em cảm nhận được nỗi đau của những kiếp người mẫu 2
+Văn học là một trong những loại hình sáng tác tái hiện cuộc đời thông qua lớp ngôn từ nghệ thuật. Có thể nói rằng, văn học là tiếng nói của tình cảm, là sự giải bày và gửi gắm tâm sự với chất liệu là đời sống con người. Qua văn học, độc giả cảm nhận được những cung bậc tình cảm đa dạng trong thế giới nội tâm phức tạp, được đồng cảm, sẻ chia và gợi ra những tình cảm chưa có được tạo nên những tình cảm sẵn có. Nhà văn Bê-lin-xki đã từng nói “Tác phẩm nghệ thuật sẽ chết nếu nó miêu tả cuộc sống chỉ để miêu tả, nếu nó không phải là tiếng thét khổ đau hay lời ca tụng hân hoan, nếu nó không đặt ra những câu hỏi hoặc trả lời những câu hỏi đó”, vì lẽ đó văn học là thước phim chân thật miêu tả cuộc sống, giúp mỗi chúng ta cảm nhận được nỗi đau của những kiếp người. Trong tác phẩm “Tắt đèn” của nhà văn Ngô Tất Tố đã diễn tả vô cùng chân thực cuộc sống, thân phận người phụ nữ khiến người đọc không khỏi xót xa và khóc thương cho số phận người dân nghèo. Qua những cuộc đời khác nhau được thể hiện qua các lăng kính văn chương sẽ giúp mỗi người chúng ta mở rộng hiểu biết trong cuộc sống từ đó hoàn thiệu nhân cách của mỗi con người qua những bài học đạo đức, những bài học tình cảm tác động từ văn học.
+## Văn học giúp em cảm nhận được nỗi đau của những kiếp người mẫu 3
+Văn học giúp ta đồng cảm hơn với những nỗi đau, nỗi bất công của những kiếp người trong xã hội. Qua từng trang  sách, ta như được sống cùng những nhân vật, thấu hiểu sâu sắc nỗi đau của họ. Những mảnh đời như chị Dậu trong "Tắt đèn" của Ngô Tất Tố hay anh Pha trong "Bước đường cùng" của Nguyễn Công Hoan hiện lên với nỗi thống khổ tột cùng vì cảnh nghèo đói, bị áp bức. Chính những dòng văn chân thực ấy đã làm ta cảm nhận được nỗi đau đớn và bất lực của họ, từ đó khơi dậy trong lòng ta sự cảm thông và trắc ẩn. Văn học không chỉ là nghệ thuật ngôn từ mà còn là sợi dây kết nối cảm xúc, giúp ta nhận ra và chia sẻ những nỗi đau chung của con người, từ đó thêm yêu thương và trân trọng những giá trị nhân văn trong cuộc sống.
+Xem thêm các bài Tìm bài trong mục này khác:
+  * [Viết đoạn văn về bài thơ Việt Bắc của Tố Hữu](</viet-doan-van-ve-bai-tho-viet-bac-cua-to-huu-326448>)
+  * [Viết bài văn bàn luận về vai trò của tác phẩm văn học đối với cá nhân em](</viet-bai-van-ban-luan-ve-vai-tro-cua-tac-pham-van-hoc-doi-voi-ca-nhan-em-326450>)
+  * [Đoạn văn suy nghĩ về tác dụng của biện pháp tu từ nói mỉa trong truyện Vi hành](</doan-van-suy-nghi-ve-tac-dung-cua-bien-phap-tu-tu-noi-mia-trong-truyen-vi-hanh-335013>)
+

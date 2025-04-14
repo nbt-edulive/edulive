@@ -1,0 +1,32 @@
+---
+url: https://vndoc.com/soan-bai-trinh-bay-ve-so-sanh-danh-gia-hai-tac-pham-ki-canh-dieu-321655
+title: Soạn bài Trình bày về so sánh, đánh giá hai tác phẩm kí - Cánh diều - VnDoc.com
+date_extracted: 2025-04-14 14:22:55
+description: Soạn bài Trình bày về so sánh, đánh giá hai tác phẩm kí - Cánh diều được VnDoc.com tổng hợp hướng dẫn trả lời các câu hỏi trong SGK Ngữ văn 12 tập 1 trang 104. Mời các bạn cùng theo dõi bài viết.
+keywords: Soạn văn 12,soạn bài 12,văn 12,ngữ văn 12,ngữ văn 12 Cánh diều,soạn ngữ văn 12,giải ngữ văn 12,soạn văn 12 Cánh diều,soạn văn 12 Cánh diều ngắn nhất,soạn bài 12 cánh diều,soạn văn 12 tập 1 trang 104 Cánh diều,Soạn bài Trình bày về so sánh đánh giá hai tác phẩm kí Cánh diều,Soạn bài Trình bày về so sánh đánh giá hai tác phẩm kí,Soạn văn Trình bày về so sánh đánh giá hai tác phẩm kí,Trình bày về so sánh đánh giá hai tác phẩm kí,Soạn văn 12 tập 1 trang 104
+---
+
+# Soạn bài Trình bày về so sánh, đánh giá hai tác phẩm kí - Cánh diều
+## Soạn văn Trình bày về so sánh, đánh giá hai tác phẩm kí
+VnDoc.com xin gửi tới bạn đọc bài viết [Soạn bài Trình bày về so sánh, đánh giá hai tác phẩm kí](<https://vndoc.com/soan-bai-trinh-bay-ve-so-sanh-danh-gia-hai-tac-pham-ki-canh-dieu-321655>) \- Cánh diều với hướng dẫn trả lời chi tiết, đầy đủ các câu hỏi, yêu cầu trong SGK [Ngữ văn 12 Cánh diều](<https://vndoc.com/soan-van-12-canh-dieu>) tập 1 trang 104.
+### Trình bày về so sánh, đánh giá hai tác phẩm kí
+**Bài tập:** Hãy so sánh nghệ thuật trần thuật của các tác giả qua hai đoạn trích “Nhật kí Đặng Thuỳ Trâm” \(Đặng Thuỳ Trâm\) và “Một lít nước mắt”\(Ki-tô A-ya\).
+**\* Bài nói mẫu tham khảo:**
+Chào cô và các bạn, em tên là ….Sau đây em xin phép được trình bày bài viết của mình về đề bài so sánh nghệ thuật trần thuật của các tác giả qua hai đoạn trích “Nhật kí Đặng Thuỳ Trâm” \(Đặng Thuỳ Trâm\) và “Một lít nước mắt”\(Ki-tô A-ya\).
+Trong thể loại nhật kí, đã có không ít tác giả khám phá và tạo ra những tuyệt tác mang nỗi tâm tư sâu lắng và ý nghĩa nhân văn cao đẹp. Đặng Thùy Trâm cũng vậy, mặc dù đã ra đi nhưng cô đã để lại một áng văn đẹp đẽ mang nhiều cảm xúc và hơi thở một thời đã qua, ấy chính là “Nhật kí Đặng Thùy Trâm”. Đối sánh với tác phẩm này, có thể kể đến đoạn trích “Một lít nước mắt” của cô bé Ki-tô A-ya. Cả hai đoạn trích đều là những hơi thở cuối cùng còn sót lại của tác giả đối với cuộc đời. Xuyên suốt tác phẩm, không chỉ là dòng cảm xúc sâu lắng và ý nghĩa nhân văn cao đẹp mà nổi bật lên đó chính là nghệ thuật trần thuật đặc sắc.
+Đầu tiên, người kể chuyện đều là chính tác giả, nhân vật trung tâm là tác giả, nhật ký gắn với ngôi kể thứ nhất. Mọi việc được ghi chép ra đều được soi ngắm qua tác giả. Với ngôi kể thứ nhất, người kể chuyện chứng kiến sự việc bằng tất cả giác quan của mình. Nói đến thể loại nhật ký chủ yếu sử dụng hình thức ngôi kể thứ nhất xưng “tôi”, “mình”. Bởi vậy mà yếu tố tâm tình, trò chuyện là yếu tố quan trọng nhất trong nhật ký. Hơn nữa, đó lại là những lời tâm sự, trò chuyện của người viết với chính bản thân họ.
+Thứ hai, ở cả hai tác giả dòng cảm xúc tự sự có điểm giống nhau, ở họ đều có một khát vọng giống nhau, đó là được tự do. Đặng Thùy Trâm mong muốn giành lại độc lập tự do cho Tổ quốc. Còn A-ya khát khao giành lại tự do cho chính bản thân mình, để có thể đi, đứng, chạy nhảy, làm bất cứ điều gì cô thích. Đặc biệt ở họ đều có một sự mạnh mẽ, lạc quan phi thường. Đều là những con người có nhiều cảm xúc, cũng có những phút yếu lòng, nhưng sau tất cả, họ nhanh chóng vượt thoát ra khỏi những cảm xúc tiêu cực, nhìn về phía trước, tiếp tục tiến bước trên con đường đấu tranh của mình. Giống nhau về tâm trạng, cảm xúc và lẽ sống là vậy, hai tác giả lại có sự khác nhau về công việc và quan hệ xã hội. Một bên là cô bé A-ya chỉ vỏn vẹn trong vòng tay mẹ, một bên là nữ bác sĩ Đặng Thùy Trâm một ngày phải tiếp xúc rất nhiều người. Cũng chính điều này đã tạo ra sự khác biệt về tình cảm. Nếu A-ya chủ yếu bộc lộ tình cảm với người mẹ thì ở tác giả Đặng Thùy Trâm, cô không chỉ có tình cảm gia đình, nỗi nhớ thương quê hương, mà còn rất nhiều tình cảm yêu thương lẫn ngưỡng mộ những bạn trẻ, nào Liên, nào Thuận - những người anh hùng vô danh.
+Thứ ba, một điểm đặc biệt trong nghệ thuật trần thuật của hai tác giả đó là trong nhật kí đều có sự kết hợp giữa kể chuyện với miêu tả, nghị luận, trữ tình. Ở nhật kí Đặng Thùy Trâm, sự kết hợp đó được thể hiện qua một số đoạn văn như “Thuận vừa mới khóc cha chết, hai chiếc tang còn nặng trên ngực nhưng nụ cười đã trở lại trên đôi môi nhợt nhạt...cũng là một hình ảnh mà mình cần học tập”; “con trở về giữa vòng tay êm ấm của ba má, trong tiếng cười trong trẻo của các em và trong ánh sáng chan hoà của Hà Nội.”. Ở một lít nước mắt, sự kết hợp các thủ pháp nghệ thuật được thể hiện qua các đoạn văn như “Mùa xuân rồi cũng qua đi, những cánh hoa bay lả tả lọt qua cửa xe hơi,… cảm giác thật an lành.” “Thoạt tiên, lòng bàn chân mình còn mềm mềm. Nhưng dần dần, đầu gối và lòng bàn tay lẫn bàn chân đều trở nên cứng đờ”. Có thể thấy, sự kết hợp các thủ pháp nghệ thuật ở cả hai tác phẩm đều đưa đến hiệu quả cao trong việc cung cấp thông tin sự kiện, đặc điểm tính cách và gia tăng tính biểu cảm cho câu chuyện.
+Qua hai văn bản, nghệ thuật trần thuật giữa hai tác giả tuy có những điểm giống và khác nhau. Tuy nhiên, ở họ đều mang đến những áng văn tự sự độc đáo và đầy diễn cảm, những áng văn ấy như một thứ ánh sáng diệu kì, xuyên thấu vào tâm hồn độc giả, đưa đến những dòng cảm xúc tuy đượm buồn nhưng vô cùng đẹp đẽ.
+**Bài tiếp theo:**[Soạn bài Một lít nước mắt - Cánh diều](<https://vndoc.com/soan-bai-mot-lit-nuoc-mat-canh-dieu-321658>)
+Xem thêm các bài Tìm bài trong mục này khác:
+  * [Một lít nước mắt](</soan-bai-mot-lit-nuoc-mat-canh-dieu-321658>)
+  * [Văn tế nghĩa sĩ Cần Giuộc](</soan-bai-van-te-nghia-si-can-giuoc-lop-12-canh-dieu-321746>)
+  * [Việt Bắc](</soan-bai-lop-12-viet-bac-114099>)
+  * [Lưu biệt khi xuất dương](</soan-bai-luu-biet-khi-xuat-duong-lop-12-canh-dieu-321753>)
+  * [Tây tiến](</soan-bai-lop-12-tay-tien-114051>)
+  * [Thực hành tiếng Việt trang 126](</soan-bai-thuc-hanh-tieng-viet-trang-126-canh-dieu-321763>)
+  * [Viết bài nghị luận về một vấn đề có liên quan đến tuổi trẻ](</soan-bai-viet-bai-nghi-luan-ve-mot-van-de-co-lien-quan-den-tuoi-tre-canh-dieu-321767>)
+  * [Thuyết trình về một vấn đề của tuổi trẻ có liên quan đến cơ hội và thách thức](</soan-bai-thuyet-trinh-ve-mot-van-de-cua-tuoi-tre-co-lien-quan-den-co-hoi-va-thach-thuc-canh-dieu-321772>)
+  * [Mưa xuân](</soan-bai-mua-xuan-canh-dieu-321777>)
+

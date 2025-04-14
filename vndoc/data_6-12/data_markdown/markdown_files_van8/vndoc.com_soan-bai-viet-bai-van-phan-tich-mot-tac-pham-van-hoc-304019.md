@@ -1,0 +1,67 @@
+---
+url: https://vndoc.com/soan-bai-viet-bai-van-phan-tich-mot-tac-pham-van-hoc-304019
+title: Soạn bài Viết bài văn phân tích một tác phẩm văn học - Soạn Văn 8 Kết nối tri thức - VnDoc.com
+date_extracted: 2025-04-14 12:50:24
+description: Soạn bài Soạn Văn 8 Viết bài văn phân tích một tác phẩm văn học là bài soạn bài mẫu thuộc chương trình Ngữ văn lớp 8 KNTT học kì 1. Mời các bạn cùng tham khảo bài soạn để chuẩn bị cho bài học sắp tới của mình.
+keywords: soạn văn 8,văn 8,Soạn bài Viết bài văn phân tích một tác phẩm văn học,ngữ văn 8,soan van 8,soạn văn lớp 8,giải văn 8,soạn văn 8 tập 1,soạn văn 8 Viết bài văn phân tích một tác phẩm văn học,soạn văn 8 kết nối tri thức,văn 8 chân trời sáng tạo,ngữ văn 8 kết nối tri thức,Viết bài văn phân tích một tác phẩm văn học,soạn bài Viết bài văn phân tích một tác phẩm văn học lớp 8,soạn văn 8 kntt,văn 8 kết nối tri thức
+---
+
+# Soạn bài Viết bài văn phân tích một tác phẩm văn học
+ _Soạn Văn 8 Kết nối tri thức_
+## Soạn Văn 8 Viết bài văn phân tích một tác phẩm văn học
+[Soạn Văn 8 bài Viết bài văn phân tích một tác phẩm văn học](<https://vndoc.com/soan-bai-viet-bai-van-phan-tich-mot-tac-pham-van-hoc-304019>) hướng dẫn trả lời câu hỏi trong SGK Ngữ văn 8 KNTT tập 1, giúp các em ôn tập và củng cố kiến thức được học trong bài. Sau đây mời các bạn tham khảo chi tiết.
+**Đề bài****\(trang 91, SGK Ngữ văn 8, tập 1\)**
+Phân tích một tác phẩm văn học là làm rõ những nét đặc sắc về nội dung và hình thức nghệ thuật của tác phẩm. Việc phân tích một bài thơ trào phúng cũng cần được triển khai theo hướng đó. Ở bài học này, em sẽ được thực hành viết bài văn phân tích một bài thơ trào phúng, qua đó vừa củng cố kĩ năng đọc hiểu, tiếp nhận một bài thơ trào phúng, vừa tiếp tục phát triển kĩ năng phân tích một bài thơ mà em đã được rèn luyện ở bài 2.
+**_Yêu cầu:_**
+\- Giới thiệu tác giả và bài thơ
+\- Phân tích được nội dung trào phúng của bài thơ để làm rõ chủ đề.
+\- Chỉ ra được tác dụng của một số nét đặc sắc về nghệ thuật trào phúng được thể hiện trong bài thơ.
+\- Khẳng định được giá trị, ý nghĩa của bài thơ.
+**Lời giải chi tiết**
+**Ví dụ 1: Phân tích bài thơ Lai Tân - Hồ Chí Minh**
+Nhật kí trong tù là tập nhật kí bằng thơ do Hồ Chí Minh viết ròng rã hơn một năm trời trong các nhà tù của chính quyền Tưởng Giới Thạch ở tỉnh Quảng Tây, Trung Quốc. Trước hết, đây là tập thơ Bác viết cho chính mình, với mục đích: Ngày dài ngâm ngợi cho khuây, Vừa ngâm vừa đợi đến ngày tự do mà Bác đã viết ở bài Khai quyển đầu cuốn sổ tay. Vì thế mà Bác ghi lại vắn tắt những điều tai nghe mắt thấy làm cho mình trăn trở, suy nghĩ và xúc cảm trong suốt mười bốn tháng bị giam cầm. Lai Tân là bài thơ thứ 97, Bác làm sau khi bị chuyển lao từ Thiên Giang đến Lai Tân. Đằng sau bức tranh tả thực có vẻ như rất khách quan là thái độ mỉa mai, châm biếm và phê phán của người tù Hồ Chí Minh đối với giai cấp thống trị ở Lai Tân nói riêng và chế độ xã hội Trung Quốc đương thời nói chung.
+Phiên âm chữ Hán:
+Ban trưởng nhà lao chuyên đánh bạc,
+Giải người, cảnh trưởng kiếm ăn quanh.
+Chong đèn, huyện trưởng làm công việc,
+Trời đất Lai Tân vẫn thái bình.
+Bức tranh về hiện thực ở nhà tù Lai Tân và một phần xã hội Trung Quốc thu nhỏ đã được Hồ Chí Minh phản ánh sinh động trong bài thơ thất ngôn tứ tuyệt ngắn gọn mà ý nghĩa vô cùng hàm súc. Thành công của bài thơ là nghệ thuật châm biếm sắc sảo, độc đáo kết hợp với giọng điệu tự sự xen lẫn trữ tình và một kết cấu chặt chẽ, hợp lý.
+Kết cấu bài thơ gồm hai phần nhưng khác với cấu trúc thông thường của tứ tuyệt Đường luật ở chỗ: phần thứ nhất gồm ba câu, còn phần thứ hai chỉ có một câu. Ba câu thơ đầu chỉ đơn thuần kể việc. Điểm nút chính là câu thứ tư bởi nó làm bật ra toàn bộ tư tưởng của bài thơ và làm bung vỡ tất cả cái ý châm biếm mỉa mai của người tù Hồ Chí Minh trước sự thối nát đến tận xương tủy của đám quan chức trong giai cấp thống trị.
+Ở phần thứ nhất, Hồ Chí Minh đã phác họa thần tình chân dung của ba nhân vật “quan trọng”. Ban trưởng nhà lao công khai đánh bạc ngày này qua ngày khác, trong khi: Đánh bạc bên ngoài quan bắt tội. Cảnh trưởng thì trắng trợn ăn tiền đút lót của tù nhân, còn huyện trưởng thì đêm đêm chong đèn… hút thuốc phiện. Chính những kẻ đại diện cho chính quyền, cho luật pháp lại ngang nhiên vi phạm pháp luật. Điều trái ngược ấy đã vượt ra khỏi khung cảnh của một nhà tù, trở thành tính chất tiêu biểu cho cả xã hội Trung Hoa thời ấy: Quan trên trì trệ, vô trách nhiệm, hưởng lạc; cấp dưới thì chỉ lo xoay xở kiếm ăn quanh, mặc cho mọi tệ nạn cứ tự do hoành hành. Hơn thế, điều đáng mỉa mai là chính bọn quan lại tham lam, nhũng nhiễu ấy đã “tích cực” góp phần làm gia tăng tệ nạn xã hội. Ba nhân vật đang hoạt động như trong một màn hài kịch câm và cả ba đang thủ vai một cách hết sức “nghiêm túc” giữa khung cảnh thái bình \(?\!\) dưới sự thống trị của họ Tưởng. Câu thơ miêu tả ngắn gọn mà lại hàm ý mỉa mai sâu sắc, tố cáo tình trạng lộn xộn, bát nháo của xã hội Trung Quốc lúc đó.
+Phần thứ hai \(câu cuối cùng\) là nhận xét có tính chất trào lộng thâm thúy của người tù Hồ Chí Minh về tình trạng của bộ máy cai trị ở Lai Tân. Người đọc chờ đợi gì ở câu kết luận này ? Chắc hẳn phải là một sự lên án quyết liệt. Nhưng tác giả đã không làm như thế mà lại hạ một câu có vẻ rất khách quan: Trời đất Lai Tân vẫn thái bình. Đòn đả kích bất ngờ mà sâu cay lại nằm ngay trong câu nhận xét tưởng như là ca ngợi ấy.
+Hiệu quả đả kích của câu thơ như thế nào? Hoá ra tình trạng thối nát của bọn quan lại ở Lai Tân không phải là chuyện bất thường mà là chuyện bình thường. Bình thường đến nỗi đã trở thành bản chất, thậm chí đã thành “nề nếp” được chấp nhận từ lâu.
+Câu kết tưởng chừng có vẻ hết sức “vô tư” kia ai ngờ lại ẩn giấu một tiếng cười mỉa mai, châm biếm, lật tẩy bản chất xấu xa của bộ máy thống trị ở Lai Tân. Tính từ thái bình có thể xem là “thần tự”, “nhãn tự" của bài thơ. Nhà thơ Hoàng Trung Thông đã có một lời bình thật chính xác và thú vị: “Một chữ thái bình mà xâu táo lại bao nhiêu việc làm trên vốn là muôn thuở của giai cấp bóc lột thống trị Trung Quốc. Chỉ một chữ ấy mà xé toang tất cả sự thái bình dối trá nhưng thực sự là đại loạn bên trong”.
+  
+Bài thơ Lai Tân in đậm bút pháp nghệ thuật chấm phá truyền thống của thơ Đường. Lời thơ ngắn gọn, súc tích, không cầu kì câu chữ, nhưng chỉ với bốn câu thơ ngắn, người tù Hồ Chí Minh đã phơi bày bản chất của cả chế độ Tưởng Giới Thạch suy thoái, mục nát. Sức chiến đấu, chất “thép” của bài thơ nhẹ nhàng mà thâm thúy chính là ở đó.
+**Ví dụ 2: Phân tích bài Lễ xướng danh khoa thi Đinh Dậu:**
+Trần Tế Xương cay nhất là chuyện thi cử. Tài giỏi như ông mà phải đến lần thi thứ tám mới đậu vét được cái tú tài. Mà Tú tài thời đó thì được tiếng là “ông Tú” nhưng chỉ được “làm quan tại gia”, “ăn lương vợ”. Nhưng không được thênh thênh trên đường hoạn lộ chưa hẳn đã là rủi, thì ông Tú Xương làm thơ, làm thi sĩ, thành thi hào\! Bài thơ “Lễ xướng danh khoa thi Đinh Dậu” là một đòn trời giáng của Tú Xương vào chế độ thi cử mạt vận, hổ lốn, ô nhục của thời thực dân mới đặt chân cai trị đất nước ta.
+Là sĩ tử, cũng là nạn nhân trong kì thi Hương năm Đinh Dậu \(1897\), tại Nam Định, Trần Tế Xương tận mắt chứng kiến sự suy đồi của Nho học, đau lòng trước nỗi ô nhục của tài tử văn nhân đất Bắc. Cho nên mở đầu bài thơ, tác giả đã phê phán sâu sắc nhà nước thực dân phong kiến thời bấy giờ:
+“Nhà nước ba năm mở một khoa
+Trường Nam thi lẫn với trường Hà”
+Tác giả nói “nhà nước” một cách trang trọng như vậy nếu những việc làm của “nhà nước” mà tô't đẹp thì là ngợi ca, còn nếu nói đến những việc làm của “nhà nước” không ra gì thì là “hạ bệ”. Rõ ràng là Tú Xương đã “hạ bệ” cái “nhà nước” thực dân phong kiến đó bằng sự kiện “ba năm mở một khoa”. Dưới sự cai trị của “nhà nước” thực dân, đạo học \(chữ Nho\) đã mạt vận. “nhà nước” chỉ mở kì thi cầm chừng, hổ lốn, mất hết vẻ trang nghiêm của kỳ thi quốc gia: “Trường Nam thi lẫn với trường Hà”. Sợ mất an ninh ở Hà Nội, “nhà nước” thực dân đã lừa sĩ tử Hà Nội xuống Nam Định “thi lẫn” với sĩ tử trường Nam. Chỉ một từ “lẫn”, Tú Xương phơi bày cả sự đổ nát của kỳ thi quốc gia và phê phán “nhà nước” vô trách nhiệm.
+Sang hai câu thực, sĩ tử và quan trường được nhà thơ Tú Xương biếm họa rất tài tình:
+“Lôi thôi sĩ tử vai đeo lọ
+Ậm ọe quan trường miệng thét loa”
+Tú Xương có biệt tài mà Nguyễn Công Hoan tôn như “thần thơ thánh chữ” là chỉ trong một chữ đã lột tả được thần thái của sự vật. Chỉ một từ “lôi thôi” được đảo ra phía trước, nhấn mạnh là hình ảnh của sĩ tử bị chìm trong sự nhếch nhác. Sĩ tử mà bút mực đâu không thấy, chỉ nổi bật lủng lẳng một cái lọ \(vì đường xa, phải đeo theo lọ nước uống\). Hàng ngàn “sĩ tử vai đeo lọ” thì lôi thôi thật, là bức tranh biếm họa để đời về anh học trò đi thi trong thời buổi thực dân nhố nhăng. Còn quan trường thì “ậm ọe” giọng như mửa. Sĩ tử thì đông vì dồn cả hai trường thi lại nên quan trường phải “thét loa” lại còn lên giọng đe nẹt sĩ tử nên thành ra “ậm ọe” tởm lợm thật đáng ghét. Thái độ trào lộng của nhà thơ thật rõ ràng. Đối với “sĩ tử”, Tú Xương thấy nhếch nhác đáng thương; đối với “quan trường”, Tú Xương khinh ghét ra mặt. Quan trường của một kì thi quốc gia bát nháo mà còn “ậm ọe” không biết nhục.
+Tú Xương còn ghi lại một hiện tượng chưa từng thấy trong lịch sử thi cử của nước nhà là “khoa thi Đinh Dậu”, có cả Tây đầm nhốn nháo ở trường thi:
+“Cờ cắm rợp trời quan sứ đến
+Váy lê phết đất mụ đầm ra”
+“Cờ cắm” hay “Lọng cắm”?  Sách giáo khoa hiện hành chép là “Cờ cắm”, có chú thích là: có bản chép: “Lọng cắm”. Thơ Tú Xương gần với thơ ca dân gian, nhà thơ sáng tác không in ấn, không xuất bản, người đời nghe rồi ghi lại nên dễ “tam sao thất bản”. Trong những trường hợp có dị bản như thế này thì buộc người đọc, người nghiên cứu phải lựa chọn. Người soạn  sách giáo khoa chọn “cờ cắm” để đối với “váy lê” ở câu dưới cho thật độc. “Cờ” mà đối với “váy” độc quá\! Theo tôi, “lọng cắm” hay hơn:
+“Lọng cắm rợp trời quan sứ đến”
+Quan sứ \(công sứ Nam Định Lơ Nooc Măng, đèn dự lễ xướng danh khoa thi Hương hẳn là phải có “lọng cắm rợp trời” mà “lọng cắm” thì mới “rợp trời”. Còn vế đối “Lọng cắm rợp trời” với “váy lê phết đất” cũng chỉnh quá, mà độc địa không kém. Lọng là cái che trên đầu “quan sứ” mà lại đôi với “váy” là cái che dưới mông “mụ đầm”\! “Quan sứ” đến”, “mụ đầm ra”, chúng nó “đến”, nó “ra” như thế thì nhục quá, không chịu được, Tú Xương đã chơi một đòn trí mạng vào bọn Tây đầm thực dân nhốn nháo vào cái thời buổi nhố nhăng\! Tú Xương ác khẩu trong cách đối chữ đôi câu, cái tôn nghiêm đem đọ với những cái không tiện hô đúng tên thật, ông lợm sự sông, ông cho lộn tùng phèo cả đi. Nghĩ về người quan văn người quan võ thời nhí nhố ấy, ông đem cái võng \(võng điểu võng thắm\) ra mà đối với cái khố dây \(khố đỏ khố xanh\). Tường thuật việc trường thi chữ nho có Tây đến ra bài, ông đem cái lọng quan sứ mà đối với cái váy mụ đầm, đem cái đít vịt bà đầm ra đối với cái đầu rồng một ông cử dốt đang lạy tạ mũ áo vua ban... \(Nguyễn Tuân\).
+Kết thúc bài thơ, tác giả chuyển từ giọng điệu trào lộng sang giọng điệu trữ tình thâm trầm. Tú Xương đau lòng nhắn nhủ với “nhân tài đất Bắc”:
+“Nhân tài đất Bắc nào ai đó  
+Ngoảnh cổ mà trông lại nước nhà”
+Giọng trữ tình thấm thìa ấy như có sự cộng hưởng của giọng điệu trữ tình đầy nhiệt huyết của các nhà ái quốc đầu thế kỷ như Phan Bội Châu, Phan Châu Trinh, Huỳnh Thúc Kháng... Tất nhiên trong giọng điệu chung của những tấm lòng ái quốc ấy, ta vẫn nhận ra sắc thái riêng của Tú Xương. Khi thì xót xa thổn thức “Nhân tài đất Bắc nào ai đó”, khi thì kiêu bạc trịch thượng “Ngoảnh cổ mà trông lại nước nhà”. Không dễ gì mà hạ một chữ “ngoảnh cổ” như vậy đối với giới trí thức Bắc Hà. Phải có chân tài và quan trọng hơn nữa là phải có tấm lòng đối với đất nước, với dân tộc thì nhân tài đất Bắc mới tâm phục. Đúng là tâm sự yêu nước thổn thức của Tú Xương là vật bảo chứng cho những gì là lộng ngôn của nhà thơ:
+“Trời không chớp bể chẳng mưa nguồn  
+Đêm nảo đêm nao tớ cũng buồn”
+\(Đêm hè\)
+Dưới mắt Tú Xương, sự suy đồi của đạo học \(chữ nho\) là một hiện tượng của sự mất nước, của sự nô lệ. Với Tú Xương, nỗi nhục trong “Lễ xướng danh khoa thi Đinh Dậu” là nỗi nhục mất nước\! “Theo tôi nghĩ, thơ là ảnh, là nhân ảnh, thơ cũng ở loại cụ thể hữu hình. Nhưng nó khác với cái cụ thể của văn. Cũng mọc lên từ cái đông tài liệu thực tế, nhưng từ một cái hữu hình nó thức dậy được những vô hình bao la, từ một cái điểm nhất định mà nó mở được ra một cái diện không gian, thời gian trong đó nhịp mãi lên một tấm lòng sứ điệp” \(Nguyễn Tuân\).
+“Lễ xướng danh khoa thi Đinh Dậu” của Trần Tế Xương là “sử thi” về đời sống nhà nho lúc Tây sang. Đạo học suy đồi, thi cử bát nháo hố’ lốn, sĩ tử mất hết nhuệ khí, quan trường mất hết nhân cách. Bọn thực dân nghênh ngang đến trường thi là một nỗi ô nhục của nhân tài đất Bắc. Nỗi đau của nhà thơ đã làm thức tỉnh tầng lớp trí thức đương thời.
+Nghệ thuật trào lộng và trữ tình của Tú Xương đều sâu sắc, thấm thía. Đối với sĩ tử, nhà thơ thương mà cười, đối với quan trường, nhà thơ căm ghét mà châm biếm, đối với bọn thực dân, nhà thơ căm thù mà đả kích, hạ nhục. Từ ngữ, hình ảnh, âm điệu, bút pháp của bài thơ bộc lộ tài hoa của một hồn thơ lỗi lạc. Đúng như lời ngợi ca của Yên Đổ:
+“Kia ai chín suối xương không nát  
+Có lẽ nghìn thu tiếng vẫn còn”
+Xem thêm các bài Tìm bài trong mục này khác:
+  * [Trình bày ý kiến về một vấn đề xã hội](</soan-bai-trinh-bay-y-kien-ve-mot-van-de-xa-hoi-ket-noi-tri-thuc-304020>)
+  * [Củng cố, mở rộng trang 97](</soan-bai-cung-co-mo-rong-trang-97-304040>)
+

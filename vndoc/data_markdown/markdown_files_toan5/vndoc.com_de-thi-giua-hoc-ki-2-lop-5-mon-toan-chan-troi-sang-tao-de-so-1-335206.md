@@ -1,0 +1,32 @@
+---
+url: https://vndoc.com/de-thi-giua-hoc-ki-2-lop-5-mon-toan-chan-troi-sang-tao-de-so-1-335206
+title: Đề thi giữa kì 2 môn Toán lớp 5 Chân trời sáng tạo - Đề 1 - Đề thi giữa học kì 2 Toán lớp 5 có đáp án - VnDoc.com
+date_extracted: 2025-04-08 20:12:55
+description: (Biên soạn: T1/2025) Đề thi giữa học kì 2 lớp 5 môn Toán - Đề 1 (Theo thông tư 27) được VnDoc biên soạn (có đáp án + ma trận) nhằm hỗ trợ các em học sinh tham khảo, luyện tập để đạt kết quả cao trong kì thi sắp tới.
+keywords: đề thi giữa học kì 2 lớp 5 môn toán,đề thi giữa học kì 2 lớp 5,đề thi giữa kì 2 toán 5,đề toán lớp 5 học kì 2,đề kiểm tra giữa học kì 2 lớp 5,đề thi toán lớp 5 giữa kì 2,de thi toán lớp 5 giữa kì 2 có đáp an,đề thi giữa kì 2 toán 5 chân trời sáng tạo,đề thi giữa học kì 2 toán lớp 5,ôn tập giữa học kì 2 lớp 5,Đề thi giữa kì 2 lớp 5 chân trời,Đề thi giữa kì 2 môn toán lớp 5,de thi giữa học kì lớp 5 môn toán có đáp an,Kiểm tra giữa kì 2 lớp 5 môn Toán
+---
+
+# Đề thi giữa kì 2 môn Toán lớp 5 Chân trời sáng tạo - Đề 1
+ _Đề thi giữa học kì 2 Toán lớp 5 có đáp án_
+## **Đề thi giữa học kì 2 lớp 5 môn Toán sách Chân trời sáng tạo**
+[**Đề thi giữa học kì 2 lớp 5 môn Toán - Đề số 1**](<https://vndoc.com/de-thi-giua-hoc-ki-2-lop-5-mon-toan-chan-troi-sang-tao-de-so-1-335206>) sách Chân trời sáng tạo do [VnDoc](<https://vndoc.com/>) biên soạn nhằm giúp các em ôn tập và rèn luyện các kĩ năng làm bài kiểm tra để chuẩn bị cho kì thi giữa học kì 2 lớp 5. Đề thi gồm các dạng câu hỏi Trắc nghiệm và Bài tập được biên soạn bám sát chương trình học theo thông tư 27. Học sinh có thể làm bài trực tiếp vào đề mà không cần chuẩn bị thêm giấy ô li. Mời các em tham khảo tài liệu.
+### **Đề kiểm tra giữa học kì 2 Toán lớp 5 - Đề số 1**
+**Giới thiệu về tài liệu:**
+  * Số trang: Gồm 8 trang gồm đề thi có đáp án và ma trận
+  * Nội dung: Các câu hỏi và bài tập bám sát chương trình giữa học kì 2 lớp 5 sách giáo khoa Chân trời sáng tạo. \(bám sát theo Thông tư 27\)
+  * Hình thức: Trình bày theo cấu trúc đề thi, có sẵn phần dòng kẻ để làm bài, không cần chuẩn bị thêm giấy viết.
+  * File tải: gồm file Word và file PDF
+
+**_Hình ảnh minh họa Đề thi giữa học kì 2 Toán lớp 5 Chân trời sáng tạo - Đề 1:_**
+![de thi giua ki 2 toan 5 ctst de 1 page 0001*663513](https://i.vdoc.vn/data/image/2025/01/21/de-thi-giua-ki-2-toan-5-ctst-de-1-page-0001.jpg)![de thi giua ki 2 toan 5 ctst de 1 page 0002*663510](https://i.vdoc.vn/data/image/2025/01/21/de-thi-giua-ki-2-toan-5-ctst-de-1-page-0002.jpg)
+Xem thêm các bài Tìm bài trong mục này khác:
+  * [Đề thi 2](</de-thi-giua-ki-2-mon-toan-lop-5-chan-troi-sang-tao-de-2-335310>)
+  * [Đề thi 3](</de-thi-giua-ki-2-mon-toan-lop-5-chan-troi-sang-tao-de-3-335313>)
+  * [Đề thi 4](</de-thi-giua-ki-2-mon-toan-lop-5-chan-troi-sang-tao-de-4-335315>)
+  * [Đề thi 5](</de-thi-giua-ki-2-mon-toan-lop-5-chan-troi-sang-tao-de-5-335316>)
+  * [Đề thi 6](</de-thi-giua-ki-2-mon-toan-lop-5-chan-troi-sang-tao-de-6-335298>)
+  * [Đề thi 7](</de-thi-giua-ki-2-mon-toan-lop-5-chan-troi-sang-tao-de-7-335300>)
+  * [Đề thi 8](</de-thi-giua-ki-2-mon-toan-lop-5-chan-troi-sang-tao-de-8-335301>)
+  * [Đề thi 9](</de-thi-giua-ki-2-mon-toan-lop-5-chan-troi-sang-tao-de-9-335304>)
+  * [Đề thi 10](</de-thi-giua-ki-2-mon-toan-lop-5-chan-troi-sang-tao-de-10-335306>)
+

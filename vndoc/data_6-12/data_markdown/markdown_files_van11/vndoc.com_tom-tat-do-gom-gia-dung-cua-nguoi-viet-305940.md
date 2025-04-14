@@ -1,0 +1,30 @@
+---
+url: https://vndoc.com/tom-tat-do-gom-gia-dung-cua-nguoi-viet-305940
+title: Tóm tắt Đồ gốm gia dụng của người Việt - Tóm tắt Văn 11 Chân trời sáng tạo - VnDoc.com
+date_extracted: 2025-04-14 14:52:07
+description: Tóm tắt Đồ gốm gia dụng của người Việt được VnDoc.com sưu tầm và xin gửi tới bạn đọc cùng tham khảo để có thêm tài liệu học Văn 11 Chân trời sáng tạo nhé.
+keywords: Tóm tắt ngữ văn 11 Chân trời sáng tạo,ngữ văn 11 Chân trời sáng tạo,tóm tắt ngữ văn 11,tóm tắt văn 11,tóm tắt ngữ văn 11 chân trời,tóm tắt văn 11 Chân trời sáng tạo,ngữ văn 11,văn 11,tóm tắt văn 11 chân trời,Tóm tắt Đồ gốm gia dụng của người Việt,Tóm tắt bài Đồ gốm gia dụng của người Việt,Tóm tắt ngữ văn 11 chân trời sáng tạo Đồ gốm gia dụng của người Việt,Đồ gốm gia dụng của người Việt
+---
+
+# Tóm tắt Đồ gốm gia dụng của người Việt
+ _Tóm tắt Văn 11 Chân trời sáng tạo_
+## Tóm tắt bài Đồ gốm gia dụng của người Việt
+  * Tóm tắt Đồ gốm gia dụng của người Việt mẫu 1
+  * Tóm tắt Đồ gốm gia dụng của người Việt mẫu 2
+  * Tóm tắt Đồ gốm gia dụng của người Việt mẫu 3
+
+VnDoc.com xin gửi tới bạn đọc bài viết [Tóm tắt Đồ gốm gia dụng của người Việt](<https://vndoc.com/tom-tat-do-gom-gia-dung-cua-nguoi-viet-305940>) để bạn đọc cùng tham khảo và có thêm tài liệu tóm tắt [Ngữ văn 11 Chân trời sáng tạo](<https://vndoc.com/ngu-van-11-chan-troi-sang-tao>). Mời các bạn cùng theo dõi bài viết dưới đây nhé.
+### Tóm tắt Đồ gốm gia dụng của người Việt mẫu 1
+Đồ gốm sứ nhỏ dùng trong nhà có cả một lịch sử phát triển. Chỉ riêng cái bát ăn cơm mỗi thời mỗi khác và phản ánh những tập tục ăn ở khác nhau. Tiền thân của cái bát có lẽ do con người dùng vỏ hoa quả như vỏ quả dừa và vỏ trai, sò để đựng thức ăn, sau đó có thể làm những chiếc bát bằng gỗ, cuối cùng cái bát ra đời \[...\]. Cái bát thuyền trong các mộ thời Hán có dạng như một lòng bàn tay, có hai cạnh để cầm và nó cũng giống như hình một chiếc thuyền thúng. Song, hình như con người lại không ưa một sự mô phỏng thuần tuý như thế, những chiếc bát men đen, men ngọc thời Lý và những chiếc bát đàn thời Hậu Lê lại có dạng loe miệng và thót đáy như một cái nón, khả năng vuốt bàn xoay hình nón cũng dễ hon vuốt hình tròn cong đều từ chân lên thành. Đồ gốm gia dụng thời Lý – Trần quá thanh nhã khiến chúng ta không thể tưởng tượng rằng có thời con người sống cao sang như thế, nếu như đồ gốm phản ánh sự sử dụng và món ăn chúng chứa đựng. Ở nông thôn những gia đình trung bình đều có một chạn bát đĩa thường dụng và một vài rổ bát đĩa cất trong buồng dùng khi có cỗ bàn. Ngay từ cuối thời Trần, làng Bát Tràng đã sản xuất những loại gốm gia dụng men lam như thế, một số đồ đẹp dâng cho triều đình, còn lại, bán ra cho dân. Từ sau thế kỉ XV, xu hướng đồ dân gian và cung đình ngày càng tách biệt, thậm chí triều đình còn mở những lò riêng hoặc đặt những lỗ hàng riêng có đề chữ Nội phủ, hơn nữa là sang Trung Hoa đặt mua đồ gốm sứ cho hoàng triều \[..\] Dân thành thị cũng có xu hướng dùng đồ gốm gia dụng Trung Hoa và Nội phủ, loại hình gốm sử gia dụng Trung Hoa và Nội phủ cũng phong phú hơn.
+### Tóm tắt Đồ gốm gia dụng của người Việt mẫu 2
+Cái bát ăn cơm mỗi thời mỗi khác và phản ánh những tập tục ăn ở khác nhau. Tiền thân của cái bát có lẽ do con người dùng vỏ hoa quả như vỏ quả dừa và vỏ trai, sò để đựng thức ăn, sau đó có thể làm những chiếc bát bằng gỗ, cuối cùng cái bát ra đời. Cái bát thuyền trong các mộ thời Hán có dạng như một lòng bàn tay, có hai cạnh để cầm và nó cũng giống như hình một chiếc thuyền thúng. Song, hình như con người lại không ưa một sự mô phỏng thuần tuý như thế, những chiếc bát men đen, men ngọc thời Lý và những chiếc bát đàn thời Hậu Lê lại có dạng loe miệng và thót đáy như một cái nón. Đồ gốm gia dụng thời Lý – Trần quá thanh nhã khiến chúng ta không thể tưởng tượng rằng có thời con người sống cao sang như thế, nếu như đồ gốm phản ánh sự sử dụng và món ăn chúng chứa đựng. Những chiếc chậu, những chiếc âu mà hôm nay chúng ta nâng niu như cổ vật quý hiếm thì ngày xưa chúng chỉ được để rửa ráy chân tay mà thôi.
+### Tóm tắt Đồ gốm gia dụng của người Việt mẫu 3
+Chiếc bát ăn cơm không chỉ là một vật dụng thiết yếu mà còn phản ánh sự thay đổi của tập tục ăn uống qua các thời kỳ. Trong quá khứ, tiền thân của chiếc bát có thể là những vỏ hoa quả như vỏ dừa hay vỏ trai, sò được sử dụng để đựng thức ăn. Theo thời gian, con người đã sáng tạo ra những chiếc bát bằng gỗ, và cuối cùng, chiếc bát gốm sứ như chúng ta biết ngày nay đã ra đời. Trong các mộ thời Hán, người ta thường tìm thấy loại bát có hình dạng giống như lòng bàn tay, với hai cạnh để cầm, giống như hình dáng của một chiếc thuyền thúng. Tuy nhiên, dường như con người không chỉ dừng lại ở việc tạo ra các vật dụng mô phỏng đơn thuần. Những chiếc bát men đen, men ngọc thời Lý, và những chiếc bát đàn thời Hậu Lê lại có hình dạng loe miệng và thót đáy, tạo nên một kiểu dáng giống như chiếc nón. Hình dáng này không chỉ thuận tiện mà còn thể hiện sự sáng tạo tinh tế trong nghệ thuật chế tác đồ gốm. Đồ gốm gia dụng thời Lý – Trần nổi bật với vẻ đẹp thanh nhã, đến mức chúng ta khó có thể tưởng tượng rằng con người đã sống trong sự tinh tế và sang trọng như thế. Nếu xét theo chức năng và cách sử dụng, những chiếc bát và chậu thời đó không chỉ đơn thuần phục vụ nhu cầu ăn uống, mà còn là biểu tượng của sự phát triển văn hóa và thẩm mỹ. Những chiếc chậu và âu mà ngày nay chúng ta coi là cổ vật quý hiếm, ngày xưa chỉ được dùng để rửa tay chân, cho thấy sự thay đổi trong cách nhìn nhận và giá trị của đồ gốm theo thời gian.
+**Bài tiếp theo:**[Tóm tắt Chân quê](<https://vndoc.com/tom-tat-chan-que-305941>)
+  * [Soạn bài Đồ gốm gia dụng của người Việt Chân trời sáng tạo](<https://vndoc.com/soan-bai-do-gom-gia-dung-cua-nguoi-viet-chan-troi-sang-tao-298188>)
+  * [Phân tích “Đồ gốm gia dụng của người Việt”](<https://vndoc.com/phan-tich-do-gom-gia-dung-cua-nguoi-viet-299278>)
+
+Xem thêm các bài Tìm bài trong mục này khác:
+  * [Chân quê](</tom-tat-chan-que-305941>)
+  * [Cung đường của kí ức, hiện tại và tương lai](</tom-tat-cung-duong-cua-ki-uc-hien-tai-va-tuong-lai-305952>)
+

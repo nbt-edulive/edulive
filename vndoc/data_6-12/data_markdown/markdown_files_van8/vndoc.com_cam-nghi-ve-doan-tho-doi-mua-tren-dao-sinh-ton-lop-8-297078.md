@@ -1,0 +1,18 @@
+---
+url: https://vndoc.com/cam-nghi-ve-doan-tho-doi-mua-tren-dao-sinh-ton-lop-8-297078
+title: Cảm nghĩ về đoạn thơ Đợi mưa trên đảo Sinh Tồn lớp 8 - Viết đoạn văn trình bày cảm nghĩ của em về đoạn thơ Đợi mưa trên đảo Sinh Tồn - VnDoc.com
+date_extracted: 2025-04-14 13:18:08
+description: Viết đoạn văn trình bày cảm nghĩ của em về đoạn thơ Đợi mưa trên đảo Sinh Tồn được biên soạn nhằm giúp các em HS đạt kết quả tốt trong quá trình làm bài tập và học tập môn Ngữ văn lớp 8.
+keywords: Cảm nghĩ về đoạn thơ Đợi mưa trên đảo Sinh Tồn,Viết đoạn văn trình bày cảm nghĩ của em về đoạn thơ Đợi mưa trên đảo Sinh Tồn,Đợi mưa trên đảo Sinh Tồn,cảm nghĩ của em về đoạn thơ Đợi mưa trên đảo Sinh Tồn,trình bày cảm nghĩ của em về đoạn thơ Đợi mưa trên đảo Sinh Tồn,đoạn văn Cảm nghĩ về đoạn thơ Đợi mưa trên đảo Sinh Tồn,văn mẫu lớp 8,ngữ văn 8
+---
+
+# Cảm nghĩ về đoạn thơ Đợi mưa trên đảo Sinh Tồn lớp 8
+ _Viết đoạn văn trình bày cảm nghĩ của em về đoạn thơ Đợi mưa trên đảo Sinh Tồn_
+## **Cảm nghĩ về đoạn thơ Đợi mưa trên đảo Sinh Tồn lớp 8**
+**[Viết đoạn văn trình bày cảm nghĩ của em về đoạn thơ Đợi mưa trên đảo Sinh Tồn](<https://vndoc.com/cam-nghi-ve-doan-tho-doi-mua-tren-dao-sinh-ton-lop-8-297078>) **với các bài văn mẫu hay và đa dạng sẽ giúp các em có thêm tài liệu tham khảo, để học tập tốt môn Ngữ văn 8.
+**Bản quyền tài liệu thuộc về VnDoc. Nghiêm cấm mọi hành vi sao chép với mục đích thương mại.**
+**Đề bài:** Viết đoạn văn \(khoảng 10-15 câu\) trình bày cảm nghĩ của em về đoạn thơ ở phần Đọc
+### Viết đoạn văn trình bày cảm nghĩ của em về đoạn thơ Đợi mưa trên đảo Sinh Tồn
+\(1\) Đợi mưa trên đảo Sinh Tồn là một sáng tác của nhà thơ Trần Đăng Khoa, kể về cuộc sống của những người lính đang bám trụ ở đảo Sinh Tồn. \(2\) Chỉ cần nghe tên thôi là đã đủ để chúng ta mường tượng ra hoàn cảnh cuộc sống ở đảo Sinh Tồn khó khăn và khốc liệt đến như thế nào. \(3\) Ở nơi đó, toàn những cái bóng đen sẫm như gốc cây khô cháy. \(4\) Hình ảnh đó gợi len sự nóng bức, khô cằn và thiếu thốn vô cùng về nguồn nước ngọt. \(5\) Chính vì vậy, mà những người lính phải thốt lên rằng “ước gì được thấy mưa rơi”. \(6\) Mưa, nước ngọt - điều tưởng như hết sức hiển nhiên lại trở thành thứ xa xỉ với những người lính. \(7\) Các chàng trai ấy, tuy hoàn cảnh có khó khăn vất vả, vẫn giữ cho mình một tinh thần lạc quan và ngập tràn hi vọng. \(8\) Về những ngày mà cơn mưa sẽ xuất hiện từ phía chân trời, để cho cỏ xanh nảy lên từ đá san hô, để cho hòn đảo xa khơi hóa đất liền. \(9\) Và để cho những người lính ấy không phải cạo đầu nữa, mà được để tóc mọc lên như cổ và khao nhau bữa tiệc linh đình toàn nước ngọt. \(10\) Những ước mơ ấy mang chút ngây ngô trẻ con của những chàng lính, vừa khắc họa chân thực hoàn cảnh sống khó khăn, thiếu thốn đủ đường của họ. \(11\) Nhưng dẫu vậy, những người lính vẫn gọi đảo Sinh Tồn là “hòn đảo thân yêu”. \(12\) Họ vẫn sóng ở đó một cách hiên ngang và kiên cường, như hòn đá vững bền, như hòn đá tốt tươi. \(13\) Sức sống tràn trề và niềm tin mãnh liệt được thể hiện trong khổ thơ cuối đã đem đến cho người đọc một niềm vui lạc quan phơi phới. \(14\) Tuy đảo Sinh Tồn thiếu thốn nhiều điều, nhưng ở đó vẫn có những mầm cây tươi xanh, đó chính là mầm sống mà những người lính đã gieo xuống. \(15\) Đọc bài thơ Đợi mưa trên đảo Sinh Tồn, em càng thêm kính trọng, yêu mến và biết ơn những người lính đã hi sinh cuộc sống của mình vì Tổ quốc thân yêu.
+\------------------------------------------------------------------------------------
+Ngoài ra, mời các em tham khảo thêm các tài liệu [ Ngữ văn lớp 8 ](<https://vndoc.com/ngu-van-lop8>) khác do đội ngũ giáo viên VnDoc biên soạn, cùng các bài [ Soạn Văn 8 Kết nối tri thức ](<https://vndoc.com/ngu-van-8-ket-noi-tri-thuc>) hay, đầy đủ nhất. Chúc các em học tập tốt\!

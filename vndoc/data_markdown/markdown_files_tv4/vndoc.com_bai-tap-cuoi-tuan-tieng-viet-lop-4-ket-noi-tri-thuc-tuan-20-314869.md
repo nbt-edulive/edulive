@@ -1,0 +1,26 @@
+---
+url: https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-4-ket-noi-tri-thuc-tuan-20-314869
+title: Bài tập cuối tuần Tiếng Việt lớp 4 Kết nối tri thức Tuần 20 - Bài tập cuối tuần lớp 4 Có đáp án - VnDoc.com
+date_extracted: 2025-04-08 11:01:03
+description: Đề kiểm tra cuối tuần Nâng cao môn Tiếng Việt lớp 4 KNTT - Tuần 20 được VnDoc biên soạn nhằm giúp các em học sinh tham khảo, luyện tập kiến thức môn Tiếng Việt 4.
+keywords: Phiếu bài tập cuối tuần lớp 4 môn Tiếng Việt,bài tập cuối tuần tiếng việt lớp 4 Kết nối tri thức tuần 20,phiếu bài tập tiếng việt lớp 4 tuần 20,Đề kiểm tra cuối tuần môn Tiếng Việt lớp 4 Tuần 20,Đề kiểm tra cuối tuần môn Tiếng Việt lớp 4,giải bài tập tiếng việt lớp 4,bài tập tiếng việt lớp 4,giải tiếng việt lớp 4,bài tập cuối tuần lớp 4,bài tập cuối tuần lớp 4 chân trời,phiếu bài tập cuối tuần lớp 4
+---
+
+# Bài tập cuối tuần Tiếng Việt lớp 4 Kết nối tri thức Tuần 20
+ _Bài tập cuối tuần lớp 4 Có đáp án_
+## **Đề kiểm tra cuối tuần môn Tiếng Việt lớp 4 Kết nối tri thức Tuần 20**
+[**Bài tập cuối tuần Tiếng Việt lớp 4 Tuần 20 - Kết nối tri thức**](<https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-4-ket-noi-tri-thuc-tuan-20-314869>) do VnDoc biên soạn nhằm giúp các em ôn luyện, tổng hợp lại những kiến thức đã được học ở Tuần 20 thuộc chương trình Tiếng Việt lớp 4  sách Kết nối tri thức.
+>> Thử sức với đề nâng cao: [**Đề kiểm tra cuối tuần môn Tiếng Việt lớp 4 Kết nối tri thức Tuần 20 Nâng cao**](<https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-4-ket-noi-tri-thuc-tuan-20-nang-cao-324978>)
+### **Bài tập cuối tuần lớp 4 Tuần 20 môn Tiếng Việt sách Kết nối tri thức**
+ _**Giới thiệu về tài liệu:**_
+  * Dung lượng: 8 trang \(gồm đề và đáp án\)
+  * Nội dung: gồm các phần Đọc hiểu văn bản, Đọc hiểu tích hợp Kiến thức Tiếng Việt, Viết ở mức độ Nhận biết
+  * Hình thức: trình bày theo cấu trúc đề thi, có sẵn phần oli để làm bài, không cần chuẩn bị thêm giấy viết
+  * File tải: gồm file Word và file PDF
+
+_**Hình ảnh minh họa cho phiếu bài tập \(file tải về không có logo\):**_
+![bai tap cuoi tuan tieng viet lop 4 ket noi tri thuc tuan 20 h1*568718](https://i.vdoc.vn/data/image/2024/01/29/bai-tap-cuoi-tuan-tieng-viet-lop-4-ket-noi-tri-thuc-tuan-20-h1.jpg)![bai tap cuoi tuan tieng viet lop 4 ket noi tri thuc tuan 20 h2*568717](https://i.vdoc.vn/data/image/2024/01/29/bai-tap-cuoi-tuan-tieng-viet-lop-4-ket-noi-tri-thuc-tuan-20-h2.jpg)![bai tap cuoi tuan tieng viet lop 4 ket noi tri thuc tuan 20 h3*568716](https://i.vdoc.vn/data/image/2024/01/29/bai-tap-cuoi-tuan-tieng-viet-lop-4-ket-noi-tri-thuc-tuan-20-h3.jpg)
+Xem thêm các bài Tìm bài trong mục này khác:
+  * [Bài tập cuối tuần 20 lớp 4 - Nâng cao](</bai-tap-cuoi-tuan-tieng-viet-lop-4-ket-noi-tri-thuc-tuan-20-nang-cao-324978>)
+  * [Bộ đề kiểm tra Tuần 20 lớp 4](</bo-de-kiem-tra-cuoi-tuan-tieng-viet-lop-4-ket-noi-tri-thuc-tuan-20-324986>)
+

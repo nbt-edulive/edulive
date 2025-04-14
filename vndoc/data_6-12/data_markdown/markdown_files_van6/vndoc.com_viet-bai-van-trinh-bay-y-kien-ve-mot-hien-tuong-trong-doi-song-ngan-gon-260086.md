@@ -1,0 +1,50 @@
+---
+url: https://vndoc.com/viet-bai-van-trinh-bay-y-kien-ve-mot-hien-tuong-trong-doi-song-ngan-gon-260086
+title: Trình bày ý kiến về một hiện tượng đời sống Ngắn gọn lớp 7 - VnDoc.com
+date_extracted: 2025-04-14 12:01:25
+description: Viết bài văn trình bày ý kiến về một hiện tượng trong đời sống ngắn gọn (CTST) được biên soạn nhằm giúp các em HS đạt kết quả tốt trong quá trình làm bài tập và học tập môn Ngữ văn lớp 6.
+keywords: Trình bày ý kiến về một hiện tượng đời sống ngắn gọn,viết bài văn trình bày ý kiến về một hiện tượng trong đời sống ngắn gọn,trình bày ý kiến về một hiện tượng trong đời sống ngắn gọn,trình bày ý kiến về một hiện tượng trong đời sống mà em quan tâm ngắn gọn,bài văn trình bày ý kiến về một hiện tượng trong đời sống ngắn gọn,hãy viết bài văn trình bày ý kiến về một hiện tượng trong đời sống ngắn gọn,trình bày ý kiến về một hiện tượng trong đời sống ngắn nhất
+---
+
+# Trình bày ý kiến về một hiện tượng đời sống Ngắn gọn lớp 7
+## **Viết bài văn trình bày ý kiến về một hiện tượng đời sống Ngắn gọn lớp 6**
+  * Trình bày ý kiến về một hiện tượng đời sống Ngắn gọn Mẫu 1
+  * Trình bày ý kiến về một hiện tượng đời sống Ngắn gọn Mẫu 2
+  * Trình bày ý kiến về một hiện tượng đời sống Ngắn gọn Mẫu 3
+  * Trình bày ý kiến về một hiện tượng đời sống Ngắn gọn Mẫu 4
+  * Trình bày ý kiến về một hiện tượng đời sống Ngắn gọn Mẫu 5
+  * Viết bài văn trình bày ý kiến về một hiện tượng đời sống 
+
+**Bản quyền tài liệu thuộc về VnDoc.  
+Nghiêm cấm mọi hành vi sao chép với mục đích thương mại.**
+**Đề bài:** Em hãy viết bài văn \(khoảng 400 chữ\) trình bày suy nghĩ về một hiện tượng trong đời sống mà em quan tâm.
+## **Trình bày ý kiến về một hiện tượng đời sống Ngắn gọn Mẫu 1**
+Ngày nay, hiện tượng các bạn học sinh theo đuổi các thần tượng, idol hoàn toàn không quá xa lạ. Tuy nhiên, hiện tượng này đã gây nên nhiều ý kiến trái chiều trong xã hội. Khiến chúng ta phải đặt ra một câu hỏi: Thần tượng một ai đó, nên hay không nên?
+Thần tượng một ai đó là tình cảm yêu mến, kính trọng, ngưỡng mộ một người có thành tựu, tài năng xuất chúng. Người đó khiến chúng ta cảm thấy muốn được trở thành như họ. Từ đó, thúc đẩy chúng ta cố gắng học tập, nỗ lực hơn mỗi ngày để đến gần hơn với thần tượng của mình. Theo đó, việc thần tượng một ai đó là rất tốt. Tuy nhiên, hiện nay, khái niệm “thần tượng” đang dần bị biến tướng. Khi nhiều người không có tài năng, phẩm chất tốt vẫn trở thành người nổi tiếng, dựa vào các hành động phản cảm, phát ngôn gây sốc. Từ đó, do thiếu hiểu biết, một số bạn học sinh đã thần tượng các đối tượng này, dẫn đến sự lệch lạc trong quan điểm và tư tưởng. Do đó, em cho rằng, để tránh xuất hiện hiện tượng đáng buồn đó, các bạn học sinh cần chọn cho mình một thần tượng phù hợp. Đó có thể là một ca sĩ, diễn viên, một bác sĩ, giáo viên, một người bán hàng rong hay một người có nghị lực vượt khó… Dù là ai, họ cũng phải là người có phẩm chất, đạo đức tốt, để chúng ta có thể học tập và noi theo. Để làm được đều đó, ngoài bản thân người học sinh cố gắng, thì còn cần sự giúp đỡ, hỗ trợ từ chính quyền và cộng đồng. Tất cả cần chung tay đẩy lùi những hiện tượng người nổi tiếng, những thần tượng lệch lạc, lệch chuẩn để làm sạch không gian mạng. Giúp những người có tài có đức thật sự được tỏa sáng.
+Vì vậy, em cho rằng thần tượng một ai đó là một điều hoàn toàn đúng đắn. Tuy nhiên, chúng ta cần chọn đúng người để thần tượng, có như vậy mới phát huy tối đa những ưu điểm của việc này.
+## **Trình bày ý kiến về một hiện tượng đời sống Ngắn gọn Mẫu 2**
+Một trong các vấn đề gây nhức nhối trong đời sống hiện nay là vấn đề bóc lột sức lao động trẻ em. Đặc biệt là trong lĩnh vực kinh doanh trên mạng xã hội.
+Tuy vấn đề trẻ em bị ép buộc tham gia lao động khi chưa đủ tuổi đã tồn tại từ rất lâu, nhưng gần đây, cùng với sự phát triển mạnh mẽ của mạng xã hội, thì nó dần biến tướng với các hình thức mới. Đó là cách các bậc cha mẹ, người lớn để trẻ nhỏ tham gia quay các video, clip với mục đích kiếm tiền hoặc bán hàng. Đây vốn là hoạt động giải trí bình thường, nhưng thực tế lại tiến hành dựa trên sự ép buộc, yêu cầu trẻ nhỏ phải làm những điều theo trend, được ưa thích, ép các em phải ngồi nói chuyện với người xem, tham gia các sự kiện… Họ lợi dụng hình ảnh đáng yêu, vô tư hồn nhiên đó của các em để lôi kéo khách hàng, thực hiện hoạt động buôn bán. Từ đó, khiến các em nhỏ phải làm việc như “một nghệ sĩ”, suốt ngày đối mặt với ống kính máy quay theo đạo diễn của bố mẹ. Điều đó gián tiếp khiến các em mất đi sự ngây thơ, vô tư của lứa tuổi, trở thành một quả táo bị ép chín. Các em cũng không còn nhiều thời gian để vui chơi, nô đùa với bạn bè, bởi có quá nhiều thời gian để “làm việc”. Chính vì thế, việc bóc lột sức lao động trẻ em trên mạng xã hội cần được loại trừ và đẩy lùi ngay từ hôm nay. Trước hết là từ các hoạt động tẩy chay các nhãn hàng, kênh mạng xã hội kiếm tiền từ hình ảnh trẻ em trái phép. Đồng thời, cần đẩy mạnh tuyên truyền về việc ngưng sử dụng trẻ em như một công cụ kiếm tiền cho tất cả mọi người, đặc biệt là các bậc phụ huynh.
+Hãy để các em có một tuổi thơ hạnh phúc và vô tư, đúng như Bác Hồ đã từng nói:
+Trẻ em như búp trên cành  
+Biết ăn biết ngủ biết học hành là ngoan
+## **Trình bày ý kiến về một hiện tượng đời sống Ngắn gọn Mẫu 3**
+Vấn đề bạo lực học đường là một vấn đề nổi cộm và không hề lạ lẫm với tất cả chúng ta.
+Bạo lực học đường là việc các bạn học sinh bị một nhóm học sinh khác ức hiếp, đe dọa về mặt tinh thần và thể xác. Nhiều người cho rằng, việc đánh đập, dọa nạt mới được cho là bạo lực học đường. Nhưng thật ra, nó còn tồn tại trước các hình thức khác như cô lập, tẩy chay, bịa đặt những thông tin sai lệch… Tất cả đều khiến cho tinh thần lẫn thể chất của người bị bắt nạt bị ảnh hưởng nặng nề. Nó khiến các bạn ấy sợ hãi, không muốn đến trường và luôn cảm thấy buồn bã, khổ sở. Thậm chí, những trường hợp nặng còn dẫn đến bệnh lý trầm cảm, thậm chí là dẫn đến hành vi dại dột.
+Nguyên nhân của hiện tượng này, là do một bộ phận học sinh hư, lợi dụng sự quen biết hay sức mạnh thể chất vượt trội hơn các bạn khác, nên kéo bè kéo phái ức hiếp bạn học. Hành vi đó có thể vì muốn lấy tiền, đồ dùng, đồ chơi… của bạn khác. Hoặc để thể hiện cái tôi của bản thân một cách lệch lạc.
+Để ngăn chặn tình trạng này, chúng ta cần phải có những biện pháp xử phạt hượp lí và kịp thời trước các hành vi bạo lực học đường. Đồng thời đẩy mạnh tuyên truyền và giáo dục về tác hại của các hành động sai trái đó. Ngoài ra, chúng ta còn cần có sự kết hợp chặt chẽ giữa nhà trường và thầy cô, để có thể kiểm soát một cách tối ưu nhất, ngăn cản ngay từ ban đầu các mầm mống của việc bắt nạt bạn bè.
+Khi tất cả mọi người cùng chung tay đoàn kết lại như vậy, thì mới có thể thực sự đẩy lùi tình trạng bạo lực học đường. Đem lại một môi trường lành mạnh cho tất cả các bạn học sinh.
+## **Trình bày ý kiến về một hiện tượng đời sống Ngắn gọn Mẫu 4**
+ _**Trình bày ý kiến về một hiện tượng Bảo tàng liệu có nhàm chán như suy nghĩ của một số người?** _
+Bảo tàng là một nơi lưu trữ rất nhiều những hiện vật đại diện cho những nền văn minh, lịch sử hay nét đặc sắc của dân tộc. Vì vậy, nhiều người cho rằng đó là một nơi nhàm chán. Vậy các bảo tàng liệu có thực sự nhàm chán như họ đã nghĩ hay không?
+Như mọi người đã biết, bảo tàng là nơi tập hợp các hiện vật của rất nhiều nền văn hóa, hay đơn giản là của các giai đoạn lịch sử, các đề tài chung trong cuộc sống. Mỗi bảo tàng với các chủ đề riêng sẽ có những hiện vật, phong cách trang trí, trưng bày khác nhau. Vì vậy, các bảo tàng thực sự có nội dung vô cùng đa dạng và phong phú. Đến đó, chúng ta có thể nhìn thấy những hiện vật của khắp các nơi, ở các thời gian khác nhau tề tựu về. Như một quyển sách khổng lồ và hoành tráng. Vậy nên, có thể nói rằng bảo tàng là một nơi thú vị và hấp dẫn.
+Cùng với đó, chúng ta còn được nghe những lời giới thiệu, thuyết minh cùng các câu chuyện bên lề của các hiện vật được trưng bày ở bảo tàng. Đó không chỉ là các lời giải thích khoa học, được lưu chú trong sách vở. Mà còn là các câu chuyện lưu truyền trong dân gian với các yếu tố li kì hấp dẫn. Các hướng dẫn viên ở bảo tàng như những cuốn sách sống, có thể giải đáp mọi thắc mắc của chúng ta về hiện vật một cách dí dỏm.
+Như vậy, việc đến bảo tàng không chỉ đơn giản là xem các hiện vật, mà còn giúp chúng ta giải trí cũng như biết thêm nhiều thông tin thú vị. Sự đa dạng và ý nghĩa của chúng giúp ta khẳng định rằng bảo tàng là một nơi rất hấp dẫn, thú vị chứ không hề nhàm chán.
+## **Trình bày ý kiến về một hiện tượng đời sống Ngắn gọn Mẫu 5**
+ _**Trình bày ý kiến về một hiện tượng: Thành lập một câu lạc bộ đọc sách trong nhà trường nên hay không nên?** _
+Trong trường học hiện nay, việc thành lập các câu lạc bộ cho học sinh được sinh hoạt theo sở thích là một việc rất phổ biến và được mọi người ủng hộ. Vậy thì việc thành lập một câu lạc bộ đọc sách trong nhà trường thì có nên không?
+Đầu tiên, việc thành lập một câu lạc bộ đọc sách sẽ giúp cho các bạn học sinh có niềm đam mê đọc sách được tề tựu cùng nhau và thỏa mãn niềm vui với sách vở. Tại câu lạc bộ, các bạn ấy sẽ được ngồi lại cùng nhau đọc sách, cùng chia sẻ về những đầu sách hay, giới thiệu cho nhau những quyển sách mới lạ và thú vị. Điều đó giúp cho các bạn được vui vẻ và thư giãn với đam mê của mình.
+Cùng với đó, khi câu lạc bộ đọc sách được thành lập. Thì đồng nghĩa là sẽ có các hoạt động đọc sách, các buổi giao lưu và sinh hoạt về sách vở sẽ được tổ chức thường xuyên. Từ đó, hoạt động đọc sách - một hoạt động ý nghĩa và tốt cho mọi người sẽ được quảng bá rộng rãi hơn. Lan tỏa đến cả các bạn không phải là người đam mê đọc sách. Những hoạt động của câu lạc bộ sẽ thu hút mọi người đến xem và tham gia. Rồi dần dần kích thích, khơi dậy niềm yêu đọc trong các bạn ấy.
+Như vậy, có thể thấy rằng việc thành lập câu lạc bộ đọc sách trong trường học là một hoạt động có nhiều ý nghĩa tích cực và nên được triển khai rộng rãi.
+## **Viết bài văn trình bày ý kiến về một hiện tượng đời sống**
+>> Xem các bài văn mẫu hay tại [Trình bày suy nghĩ về một hiện tượng trong đời sống mà em quan tâm Hay Chọn Lọc](<https://vndoc.com/viet-bai-van-trinh-bay-y-kien-ve-mot-hien-tuong-trong-doi-song-260085>)

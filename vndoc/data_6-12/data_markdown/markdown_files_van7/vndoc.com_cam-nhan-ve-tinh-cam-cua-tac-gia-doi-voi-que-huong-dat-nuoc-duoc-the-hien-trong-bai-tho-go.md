@@ -1,0 +1,43 @@
+---
+url: https://vndoc.com/cam-nhan-ve-tinh-cam-cua-tac-gia-doi-voi-que-huong-dat-nuoc-duoc-the-hien-trong-bai-tho-go-me-281031
+title: Cảm nhận về tình cảm của tác giả đối với quê hương đất nước trong Gò Me - VnDoc.com
+date_extracted: 2025-04-14 13:29:19
+description: Cảm nhận về tình cảm của tác giả đối với quê hương đất nước được thể hiện trong bài thơ Gò Me được biên soạn nhằm giúp các em HS đạt kết quả tốt trong quá trình làm bài tập và học tập môn Ngữ văn lớp 7.
+keywords: Tình cảm của tác giả đối với quê hương đất nước được thể hiện trong Gò Me,Cảm nhận về tình cảm của tác giả đối với quê hương đất nước được thể hiện trong bài thơ Gò Me,tình cảm của tác giả đối với quê hương đất nước được thể hiện trong bài thơ Gò Me,Cảm nhận về tình cảm của tác giả đối với quê hương đất nước được thể hiện trong Gò Me,gò me lớp 7,soạn bài gò me lớp 7
+---
+
+# Cảm nhận về tình cảm của tác giả đối với quê hương đất nước trong Gò Me
+## **Tình cảm của tác giả đối với quê hương đất nước được thể hiện trong Gò Me lớp 7**
+  * Cảm nhận về tình cảm của tác giả đối với quê hương đất nước được thể hiện trong bài thơ Gò Me - Mẫu 1
+  * Cảm nhận về tình cảm của tác giả đối với quê hương đất nước được thể hiện trong bài thơ Gò Me - Mẫu 2
+  * Cảm nhận về tình cảm của tác giả đối với quê hương đất nước được thể hiện trong bài thơ Gò Me - Mẫu 3
+  * Cảm nhận về tình cảm của tác giả đối với quê hương đất nước được thể hiện trong bài thơ Gò Me - Mẫu 4
+  * Cảm nhận về tình cảm của tác giả đối với quê hương đất nước được thể hiện trong bài thơ Gò Me - Mẫu 5
+  * Cảm nhận về tình cảm của tác giả đối với quê hương đất nước được thể hiện trong bài thơ Gò Me - Mẫu 6
+
+**Bản quyền tài liệu thuộc về VnDoc.  
+Nghiêm cấm mọi hành vi sao chép với mục đích thương mại.**
+## **Cảm nhận về tình cảm của tác giả đối với quê hương đất nước được thể hiện trong bài thơ Gò Me - Mẫu 1**
+\(1\) Bài thơ “Gò Me” là lời tâm tình của nhà thơ về quê hương Gò Me yêu dấu - nơi ông sinh ra và lớn lên. \(2\) Xuyên suốt bài thơ là những hình ảnh, những mảnh ghép khắc họa nên một Gò Me của thuở xưa trong kí ức của nhà thơ. \(3\) Với những cánh đồng, bờ ao, con nước, vườn tược, với những dáng hình tần tảo, dịu dàng của mẹ, của chị. \(3\) Chẳng cần một từ ngữ bộc lộc cảm xúc trực tiếp nào, nhưng qua những hình ảnh mà nhà thơ tái hiện lại, em vẫn cảm nhận được một tình yêu thương da diết và nỗi nhớ sâu đậm của tác giả dành cho Gò Me. \(4\) Tình cảm ấy chứa chan qua từng câu thơ, từng hình ảnh, khắc khoải một khát khao được trở về quê hương, đoàn tự với mảnh đất thân thương ấy. \(5\) Bởi chỉ có những người thực sự thiết tha với quê hương mình thì khi đi xa nhiều năm mới vẫn còn nhớ rõ từng chi tiết về vùng đất đó đến vậy. \(6\) Thế nên ở Gò Me, em cảm giác như mình thực sự đang được đi đến Gò Me của thì hiện tại, chứ không phải qua vùng kí ức của nhà thơ.
+## **Cảm nhận về tình cảm của tác giả đối với quê hương đất nước được thể hiện trong bài thơ Gò Me - Mẫu 2**
+\(1\) Trong bài thơ “Gò Me” em đã được đến với một miệt vườn mộc mạc, giản dị mà tràn ngập chất thơ. \(2\) Ở đó có những bờ ao, cánh đồng lúa, con nước vườn tược - những hình ảnh hết sức bình dị mà thân thương đối với nhà thơ - người đã lớn lên với những cảnh quê ấy. \(3\) Cùng với đó, em còn được gặp gỡ những người mẹ, người chị dịu hiền, tần tảo, đảm đang với điệu hò mến thương, da diết. \(4\) Tất cả những hình ảnh đó đều được tái hiện lại từ những mảnh ghép trong miền kí ức của nhà thơ khi phải rời xa quê hương Gò Me yêu dấu. \(5\) Ông sáng tác nên “Gò Me” không phải để giới thiệu với người đọc về quê hương của mình, mà là đang tạo nên một nơi cho bản thân được một lần nữa sống lại những kí ức xưa cũ, một lần nữa được về với Gò Me trong tâm tưởng của chính mình. \(6\) Ở đó, ông mặc sức thể hiện những tình yêu thương sâu sắc, những nối nhớ mong khắc khoải, thiết tha của mình. \(7\) Những tình cảm ấy mạ lên cho cảnh sắc Gò Me trong bài thơ một vẻ đẹp mơ hồ, xưa vắng và quý giá vô cùng.
+## **Cảm nhận về tình cảm của tác giả đối với quê hương đất nước được thể hiện trong bài thơ Gò Me - Mẫu 3**
+\(1\) Gò Me là tên vùng đất quê hương của nhà thơ, đó cũng là nguồn cội của cảm xúc để nhà thơ viết nên bài thơ này. \(2\) Đọc Gò Me, em cảm nhận được tình cảm sâu nặng và da diết của nhà thơ dành cho quê hương mình. \(3\) Tình cảm ấy hiện hữu qua nỗi nhớ của ông về quê hương. \(4\) Dù xa cách đã lâu, nhưng ông vẫn không quên những bờ ao, cánh đồng, con nước, vườn tược nơi mình khôn lớn. \(5\) Càng không thể quên được những hình ảnh của mẹ, của chị tảo tần, dịu dàng. \(6\) Ngay cả tiếng hò đã rất lâu chưa được nghe, vẫn cứ văng văng bên tai nhà thơ, rõ ràng đến từng tiếng ngân. \(7\) Chính hình ảnh quê hương in đậm trong tâm trí nhà thơ đó là minh chứng cho tình cảm của ông dành cho nơi mình sinh ra và lớn lên.
+## **Cảm nhận về tình cảm của tác giả đối với quê hương đất nước được thể hiện trong bài thơ Gò Me - Mẫu 4**
+\(1\) Đến với bài thơ Gò Me, em được lạc vào một miền không gian khác, đó là miền không gian của kí ức nhà thơ. \(2\) Ở không gian ấy, là một vùng đất Gò Me bình dị, dân dã với những bờ ao, cánh đồng, con nước, vườn cây… \(3\) Ở đó dáng hình những người thân yêu của nhà thơ đang tảo tần làm việc. \(4\) Tất cả được dệt lên bằng kí ức của nhà thơ, và gìn giữ qua nhiều năm chẳng phai mờ bằng tình yêu quê hương sâu sắc của ông. \(5\) Chính vì yêu quê hương mình, mà dù đã nhiều năm xa quê, ông vẫn chưa một lần quên đi hình ảnh nào ở nơi ấy. \(6\) Ông xa nhà, mang theo hành trang là tình yêu quê hương sâu đậm, cùng điệu hò ngân vang mãi trong miền kí ức. \(7\) Chừng nào tình yêu ấy còn nồng đậm, da diết, thì quê hương Gò Me vẫn còn sống mãi trong trái tim nhà thơ.
+![tình cảm của tác giả đối với quê hương đất nước được thể hiện trong bài thơ Gò Me](https://i.vdoc.vn/data/image/2023/11/21/cam-nhan-ve-tinh-cam-cua-tac-gia-doi-voi-que-huong-dat-nuoc-duoc-the-hien-trong-bai-tho-go-me-h1.jpg)
+## **Cảm nhận về tình cảm của tác giả đối với quê hương đất nước được thể hiện trong bài thơ Gò Me - Mẫu 5**
+\(1\) Trong bài thơ Gò Me, nhà thơ Hoàng Tố Nguyên đã tái hiện lại nhữ hình ảnh thiên nhiên tươi đẹp, bình dị và gần gũi ở quê hương của mình. \(2\) Từ những vần thơ ấy, em cảm nhận được tình yêu quê hương tha thiết và sâu sắc cảu nhà thơ. \(3\) Tuy đã rời xa quê hương, nhưng những khung cảnh con đê, đồng ruộng, bờ ao, vườn nhà vẫn vẹn nguyên trong tâm trí ông. \(4\) Những kỉ niệm ấu thơ bên mẹ, bên chị ở quê hương cũng vẫn vẹn nguyên, bồi hồi trong tâm trí. \(5\) Như tiếng hò xưa vẫn luôn văng vẳng bên tai. \(6\) Chưa giây phút nào là tác gia tạm ngưng nhớ về quê hương yêu dấu của mình cả.
+## **Cảm nhận về tình cảm của tác giả đối với quê hương đất nước được thể hiện trong bài thơ Gò Me - Mẫu 6**
+\(1\) Bài thơ Gò Me là một tác phẩm thơ chứa đựng tình yêu quê hương da diết của nhà thơ thơ. \(2\) Tình yêu ấy được hiện diện qua những hình ảnh quê hương thân thương trong kí ức tác giả. \(3\) Rời xa quê hương, lúc nào ông cũng không ngừng nhớ về những hình ảnh thân thuộc ở đó, với bờ ao, cánh đồng, con nước, vườn tược… \(4\) Dù chỉ là những khung cảnh bình dị, nhưng tác giả vẫn không ngừng xuýt xoa nhớ về với lòng tự hào mà nhấn mạnh “quê tôi”. \(5\) Phải, đó chính là miền quê đã nuôi tác giả khôn lớn, bởi bàn tay dịu dàng của người mẹ, người chị. \(6\) Bởi vậy, dù đã xa cách bao lâu, những cảnh tượng, tiếng hò ở quê hương vẫn văng vẳng mãi bên tai nhà thơ như chưa từng xa cách.
+Xem thêm các bài Tìm bài trong mục này khác:
+  * [Cảm nhận về đoạn thơ từ Ôi, thuở ấu thơ đến Lá xanh như dải lụa mềm lửng lơ](</cam-nhan-cua-em-ve-doan-tho-tu-oi-thuo-au-tho-den-la-xanh-nhu-dai-lua-mem-lung-lo-281032>)
+  * [Suy nghĩ về tình yêu quê hương đất nước](</viet-doan-van-suy-nghi-ve-tinh-yeu-que-huong-169056>)
+  * [Em thích nhất điều gì ở mùa xuân quê em?](</em-thich-nhat-dieu-gi-o-mua-xuan-que-em-282125>)
+  * [Cảm nhận về cảnh sắc và không khí mùa xuân ở quê hương em](</doan-van-neu-cam-nhan-ve-canh-sac-va-khong-khi-mua-xuan-o-que-huong-em-282127>)
+  * [Mỗi vùng miền trên thế giới đều có những nét riêng trong phong cách ẩm thực](</moi-vung-mien-tren-the-gioi-deu-co-nhung-net-rieng-trong-phong-cach-am-thuc-hay-chia-se-hieu-biet-cua-em-ve-van-de-nay-282128>)
+  * [Giới thiệu về một món ăn đặc sản ở quê em](</gioi-thieu-ve-mot-mon-an-dac-san-o-que-em-lop-7-282130>)
+  * [Viết về về một nét sinh hoạt thể hiện vẻ đẹp của con người và truyền thống văn hóa nơi em đang sống](</viet-doan-van-ve-mot-net-sinh-hoat-the-hien-ve-dep-cua-con-nguoi-va-truyen-thong-van-hoa-noi-em-dang-song-282131>)
+  * [Tóm tắt văn bản Hội Lồng Tồng bằng sơ đồ](</tom-tat-cac-y-chinh-cua-van-ban-hoi-long-tong-bang-so-do-282182>)
+  * [Văn tả mùa xuân lớp 7](</van-mau-lop-7-ta-canh-mua-xuan-138332>)
+

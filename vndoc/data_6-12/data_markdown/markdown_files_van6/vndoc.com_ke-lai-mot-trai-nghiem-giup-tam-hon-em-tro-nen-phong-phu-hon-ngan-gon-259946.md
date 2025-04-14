@@ -1,0 +1,57 @@
+---
+url: https://vndoc.com/ke-lai-mot-trai-nghiem-giup-tam-hon-em-tro-nen-phong-phu-hon-ngan-gon-259946
+title: Kể lại một trải nghiệm giúp tâm hồn em trở nên phong phú hơn Ngắn gọn - Kể lại một trải nghiệm của bản thân Ngắn nhất - VnDoc.com
+date_extracted: 2025-04-14 11:58:18
+description: Kể lại một trải nghiệm giúp tâm hồn em trở nên phong phú hơn ngắn gọn lớp 6 được biên soạn nhằm giúp các em HS đạt kết quả tốt trong quá trình làm bài tập và học tập môn Ngữ văn lớp 6.
+keywords: kể lại một trải nghiệm giúp tâm hồn em trở nên phong phú hơn ngắn gọn,kể lại một trải nghiệm của bản thân ngắn gọn,Kể lại một trải nghiệm giúp tâm hồn em trở nên phong phú hơn,viết một bài văn kể lại một trải nghiệm giúp tâm hồn em trở nên phong phú hơn,bài văn kể lại một trải nghiệm giúp tâm hồn em trở nên phong phú hơn,viết một bài văn khoảng 400 chữ kể lại một trải nghiệm giúp tâm hồn em trở nên phong phú hơn
+---
+
+# Kể lại một trải nghiệm giúp tâm hồn em trở nên phong phú hơn Ngắn gọn
+ _Kể lại một trải nghiệm của bản thân Ngắn nhất_
+## **Kể lại một trải nghiệm giúp tâm hồn em trở nên phong phú hơn**
+  * Kể lại một trải nghiệm của em Ngắn gọn nhất Mẫu 1
+  * Kể lại một trải nghiệm của em Ngắn gọn nhất Mẫu 2
+  * Kể lại một trải nghiệm của em Ngắn gọn nhất Mẫu 3
+  * Kể lại một trải nghiệm của em Ngắn gọn nhất Mẫu 4
+  * Kể lại một trải nghiệm của em Ngắn gọn nhất Mẫu 5
+  * Kể lại một trải nghiệm giúp tâm hồn em trở nên phong phú hơn
+
+**Kể lại một trải nghiệm giúp tâm hồn em trở nên phong phú hơn Ngắn Gọn lớp 6** với các đoạn văn mẫu hay và đa dạng sẽ giúp các em có thêm tài liệu tham khảo, để học tập tốt môn Ngữ văn 6.
+**Bản quyền tài liệu thuộc về VnDoc.  
+Nghiêm cấm mọi hành vi sao chép với mục đích thương mại.**
+**Đề bài:** Viết một bài văn \(khoảng 400 chữ\) kể lại một trải nghiệm giúp tâm hồn em trở nên phong phú hơn
+## **Kể lại một trải nghiệm của em Ngắn gọn nhất Mẫu 1**
+Sáng chủ nhật vừa rồi, thay vì dành thời gian để nuông chiều bản thân trên chiếc giường thân yêu, em đã thức dậy từ sớm để làm một việc ý nghĩa hơn. Đó là tham gia nhóm làm vệ sinh đường phố của tiểu khu.
+Nhóm gồm có 24 thành viên ở các độ tuổi khác nhau hiện đang sinh sống trên địa bàn tiểu khu. Chúng em đã bàn bạc và thống nhất với nhau từ trước, rằng sẽ dành sáng chủ nhật để đi xóa, gỡ bỏ các tờ giấy quảng cáo, số điện thoại quảng cáo trên các bức tường và cột điện trên đường. Bởi chúng gây mất thẩm mĩ nghiêm trọng cho cảnh quan tiểu khu, đồng thời còn ẩn chứa nhiều nguy cơ vì thông tin quảng cáo mập mờ. Đúng 6h30 sáng, em có mặt ở đầu đường Nguyễn Cơ Thạch cùng 24 đồng đội còn lại. Sau 5 phút nghe đội trưởng phân công nhiệm vụ, chúng em bắt đầu chia nhau làm việc. Em được phân vào nhóm có sáu anh chị cấp 3, nên được ưu tiên làm việc nhẹ nhất là gỡ các tờ giấy dán trên cột điện. Lúc đầu em còn khá lóng ngóng, nên không xé sạch được, thường đứt giữa chừng hoặc dính lại nền giấy trắng trên cột. Nhưng các anh chị đã chỉ cho em các mẹo nhỏ để việc gỡ trở nên dễ dàng hơn. Không chỉ vậy, các anh chị còn chủ động hỏi thăm, bắt chuyện để em được thoải mái hơn nữa. Lúc gần xong, chị Hường còn cổ vũ em thi vào trường Trung học phổ thông Hoài Diễn - nơi các anh chị ấy đang theo học, để có thêm nhiều cơ hội tham gia hoạt động cùng nhau. Nhờ sự quan tâm ấy của các anh chị, mà thời gian làm nhiệm vụ trôi qua thật vui vẻ và nhanh chóng. Lúc trở về, nhìn lại con đường đã trở nên sạch sẽ, em có chút không thể tin được rằng bản thân đã dành hơn 1 tiếng đồng hồ ở đây để làm nhiệm vụ cùng mọi người.
+Ngắm nhìn thành quả của mình, em rất vui sướng và hãnh diện vì đã đóng góp được một chút sức mình cho quê hương yêu dấu. Cùng với đó, những trải nghiệm thú vị của buổi sáng chủ nhật này cũng đã khiến em có những suy nghĩ khác hơn về ngày nghỉ. Có lẽ, ngày nghỉ không chỉ để nằm ngủ nướng, để xem tivi, mà nó còn có thể dùng để làm một việc gì đó ý nghĩa hơn.
+## **Kể lại một trải nghiệm của em Ngắn gọn nhất Mẫu 2**
+Trải nghiệm đáng nhớ nhất của em cùng bà, chính là lần mà bà dạy em cách đan rổ.
+Hôm ấy, em về quê thăm bà sau nhiều tháng xa cách. Lúc về đến nơi, em thấy bà đang ngồi tỉ mẩn đan một chiếc rổ từng những sợi lạt. Thấy em nhìn chăm chú, bà đã gọi em lại và dạy em cách làm. Bà dẫn em đi ra vườn, chọn vài cây tre có thân to chừng hai đến ba ngón tay, rồi chặt xuống. Về đến sân, bà tuốt sạch các cành, lá trên thân, chỉ để lại thân cây mà thôi. Rồi mới dùng dao chẻ đôi, chẻ tư, chẻ sau thân tre ra. Khi nó chỉ còn là mảnh nhỏ thì mới bắt đầu tỉa thành từng sợi lạt mỏng. Em cũng xin bà được làm, nhưng em không thể nào tách ra những sợi lạt mảnh như của bà được, nên đành bỏ cuộc. Xong xuôi, bà mới bắt đầu đan rổ. Bà làm mẫu trước, chỉ từng bước cặn kẽ để tạo nên đáy rổ. Ngồi bên cạnh, em cũng chăm chú làm theo. Lúc đầu mọi chuyện có vẻ khó khăn, nên bà đã cầm tay em để hướng dẫn. Sau đó, khi em dần quen tay hơn thì bà để cho em tự làm. Khi sắp đến vành rổ, em bị thanh lạt làm xước ngón tay chảy máu, bà lo lắm nên không cho em đan nữa. Nhưng em không chịu, xin bà làm tiếp cho bằng được. Và rồi, dưới sự chỉ dạy tận tình của bà và sự nỗ lực của chính mình, em đã đan thành công một chiếc rổ to như bàn tay của bố khi xòe ra.
+Cầm chiếc rổ trên tay, em vui lắm, cứ ngắm nghía mãi. Nhờ trải nghiệm hôm ấy, mà em biết quý trọng hơn những đồ vật xung quanh mình. Vì để làm ra nó những người thợ đều đã phải vất vả làm việc miệt mài.
+## **Kể lại một trải nghiệm của em Ngắn gọn nhất Mẫu 3**
+Cuối tuần trước, nhân dịp Giỗ tổ Hùng Vương, cả gia đình em được nghỉ lễ 3 ngày nên đã cùng nhau về nhà bà ngoại chơi. Đây thực thự là một trải nghiệm tuyệt vời vô cùng đối với em.
+Trên đường về nhà bà, em được đi qua một con đường dài rợp bóng mát của cây cối. Đi qua một con ngõ nhỏ, phía cuối cùng có một ngôi nhà nhỏ nằm nép mình trong dàn hoa ti-gôn xinh xắn, đó chính là nhà của bà ngoại em.
+Nhà của bà tuy nhỏ nhưng rất sạch sẽ. Thấy cả nhà em về, bà vui lắm, tiến tới xoa đầu và hỏi thăm từng người một. Sau đó, bà mới dịu dàng dẫn mọi người vào nhà. Ở nhà bà, em được làm những điều mà ở trên phố thật xa xỉ. Em được cùng bà đi lên chợ huyện, ăn đủ các món bánh kẹo làm thủ công ngon ngọt. Em được ra vườn, tự mình hái những trái na, trái khế, trái xoài chín thơm. Em được theo anh họ đi câu cá ở bờ ao, đi tắm sông ở đầu làng, đi thả diều ở bên đê. Em còn được bà yêu chiều nấu cho biết bao là món ngon, rồi được bà cho nằm trên đùi rồi nghe bà kể chuyện nữa. Cứ như thế, ba ngày nghỉ lễ trôi qua nhanh như một cái chớp mắt, em lại phải cùng bố mẹ trở về thành phố.
+Khi đi, bà gói ghém cho cả nhà rất nhiều bánh trái, gà vịt… Nhưng thứ tuyệt vời nhất mà em nhận được từ bà trong những ngày qua, chính alf sự thư giãn, thoải mái về tâm hồn. Và một nguồn năng lượng dồi dào cho những ngày học tập tiếp theo.
+## **Kể lại một trải nghiệm của em Ngắn gọn nhất Mẫu 4**
+Chiều hôm qua, em đã có một trải nghiệm vô cùng tuyệt vời cùng các anh chị trong đội tình nguyện. Chúng em đã cùng nhau trồng hoa làm đẹp con con đường làng gần nhà văn hóa.
+Đúng ba giờ chiều ngày hôm qua, em đã có mặt ở cổng nhà văn hóa để tập trung cùng các anh chị trong đội. Sau khi kiểm tra sỉ số, chúng em được chia thành từng nhóm nhỏ và nhận phân công công việc phù hợp với khả năng của mình. Em và các bạn nhỏ khác nhận nhiệm vụ nhổ cỏ và quét sạch lá khô ở hai bên đường đi. Còn các anh chị lớn hơn thì sẽ đào hố và trồng cây.
+Nhận nhiệm vụ xong, chúng em liền tiến vào nhà kho của nhà văn hóa để lấy dụng cụ. Với cây cuốc nhỏ và chiếc chổi tre, chúng em nhanh chóng nhổ sạch phần cỏ dại ở ven đường và chất thành từng đống nhỏ. Sau đó, chúng em đưa chúng cùng lá khô đã gom lại cho vào túi rác lớn, rồi đem đi vứt ở thùng rác lớn. Đúng lúc ấy, các anh chị cũng đã chở hoa về. Nào là cúc họa mi, cây cẩm tú, cây đồng tiền, cây ngũ sắc… Đa dạng các loài hoa thật đẹp và rực rỡ. Khi các anh chị trồng hoa, thì em và các bạn đứng quan sát và hỗ trợ lấp đất. Cuối cùng, chúng em kéo vòi tưới nước từ sân nhà văn hóa và tưới hết một lượt các luống hoa đã trồng. Các chỗ xa hơn, thì chúng em dùng bình nước để tưới. Tuy mệt nhọc, nhưng nhìn con đường sạch sẽ và xinh đẹp, em liền quên hết tất cả.
+Trải nghiệm được chính tay mình dọn dẹp và trồng cây cho con đường làng này là một trải nghiệm thật tuyệt vời và thú vị. Em sẽ nhớ mãi những cảm xúc này không bao giờ quên.
+## **Kể lại một trải nghiệm của em Ngắn gọn nhất Mẫu 5**
+Chủ nhật vừa rồi, em đã được cùng các bạn tham gia một hoạt động trải nghiệm thực tế ở ngoại ô thành phố. Chúng em đã được đến tham quan trang trại ở đó và thực hiện các hoạt động tập thể vui nhộn.
+Điểm đến của chúng em hôm ấy là một trang trại nhỏ. Được cô giáo giới thiệu từ trước, em và các bạn đều rất hào hứng. Trên đường đi, chúng em ca hát và trò chuyện vui vẻ. Khi đến nơi, vừa bước xuống xe là chúng em đã phải trầm trồ trước cảnh quan của nơi đây. Khắp nơi là một vùng màu xanh mướt mắt của cây cối, thảm cỏ, luống rau, hồ nước. Bầu không khí ở đây trong thành và thơm ngọt mùi hoa lá. Hít một hơi thật sâu, căng cả lồng ngực rồi thở ra, em cảm thấy khoan khoái và dễ chịu lắm.
+Theo chân cô giáo và hướng dẫn viên, chúng em được đi tham quan chuồng lợn, chuồng gà và cả chuồng bò nữa. Các con vật đều rất sạch sẽ và béo tốt. Em thích nhất là những chú chó được nuôi ở đây. Nhiệm vụ của chúng ta trông coi cho các chuồng trại nên không bị nhốt vào. Nhưng chúng rất ngoan và thân thiện, không hề làm hại ai cả. Tiếp đến, chúng em được đến thăm vườn rau và vườn cây ăn trái. Chúng em đã được cho phép hái quả chín và ăn ngay tại vườn. Hương vị tuyệt vời của trái cây tươi chín tại cây ấy thật sự vô cùng tuyệt vời.
+Mãi đến khi trở về, em vẫn còn tiếc nuối mãi vì một ngày trôi qua quá nhanh. những trải nghiệm tuyệt vời tại trang trại ngày hôm nay, em sẽ viết lại vào nhật kí và kể cho bạn bè của mình nghe.
+## **Kể lại một trải nghiệm giúp tâm hồn em trở nên phong phú hơn**
+>> Xem các bài văn mẫu ngắn gọn tại đây [V](<https://vndoc.com/viet-mot-bai-van-ke-lai-mot-trai-nghiem-giup-tam-hon-em-tro-nen-phong-phu-hon-259945>)[iết một bài văn kể lại một trải nghiệm giúp tâm hồn em trở nên phong phú hơn](<https://vndoc.com/viet-mot-bai-van-ke-lai-mot-trai-nghiem-giup-tam-hon-em-tro-nen-phong-phu-hon-259945>)
+\-------------------------------------------------
+Ngoài bài [Kể lại một trải nghiệm giúp tâm hồn em trở nên phong phú hơn ngắn gọn](<https://vndoc.com/ke-lai-mot-trai-nghiem-giup-tam-hon-em-tro-nen-phong-phu-hon-ngan-gon-259946>) trên đây, chúng tôi còn hướng dẫn viết các [Bài văn mẫu lớp 6 CTST ](<https://vndoc.com/van-mau-lop-6-sach-ctst>) khác, cùng các bài Soạn văn chi tiết và Ngắn gọn môn [Ngữ văn lớp 6 Chân trời sáng tạo Tập 2 ](<https://vndoc.com/ngu-van-6-sach-chan-troi-sang-tao-tap2>) . Mời các bạn tham khảo.
+Xem thêm các bài Tìm bài trong mục này khác:
+  * [Viết bài văn kể lại một trải nghiệm của em Hay Chọn Lọc](<https://vndoc.com/ke-lai-mot-trai-nghiem-giup-tam-hon-em-tro-nen-phong-phu-hon-273886>)
+  * [Viết bài văn \(khoảng 400 chữ\) kể lại một trải nghiệm của bản thân](</viet-mot-bai-van-khoang-400-chu-ke-lai-mot-trai-nghiem-giup-tam-hon-em-tro-nen-phong-phu-hon-273888>)
+  * [Kể lại một trải nghiệm của em với thầy cô giáo](</ke-lai-mot-trai-nghiem-cua-em-voi-thay-co-giao-ngan-gon-282595>)
+  * [Kể về một kỉ niệm thời thơ ấu mà em nhớ mãi](</van-mau-lop-5-ke-mot-ky-niem-dang-nho-nhat-trong-thoi-tho-au-115514>)
+  * [Kể lại kỉ niệm đáng nhớ với con mèo](</ke-lai-ki-niem-dang-nho-voi-con-meo-154303>)
+  * [Kể về một kỉ niệm đáng nhớ Ngắn gọn](</bai-viet-so-3-lop-6-de-1-ke-ve-mot-ki-niem-dang-nho-duoc-khen-bi-che-gap-may-gap-rui-bi-hieu-lam-132608>)
+

@@ -1,0 +1,49 @@
+---
+url: https://vndoc.com/ke-ve-mot-su-viec-co-that-lien-quan-den-nhan-vat-lich-su-hai-ba-trung-ngan-gon-280156
+title: Kể về một sự việc có thật liên quan đến nhân vật lịch sử Hai Bà Trưng ngắn gọn - Kể về một sự việc có thật liên quan đến Hai Bà Trưng ngắn nhất - VnDoc.com
+date_extracted: 2025-04-14 13:18:22
+description: Kể về một sự việc có thật liên quan đến nhân vật lịch sử Hai Bà Trưng ngắn gọn lớp 7 được biên soạn nhằm giúp các em HS đạt kết quả tốt trong quá trình làm bài tập và học tập môn Ngữ văn lớp 7.
+keywords: kể về một sự việc có thật liên quan đến nhân vật lịch sử Hai Bà Trưng ngắn gọn,viết bài văn kể về một sự việc có thật liên quan đến nhân vật hoặc sự kiện lịch sử Hai bà Trưng,Kể về một sự việc có thật liên quan đến Hai Bà Trưng,kể về một sự việc có thật liên quan đến nhân vật lịch sử Hai Bà Trưng,kể về Hai Bà Trưng,kể về nhân vật lịch sử Hai Bà Trưng,Hai Bà Trưng
+---
+
+# Kể về một sự việc có thật liên quan đến nhân vật lịch sử Hai Bà Trưng ngắn gọn
+ _Kể về một sự việc có thật liên quan đến Hai Bà Trưng ngắn nhất_
+## **Kể về một sự việc có thật liên quan đến nhân vật hoặc sự kiện lịch sử Hai bà Trưng ngắn**
+  * Kể về một sự việc có thật liên quan đến Hai Bà Trưng ngắn gọn Mẫu 1
+  * Kể về một sự việc có thật liên quan đến Hai Bà Trưng ngắn gọn Mẫu 2
+  * Kể về một sự việc có thật liên quan đến nhân vật hoặc sự kiện lịch sử Hai Bà Trưng Ngắn gọn Mẫu 3
+  * Kể về một sự việc có thật liên quan đến nhân vật lịch sử Hai Bà Trưng Ngắn gọn Mẫu 4
+  * Kể lại sự việc có thật liên quan đến nhân vật hoặc sự kiện lịch sử lớp 7
+
+**Kể về một sự việc có thật liên quan đến nhân vật lịch sử Hai Bà Trưng ngắn gọn lớp 7** với các đoạn văn mẫu hay và đa dạng sẽ giúp các em có thêm tài liệu tham khảo, để học tập tốt môn Ngữ văn 7.
+**Bản quyền tài liệu thuộc về VnDoc.  
+Nghiêm cấm mọi hành vi sao chép với mục đích thương mại.**
+## **Kể về một sự việc có thật liên quan đến Hai Bà Trưng ngắn gọn Mẫu 1**
+Để làm nên những trang sử hào hùng của dân tộc Việt Nam ta, không chỉ có những chàng trai mạnh mẽ, oai phong, mà còn có cả những nữ tướng tài giỏi. Trong đó, chúng ta không thể không nhắc đến Hai Bà Trưng.
+Hai Bà Trưng là tên gọi của hai nữ vương Trưng Trắc và Trưng Nhị. Họ vốn là hai chị em ruột sinh sống lúc nước ta đang nằm dưới sự đô hộ của giặc phương Bắc. Hai bà nổi tiếng với tài thao lược, giỏi binh pháp dù là phận nữ nhi. Đã vậy, hai bà còn đặc biệt được nhân dân yêu mến, tin cậy. Thấy được điều đó, lũ giặc phương Bắc vô cùng lo ngại, nên đã tìm cách hãm hại và giết chết chồng bà Trưng Trắc là Thi Sách. Cứ ngỡ sẽ đe dọa và đập tan được ý chí của bà nhưng chúng không ngờ rằng, hành động đó lại phản tác dụng. Lòng hận thù ngùn ngụt trong lòng hai bà sau sự kiện đó bùng cháy dữ dội. Để trả thù nước và rửa sạch nợ nhà, hai bà đã đồng lòng đứng dậy khởi nghĩa, quyết đánh đuổi giặc ngoại xâm. Nghĩa quân của hai bà ngày càng lớn mạnh nhanh chóng. Khi ra trận, hai bà mặc giáp oai phong, cưỡi voi hùng dũng chẳng thua kém bậc danh tướng nào. Sức mạnh áp đảo của nghĩa quân khiến giặc phương Bắc hoảng sợ, tháo chạy về nước. Nhờ vậy, nước ta dành được độc lập sau bao nhiêu năm sống dưới đêm trường nô lệ. Tuy nhiên, ít lâu sau, lũ giặc phương Bắc đã trở lại với đội quân tinh nhuệ nên nghĩa quân bị đánh bại. Để bảo vệ danh dự, hai bà đã nhảy núi tự vẫn chứ quyết không để bản thân rơi vào tay giặc.
+Tuy thời gian độc lập dành được khá ngắn ngủi, nhưng những gì mà Hai Bà Trưng đem đến cho đất nước ta lại vô cùng to lớn. Hai bà đem đến khát khao tự do, vực dậy sức sống mới cho dân tộc ta. Từ đó thổi bùng lên phong trào khởi nghĩa mãnh liệt trên khắp cả nước. Thật tự hào biết bao khi đất nước ta có hai nữ anh hùng như thế.
+## **Kể về một sự việc có thật liên quan đến Hai Bà Trưng ngắn gọn Mẫu 2**
+“Giặc đến nhà đàn bà cũng đánh” - đây là câu nói bất hủ của Bác Hồ, và nó vẫn luôn đúng không chỉ ở hiện tại, mà còn đúng với lịch sử suốt ngàn năm qua của dân tộc ta. Khi nhắc đến những nữ anh hùng oai phong, thì không thể không nhắc đến Hai Bà Trưng.
+Hai Bà Trưng là cách gọi chung của hai nữ vương Trưng Trắc và Trưng Nhị. Lúc bấy giờ, nước ta nằm dưới ách đô hộ của giặc phương Bắc, lúc nào cũng phải chịu sự đàn áp, bóc lột nặng nề. Để đề phòng dân ta vùng dậy, hễ có người tài xuất chúng nào nổi lên là giặc tìm cách tiêu diệt cho bằng được. Chính vì vậy, khi thấy chị em Trưng Trắc và Trưng Nhị có tài thao lược lại được lòng dân chúng thì giặc phương Bắc vô cùng e dè. Chúng quyết định ủ mưu giết chết chồng bà Trưng Trắc là Thi Sách để đe dọa, làm thấp đi ý chí của bà. Ngờ đâu, hành động đó lại thổi bùng lên ngọn lửa căm hận trong Trưng Trắc. Vậy là để trả thù nước và cũng để trả nợ nhà, bà đã lãnh đạo nhân dân đứng lên đánh đuổi lũ giặc phương Bắc. Nghĩa quân của bà lớn mạnh nhanh chóng, đi đến đâu cũng được nhân dân ủng hộ, góp sức, góp của. Nhờ vậy, đội quân của Hai Bà Trưng nhanh chóng đánh đuổi được quân giặc, dành lại độc lập cho dân tộc. Tuy nhiên, chỉ hơn hai tháng sau, quân phía Bắc đã cử một binh đoàn mạnh mẽ và tinh nhuệ sang để đàn áp hai bà, chấm dứt thời gian độc lập ngắn ngủi ấy.
+Dù vậy, chiến công của Hai Bà Trưng vẫn vô cùng ý nghĩa đối với đất nước ta. Nó đã trở thành mồi lửa đầu tiên trong đống than hồng âm ỉ tình yêu nước và khát vọng độc lập. Để bắt đầu cho chuỗi những khởi nghĩa ngày càng lớn mạnh hơn của dân tộc ta sau này
+## **Kể về một sự việc có thật liên quan đến nhân vật hoặc sự kiện lịch sử Hai Bà Trưng Ngắn gọn Mẫu 3**
+Trong những trang sử vàng chói lọi của nước ta, có rất nhiều những anh hùng kiệt xuất đã đứng lên vì độc lập tự do của tổ quốc. Trong đó, chúng ta không thể không nhắc đến Hai Bà Trưng.
+Hai bà là người đứng đầu của vùng đất Mê Linh trong bối cảnh nước ta bị giặc phương Bắc đô hộ. Với tài mưu lược và binh đao hơn người, cùng lòng yêu nước mãnh liệt, hai bà trở thành cái gai trong mắt kẻ thù. Thế là chúng lập mưu giết chồng bà Trưng Trắc là Thi Sách. Hành động ấy đã châm một ngòi nổ lớn, khiến hai bà quyết tâm đứng dậy, giết giặc trả thù nhà và nợ nước. Quân đội của Hai Bà Trưng được nhân dân và các thế lực khác trong nước ủng hộ mạnh mẽ, nên ngày càng lớn mạnh. Thế như chẻ tre khiến quân giặc hoảng sợ, bỏ chạy về nước. Thế là, Hai Bà Trưng đã đem lại độc lập cho dân tộc ta, tự hào xiết bao. Tuy nhiên, hơn hai tháng sau, giặc phương Bắc đã trở lại với lực lượng mạnh mẽ hơn, toàn lực tấn công khiến quân đội ta không chống trả được. Dù vậy, Hai Bà Trưng vẫn chiến đấu đến giây phút cuối cùng. Và lựa chọn nhảy vực tự sát chứ quyết không để rơi vào tay giặc.
+Tinh thần ấy của Hai Bà Trưng khiến nhân dân ta muôn đời kính nể và ngưỡng vọng. Hai bà là hai tượng đài sáng rọi vĩnh cửu trong trang sử hào hùng của dân tộc ta.
+## **Kể về một sự việc có thật liên quan đến nhân vật lịch sử Hai Bà Trưng Ngắn gọn Mẫu 4**
+Nói đến những người phụ nữ Việt Nam anh hùng, em liền nghĩ ngay đến Hai bà Trưng - hai người phụ nữ vô cùng tài giỏi và mạnh mẽ.
+Hai Bà Trưng là hai chị em tên là Trưng Trắc và Trưng Nhị. Là phận nữ nhi, nhưng cả hai bà đều giỏi việc binh đao, chiến sự. Vốn hai bà là người cai quản vùng đất Mê Linh rộng lớn, lại có lòng căm thù giặc nên khiến chúng e sợ, lập mưu giết chồng bà Trưng Trắc là Thi Sách. Hành động này chẳng khác gì đổ dầu vào lửa, khiến lòng căm thù giặc của hai bà bùng lên dữ dội. Thế là hai bà quyết vũng lên, lãnh đạo nhân dân đánh đuổi kẻ thù. Nhờ tài thao lược và sự tài giỏi của mình, đội quân của Hai Bà Trưng ngày càng lớn mạnh nhờ sự ủng hộ và tham gia của nhiều thế lực khác. Đội quân của Hai Bà Trưng thế như chẻ tre, nhanh chóng đuổi sạch quân thù, dành lại độc lập cho dân tộc. Chiến thắng vang dội ấy như một đòn đánh mạnh vào kẻ địch. Tuy chính quyền độc lập không tồn tại lâu, bởi quân giặc phương Bắc lại lần nữa trở về với lực lượng hùng mạnh hơn. Dù vậy, Hai Bà Trưng vẫn chiến đấu đến hơi thở cuối cùng và quyết nhảy vực tự vẫn chứ không để rơi vào tay giặc.
+Hai Bà Trưng là hai nữ anh hùng vĩ đại của lịch sử nước ta. Chính hai bà đã thổi bùng lên ngọn lửa yêu nước và niềm tin chiến đấu mãnh liệt cho biết bao người dân. Từ đó, tạo nên làn sóng khởi nghĩa mạnh mẽ của nhân dân ta, cho đến khi hòa bình lần nữa được lập lại.
+## **Kể lại sự việc có thật liên quan đến nhân vật hoặc sự kiện lịch sử lớp 7**
+>> HS tham khảo các bài văn mẫu hay nhất tại [Viết bài văn kể về một sự việc có thật liên quan đến nhân vật hoặc sự kiện lịch sử Hay Chọn Lọc](<https://vndoc.com/ke-ve-mot-su-viec-co-that-lien-quan-den-nhan-vat-hoac-su-kien-lich-su-lop-7-276594>)
+\-------------------------------------------------
+Trên đây là tài liệu [Kể về một sự việc có thật liên quan đến nhân vật lịch sử Hai Bà Trưng ngắn gọn](<https://vndoc.com/ke-ve-mot-su-viec-co-that-lien-quan-den-nhan-vat-lich-su-hai-ba-trung-ngan-gon-280156>). Ngoài ra, mời các bạn tham khảo thêm [đề thi giữa kì 1 lớp 7](<https://vndoc.com/de-thi-giua-ki-1-lop7>), [đề thi học kì 1 lớp 7](<https://vndoc.com/de-thi-hoc-ki-1-lop7>), [đề thi giữa kì 2 lớp 7](<https://vndoc.com/de-thi-giua-ki-2-lop7>) và [đề thi cuối kì 2 lớp 7](<https://vndoc.com/de-thi-hoc-ki-2-lop7>) tất cả các môn. Chúc các bạn học tập tốt và đạt kết quả cao trong năm học này.
+Xem thêm các bài Tìm bài trong mục này khác:
+  * [Kể về một sự việc có thật liên quan đến Ngô Quyền ngắn gọn](</ke-ve-mot-su-viec-co-that-lien-quan-den-nhan-vat-lich-su-ngo-quyen-ngan-gon-280402>)
+  * [Kể lại 1 truyện ngụ ngôn Ngắn gọn](</ke-lai-mot-truyen-ngu-ngon-ngan-gon-277489>)
+  * [Kể truyện ngụ ngôn Ếch ngồi đáy giếng](</ke-lai-mot-truyen-ngu-ngon-ech-ngoi-day-gieng-277491>)
+  * [Kể truyện ngụ ngôn Thầy bói xem voi](</ke-lai-mot-truyen-ngu-ngon-thay-boi-xem-voi-277493>)
+  * [Kể lại truyện ngụ ngôn Hai người bạn đồng hành và con gấu](</ke-lai-mot-truyen-ngu-ngon-hai-nguoi-ban-dong-hanh-va-con-gau-277494>)
+  * [Kể lại truyện ngụ ngôn Chó sói và chiên con](</ke-lai-mot-truyen-ngu-ngon-cho-soi-va-chien-con-277496>)
+  * [Kể lại truyện ngụ ngôn Thỏ và rùa](</ke-lai-mot-truyen-ngu-ngon-tho-va-rua-277497>)
+

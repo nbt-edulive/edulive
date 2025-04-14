@@ -1,0 +1,65 @@
+---
+url: https://vndoc.com/viet-bai-van-bieu-cam-ve-mot-su-viec-hoac-nhan-vat-ma-em-co-an-tuong-hoac-yeu-thich-trong-doan-trich-bach-tuoc-273119
+title: Viết bài văn biểu cảm về một sự việc hoặc nhân vật mà em có ấn tượng hoặc yêu thích trong đoạn trích “Bạch tuộc” - Văn mẫu lớp 7 Cánh diều - VnDoc.com
+date_extracted: 2025-04-14 13:42:30
+description: VnDoc xin giới thiệu tới các bạn học sinh bài soạn môn Ngữ văn lớp 7 học kì 1 sách Cánh diều bài Viết bài văn biểu cảm về một sự việc hoặc nhân vật mà em có ấn tượng hoặc yêu thích trong đoạn trích “Bạch tuộc”.
+keywords: soạn văn 7,soạn ngữ văn 7,soan van 7,soạn văn lớp 7,văn lớp 7,ngữ văn lớp 7,giải văn 7,soạn văn 7 tập 1,soạn văn lớp 7 tập 1,Soạn bài Viết bài văn biểu cảm về một con người hoặc sự việc,ngữ văn lớp 7 cánh diều,soạn văn 7 cánh diều,bài Viết bài văn biểu cảm về một con người hoặc sự việc,soạn bài Viết bài văn biểu cảm về một con người hoặc sự việc Cánh diều,viết bài văn biểu cảm về một sự việc hoặc nhân vật mà em có ấn tượng hoặc yêu thích trong đoạn trích bạch tuộc
+---
+
+# Viết bài văn biểu cảm về một sự việc hoặc nhân vật mà em có ấn tượng hoặc yêu thích trong đoạn trích “Bạch tuộc”
+ _Văn mẫu lớp 7 Cánh diều_
+## Biểu cảm về một sự việc hoặc nhân vật mà em yêu thích trong đoạn trích “Bạch tuộc”
+  * Dàn ý Biểu cảm về một sự việc hoặc nhân vật yêu thích trong văn bản Bạch tuộc
+  * Biểu cảm về một sự việc hoặc nhân vật yêu thích trong Bạch tuộc mẫu 1
+  * Biểu cảm về một sự việc hoặc nhân vật yêu thích trong Bạch tuộc mẫu 2
+  * Bài văn mẫu biểu cảm về một sự việc hoặc nhân vật mà em yêu thích trong đoạn trích Bạch tuộc mẫu 3
+  * Biểu cảm về một sự việc hoặc nhân vật yêu thích trong Bạch tuộc mẫu 4
+
+[Viết bài văn biểu cảm về một sự việc hoặc nhân vật mà em có ấn tượng hoặc yêu thích trong đoạn trích “Bạch tuộc” đã học](<https://vndoc.com/viet-bai-van-bieu-cam-ve-mot-su-viec-hoac-nhan-vat-ma-em-co-an-tuong-hoac-yeu-thich-trong-doan-trich-bach-tuoc-273119>). Đây là nội dung câu hỏi thực hành \(trang 75 SGK [Ngữ văn 7 Cánh diều](<https://vndoc.com/ngu-van-7-tap-1-cd>) tập 1\). Để giúp các em học sinh triển khai đề bài này, VnDoc gửi tới các bạn Dàn ý cũng hai bài văn mẫu cho các em tham khảo, có thêm ý tưởng xây dựng bài viết hoàn chỉnh.
+## **Dàn ý Biểu cảm về một sự việc hoặc nhân vật yêu thích trong văn bản Bạch tuộc**
+**a. Mở bài**
+Nêu tên nhân vật hoặc sự việc trong đoạn trích Bạch tuộc mà em muốn viết bài văn biểu cảm
+**b. Thân bài**
+\- Lần lượt nêu những cảm xúc và suy nghĩ từ khái quát đến các biểu hiện cụ thể
+\+ Nêu ấn tượng và cảm xúc chung về nhân vật hoặc sự việc: cảm phục, ngưỡng mộ thuyền trưởng Nê-mô; cảm nghĩ về Giáo sư A-rô-nác, nhân vật xưng “tôi” trong truyện hoặc cảm xúc về trận chiến với bạch tuộc
+\+ Nêu các biểu hiện cụ thể của tình cảm, suy nghĩ về con người hoặc sự việc:
+Theo em, thuyền trưởng Nê-mô là người dũng cảm và vị tha; hoặc sự việc chiến đấu với đàn bạch tuộc khổng lồ là một cuộc chiến đấu căng thẳng, nguy hiểm và dữ dội
+Em cảm phục, ngượng mộ vị thuyền trưởng có lòng dũng cảm và luôn vì người khác hoặc trận chiến với bạch tuộc đã để lại trong em những ấn tượng và cảm xúc tự hào về sức mạnh của con người trước biển cả
+Rút ra bài học từ nhân vật hoặc sự việc vừa nêu
+**c. Kết bài**
+Khẳng định lại ấn tượng, cảm xúc, suy nghĩ của em về con người hoặc sự việc được nói đến trong bài văn
+## **Biểu cảm về một sự việc hoặc nhân vật yêu thích trong Bạch tuộc mẫu 1**
+Văn bản "Bạch tuộc", trích từ tiểu thuyết "Hai vạn dặm dưới đáy biển" của nhà văn người Pháp Giuyn Véc-nơ đã mang đến cho bạn đọc câu chuyện khám phá thế giới đại dương đầy bí ẩn và hấp dẫn. Đặc biệt, em ấn tượng nhất với nhân vật thuyền trưởng Nê-mô - một con người dũng cảm, gan dạ.
+Trước trận giao chiến với con bạch tuộc, Nê-mô đã cân nhắc vô cùng cẩn thận. Ông không hề giấu diếm mọi chuyện mà chia sẻ nó với tất cả thành viên trên thuyền. Đứng trước con quái vật khó giải quyết, ông bình tĩnh đưa ra "chiến lược": "Những viên đạn có điện khi xuyên vào thân bạch tuộc mềm không thể nổ được vì không đủ sức cản. Nhưng ta sẽ tiến công bằng rìu". Từ các lời lẽ ấy, ta thấy được tầm nhìn xa trông rộng cùng sự quyết tâm ở vị thuyền trưởng Nê-mô. Trong giây phút giao chiến, sức mạnh phi thường của người thuyền trưởng cũng bộc lộ rõ nét. Chứng kiến cảnh một thủy thủ bị bạch tuộc dùng vòi nhấc bổng lên, Nê-mô không sợ hãi mà "vừa kêu vừa nhảy vọt ra ngoài". Ông đã kịp thời xông đến và chặt đứt cái vòi khủng khiếp đó. Khi thấy Nét Len bị quái vật quật ngã và "cái mỏ đáng sợ của quái vật đã há hốc ở phía trên Nét", với phản xạ nhanh nhạy, Nê-mô đã đến trước cả ông giáo sư. Ông mạnh mẽ dùng lưỡi rìu cắm phập vào miệng con bạch tuộc, cứu Nét khỏi tình cảnh nguy hiểm. Có thể thấy, vị thuyền trưởng Nê-mô hiện lên thật chân thực với lòng dũng cảm, kiên cường cao đẹp. Nhân vật này hội tụ hầu hết những phẩm chất đáng quý của người thủ lĩnh tài ba, nhanh trí.
+Không chỉ vậy, Nê-mô còn là người giàu tình cảm. Ông không muốn một ai trên thuyền gặp phải nguy hiểm khi đối đầu với con bạch tuộc. Thấy người xung quanh gặp hiểm nguy, ông chẳng màng tính mạng mà lao vào cứu giúp. Khoảnh khắc nhìn thấy người bạn đồng hương biến mất theo con quái vật, ông vô cùng đau xót, khổ sở "mình nhuốm đầy máu, đứng lặng người bên chiếc đèn pha mà nhìn xuống biển cả vừa nuốt một người đồng hương của mình. Mắt Nê-mô ứa lệ". Một người đàn ông mạnh mẽ giao chiến với những cái vòi khổng lồ nhưng giờ đây lại rơi nước mắt vì xót thương.
+Nhân vật Nê-mô đã mang đến cho em bài học quý giá về việc bình tĩnh đối mặt trước thử thách, khó khăn. Vị thuyền trưởng mưu trí cũng nhắn nhủ lời dạy mỗi người cần đồng tâm hiệp lực để giải quyết các tình huống chung trong tập thể. Từ đây, em không khỏi ngưỡng mộ, yêu mến tinh thần dũng cảm và tấm lòng nhân ái của nhân vật này.
+Mong rằng, nhân vật Nê-mô luôn sống mãi trong lòng người đọc. Để mỗi khi nhắc tới tiểu thuyết "Hai vạn dặm dưới đại dương" hay đoạn trích "Bạch tuộc", người ta sẽ nhớ đến thuyền trưởng Nê-mô dũng cảm, gan dạ và giàu tình cảm.
+## Biểu cảm về một sự việc hoặc nhân vật yêu thích trong Bạch tuộc mẫu 2
+Cuộc khám phá đầy hấp dẫn dưới đáy đại dương được miêu tả vô cùng chân thực qua văn bản "Bạch tuộc". Đọc đoạn trích, em cảm thấy ấn tượng nhất với nhân vật Nê-mô. Có thể nói, đây là một vị thuyền trưởng vô cùng dũng cảm, kiên cường.
+Khi phải đối diện với con bạch tuộc, Nê-mô hết sức tỉnh táo "bày bố trận địa". Ông nhận thấy việc tấn công bằng súng đạn là vô ích nên đã đưa ra giải pháp tấn công bằng rìu. Trong giây phút giao chiến, vị thuyền trưởng cũng không hề tỏ ra run sợ, nao núng. Ông mạnh mẽ dùng rìu, chém đứt cái vòi khổng lồ. Chứng kiến cảnh một thủy thủ đứng trước mình bị bạch tuộc dùng vòi nhấc lên, Nê-mô nhanh chóng xông đến, tấn công và chặt ngay cái vòi của nó. Hay khoảnh khắc Nét Len gặp nguy hiểm, Nê-mô đã dũng cảm dùng lưỡi rìu cắm vào miệng con quái vật. Không dao động, không sợ hãi, thuyền trưởng Nê-mô luôn vững lòng đối mặt với mọi thử thách, khó khăn. Từ đây, ta thấy nhân vật này sáng ngời vẻ đẹp trí tuệ và sức mạnh.
+Bên cạnh đó, Nê-mô còn là người giàu tình cảm. Ông vô cùng đau xót, buồn bã khi nghĩ đến chuyện "biển cả vừa nuốt mất một người đồng hương của mình". Đó không chỉ là người đồng hương mà còn là bạn đồng hành, người thuyền viên đáng tin cậy của ông. Cảnh tượng ông đứng lặng người nhìn xuống đại dương bao la mà "ứa lệ" thật cô đơn, lẻ loi làm sao.
+Nhân vật Nê-mô sẽ mãi để lại trong em sự ngưỡng mộ, cảm phục về tinh thần dũng cảm và tấm lòng nhân ái. Ông cũng giúp em nhận ra sức mạnh to lớn của việc đoàn kết. Nếu đứng trước thử thách chung, từng cá nhân chỉ chăm chăm hướng tới lợi ích riêng thì tập thể ấy rất dễ đi đến thất bại.
+Qua nhân vật Nê-mô, em đã rút ra bài học ý nghĩa khi gặp các tình huống khó khăn: bình tĩnh, dũng cảm đối mặt. Đồng thời, việc tất cả cùng đồng lòng, đồng sức cũng trở nên cần thiết, đáng quý hơn bao giờ hết.
+## Bài văn mẫu biểu cảm về một sự việc hoặc nhân vật mà em yêu thích trong đoạn trích Bạch tuộc mẫu 3
+Trong văn bản Bạch tuộc, nhân vật em ấn tượng nhất là Nê-mô, đó là một con người gan dạ, dũng cảm nhưng cũng hết sức gần gũi và yêu thương mọi người.
+Nê-mô là một thuyền trưởng cao lớn đã du hành rất nhiều ngày dưới biển với các bạn của mình. Trong trận giáp chiến với quái vật khổng lồ lần này, khi chúng tấn công, anh cầm chiếc rìu trên tay lao tới bổ phập phập vào mép tàu –nơi cánh tay thủy quái đang bám vào. Mỗi nhát phập là một cánh tay tuột ra khỏi mép tàu và lặn dần xuống biển. Khi đồng đội bị một cánh tay thủy quái quấn chặt, Nê- mô liên tiếp xông tới chặt đứt vòi bạch tuộc để giải cứu cho đồng đội của mình nhưng đã bị chúng tấn công bằng loại “mực” đen. Qua đây người đọc có thể hình dung được sức mạnh phi thường của anh hùng biển cả Nê-mô: mạnh mẽ, quyết đoán trong hành động.
+Không chỉ có vậy Nê- mô còn là người có tình thương yêu đồng, lo lắng, xót thương cho đồng loại. Khi cuộc giải cứu thất bại, Nê-mô mình nhuốm đầy máu, mặt rầu rĩ đứng dựa bên chiếc đèn pha mà ứa lệ. Giọt lệ rơi trên má người anh hùng biển khơi cho thấy sự đau đớn, thương xót từ sâu trong lòng anh.
+Em rất cảm phục và ngưỡng mộ vị thuyền trưởng Nê mô bởi anh không chỉ có lòng dũng cảm, luôn vì người khác mà ở anh còn thể hiện sức mạnh của con người trước biển cả.
+Qua nhân vật Nê-mô em rút ra được bài học cho mình là khi gặp những tình huống khó khăn và thử thách nguy hiểm trong cuộc sống em cần phải bình tĩnh đối mặt và phải đồng lòng đoàn kết với mọi người để giải quyết dứt điểm từng việc một.
+## Biểu cảm về một sự việc hoặc nhân vật yêu thích trong Bạch tuộc mẫu 4
+Trong đoạn trích Bạch tuộc, em ấn tượng nhất là thuyền trưởng Nê-mô, một người vừa có vẻ đẹp của thể lực lẫn tinh thần.
+Thuyền trưởng Nê-mô trong đoạn trích Bạch tuộc hiện lên là một người sẵn sàng chiến đấu với lũ bạch tuộc, nói cách khác, ông là một người quyết đoán, gan dạ. Ông đã sẵn sàng chiến đấu với những con bạch tuộc bằng rìu và đã đã chém đứt các vòi của chúng. Khi Nét Len bị một con bạch tuộc quật ngã, giáo sư A-rôn-nác đã lao tới cứu anh ta. Nhưng Nê-mô đã đến trước giáo sư. Lưỡi rìu của Nê-mô cắm phập vào mồm quái vật, và thế là Nét thoát chết trong gang tấc. Ở chi tiết này, có thê thấy sức mạnh cùng sự nhanh nhẹn của một thuyền trưởng. Phải có sức khỏe về thể chất, Nê-mô mới có thể sẵn sàng chiến đấu với lũ "quái vật" này và có những hành động vô cùng nhanh như vậy.
+Nê-mô không chỉ là một người có vẻ đẹp về thể lực mà còn có cả vẻ đẹp về tinh thần. Vì sao ông phải chiến đấu với lũ bạch tuộc? Đó không chỉ còn là vì lũ bạch tuộc khiến con tàu No-ti-lớt không đi được mà còn vì những con người trên chiếc tàu ấy. Nếu không chiến đấu với lũ bạch tuộc, sẽ không có cơ hội nào để cứu người thủy thủ kia, không có cơ hội nào để cứu Nét Len. Việc Nê-mô chặt đứt vòi bạch tuộc hay rìu của ông cắm phập vào mồm quái vật vừa cho thấy sức mạnh thể chất của ông, nhưng cũng nói lên sự giận dữ của ông với lũ "quái vật" dám động vào những người trên tàu. Nói cách khác, đó là tình cảm giữa người với người, tình cảm của những người đã thân thiết dành cho nhau. Tôi nhớ nhất là chi tiết mắt Nê-mô ứa lệ khi nghĩ về "biển cả vừa nuốt mất một người đồng hương của mình". Tôi ấn tượng bởi đó là sự xúc động của một con người dành cho một con người, của người có quê hương dành cho đồng hương của mình, của một thuyền trưởng dành cho thuyền viên. Tôi còn ấn tượng bởi ông không khóc nức nở, không khóc thành tiếng hay một sự xúc động thái quá. Ở đây, Nê-mô chỉ "ứa nước mắt", những giọt nước mắt của ông cứ trào ra, ông không hề kêu lên hay cố tình thể hiện mà nó là cảm xúc chất chứa đến hồi bộc phát. Chi tiết này là một chi tiết đắt giá nói lên vẻ đẹp tinh thần của Nê-mô.
+Nhân vật Nê-mô với sự gan dạ, quyết đoán và tình thương người đã để lại trong tôi sự cảm phục và ngưỡng mộ. Ông cũng cho tôi hiểu về sức mạnh của con người, sức mạnh của tinh thần đồng đội. Chính Nê-mô đã cho tôi biết cách cần phải rèn luyện bản thân cả về thể chất lẫn tinh thần.
+**Xem thêm:**
+  * [Soạn bài Viết bài văn biểu cảm về một con người hoặc sự việc Cánh diều](<https://vndoc.com/soan-bai-viet-bai-van-bieu-cam-ve-mot-con-nguoi-hoac-su-viec-272858>)
+  * [Soạn bài Bạch tuộc Cánh diều](<https://vndoc.com/soan-bai-bach-tuoc-272355>)
+
+Xem thêm các bài Tìm bài trong mục này khác:
+  * [Lập dàn ý Văn biểu cảm về người bạn thân của em](</lap-dan-y-van-bieu-cam-ve-nguoi-ban-than-cua-em-136938>)
+  * [Cảm nghĩ của em về người bạn thân](</cam-nghi-cua-em-ve-nguoi-ban-than-136888>)
+  * [Biểu cảm về mái trường thân yêu ](</bieu-cam-ve-mai-truong-than-yeu-155685>)
+  * [Cảm nghĩ về hình ảnh người cha thân yêu](</van-mau-lop-7-cam-nghi-ve-hinh-anh-nguoi-cha-than-yeu-114684>)
+  * [Biểu cảm về một mùa trong năm](</bieu-cam-ve-mot-mua-trong-nam-161974>)
+  * [Biểu cảm về dòng sông quê hương](</bieu-cam-ve-dong-song-que-huong-161965>)
+

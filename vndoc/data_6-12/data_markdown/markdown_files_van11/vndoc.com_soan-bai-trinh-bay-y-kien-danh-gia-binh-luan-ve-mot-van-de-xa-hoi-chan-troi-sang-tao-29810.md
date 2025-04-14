@@ -1,0 +1,36 @@
+---
+url: https://vndoc.com/soan-bai-trinh-bay-y-kien-danh-gia-binh-luan-ve-mot-van-de-xa-hoi-chan-troi-sang-tao-298103
+title: Soạn bài Trình bày ý kiến đánh giá, bình luận về một vấn đề xã hội Chân trời sáng tạo - Ngữ văn 11 Chân trời sáng tạo - VnDoc.com
+date_extracted: 2025-04-14 14:13:16
+description: VnDoc.com xin gửi tới bạn đọc bài viết Soạn bài Trình bày ý kiến đánh giá, bình luận về một vấn đề xã hội Chân trời sáng tạo. Mời các bạn cùng tham khảo chi tiết để có thêm tài liệu Soạn văn 11 Chân trời nhé.
+keywords: Ngữ văn 11 Chân trời sáng tạo,Ngữ văn 11 Chân trời sáng tạo bài Trình bày ý kiến đánh giá bình luận về một vấn đề xã hội,Soạn văn 11 Chân trời sáng tạo,văn 11 Chân trời sáng tạo,soạn văn 11 Chân trời,ngữ văn 11 Chân trời,Soạn bài Trình bày ý kiến đánh giá bình luận về một vấn đề xã hội Chân trời sáng tạo,Soạn bài Trình bày ý kiến đánh giá bình luận về một vấn đề xã hội,Soạn văn Trình bày ý kiến đánh giá bình luận về một vấn đề xã hội,Trình bày ý kiến đánh giá bình luận về một vấn đề xã hội
+---
+
+# Soạn bài Trình bày ý kiến đánh giá, bình luận về một vấn đề xã hội Chân trời sáng tạo
+ _Ngữ văn 11 Chân trời sáng tạo_
+## Soạn văn 11 Chân trời sáng tạo Trình bày ý kiến đánh giá, bình luận về một vấn đề xã hội
+[Soạn bài Trình bày ý kiến đánh giá, bình luận về một vấn đề xã hội Chân trời sáng tạo](<https://vndoc.com/soan-bai-trinh-bay-y-kien-danh-gia-binh-luan-ve-mot-van-de-xa-hoi-chan-troi-sang-tao-298103>) được VnDoc.com tổng hợp và xin gửi tới bạn đọc. Mời các bạn cùng theo dõi để có thêm tài liệu học Văn 11 Chân trời sáng tạo nhé.
+### Trình bày ý kiến đánh giá, bình luận về một vấn đề xã hội
+**Đề tài:** Bài viết của bạn được lựa chọn để tham gia buổi tọa đàm Những góc nhìn cuộc sống, trình bày ý kiến, quan điểm của học sinh về các vấn đề xã hội. Từ bài viết bạn hãy chuẩn bị nội dung bài nói để tham gia buổi tọa đàm.
+**Bài làm**
+\* Bài mẫu tham khảo:
+Xin chào thầy cô và các bạn, tôi tên là ……, học sinh lớp …. Đến với buổi tọa đàm trình bày ý kiến về những vấn đề các vấn đề xã hội, tôi xin phép được cùng thảo luận với các bạn về nghị lực sống của những người không đầy đủ.
+Mỗi chúng ta khi sinh ra đời chúng ta không thể tự lựa chọn cha mẹ hay số phận cho chính mình được. Tạo hóa cho mỗi con người một số phận khác nhau. Có những người vừa sinh ra đã gặp nhiều may mắn hạnh phúc có ba mẹ yêu thương, sinh ra trong một gia đình giàu có sung túc. Ngược lại có những người vừa sinh ra đã thiệt thòi bởi hoàn cảnh của gia đình khó khăn, hoặc bị ba mẹ bỏ rơi không cha không mẹ, có những người sinh ra đã không được khỏe mạnh bằng chúng bạn của mình, thiệt thòi hơn các bạn rất nhiều. Nhưng dù trong hoàn cảnh nào thì những con người chúng ta đều cố gắng vươn lên trong cuộc sống. Có những người dù bị thiệt thòi trong cuộc sống nhưng họ không vì thế mà buông xuôi cuộc đời mình mà luôn cố gắng vươn lên trong cuộc sống để không thua kém bạn bè. Những con người đó thật sự là tấm gương sáng để cho chúng ta noi theo, thái độ sống tích cực của họ.
+Trong xã hội của chúng ta còn nhiều con người chịu nhiều thiệt thòi đó họ không đầu hàng số phận không chấp nhận mình sẽ là gánh nặng của gia đình và xã hội họ cố gắng vươn lên trong cuộc sống của chính mình quả là một điều thật sự đáng ngưỡng mộ. Như thầy giáo Nguyễn Ngọc Kí một con người đã chịu rất nhiều trong cuộc sống khi sinh ra đã bị liệt hai tay. Nhưng bằng nghị lực phi thường của mình thầy đã cố gắng học viết chữ bằng chân. Những ngày đầu tập viết những nét chữ viết bằng tay còn khó khăn thì những nét chữ bằng chân vô cùng khó. Nhưng thầy Nguyễn Ngọc Kí vẫn kiên nhẫn tập viết mỗi ngày để rồi thầy có thể theo đuổi sự nghiệp học hành của mình. Rồi thầy Nguyễn Ngọc Kí đã thi đỗ đại học rồi trở thành một thầy giáo. Một thầy giáo dạy giỏi viết chữ bằng chân. Đó chính là một nỗ lực phi thường của mỗi con người.
+Những con người thiệt thòi, khi họ sinh ra đã không được lành lặn nhưng chính nhờ ý chí, nghị lực sống phi thường của mình mà họ đã vươn lên trở thành những con người thành đạt không hề thua kém những người lành lặn. Thậm chí, nhiều bạn trẻ khỏe mạnh lành lặn nhưng sự nỗ lực trong cuộc sống lại không. Họ để cho những thói hư tật xấu trong cuộc sống cám dỗ mình rồi trở thành những kẻ tội phạm gây ra những tội ác ghê rợn. Những bạn trẻ này thật sự là gánh nặng của xã hội, họ thật sự không biết tận dụng những lợi thế mà cuộc sống, tạo hóa đã ban tặng cho mình sống hoài sống phí tuổi trẻ tương lai của mình. Trong khi đó nhiều người vừa sinh ra do những ảnh hưởng của chất độc màu da cam, hoặc do tạo hóa nên khi vừa chào đời họ đã thiệt thòi, nhưng họ vẫn luôn sống có ích, có ước mơ hoài bão của mình.
+Cái đáng quý nhất của mỗi con người này chính là nghị lực sống kiên cường, phi thường của họ. Dù cuộc sống có nhiều khắc nghiệt nhưng họ vẫn vươn lên trong cuộc sống với những ước mơ, hoài bão vô cùng lớn lao. Những con người này thường phải nỗ lực gấp hai, ba lần thậm chí mười lần so với người khỏe mạnh bình thường nhưng họ lại tạo ra những kỳ tích mà người khỏe mạnh bình thường cũng không làm được. Dù tạo hóa không công bằng với họ nhưng họ không trông chờ vào lòng từ bi, thương hại của người khác mà luôn chủ động trong cuộc sống của mình. Thậm chí họ còn tạo nên nhiều thành công khiến cho người khác phải nể phục. Họ sinh ra có thể thiếu đi một bộ phận nào đó trên cơ thể nhưng bằng bàn tay khối óc của mình họ đã kiên cường vươn lên trong cuộc sống. Họ quyết khẳng định vị trí của mình không làm gánh nặng cho gia đình và xã hội.
+Chính trái tim khối óc, ý chí của con người đã chiến thắng mọi thứ trong cuộc sống. Những con người có nghị lực sống thì không có khó khăn nào có thể làm họ gục ngã.
+\----------------------------
+**Bài tiếp theo:**[Soạn bài Ôn tập trang 55 Chân trời sáng tạo](<https://vndoc.com/soan-bai-on-tap-trang-55-chan-troi-sang-tao-298107>)
+Trên đây VnDoc.com vừa gửi tới bạn đọc bài viết Soạn bài Trình bày ý kiến đánh giá, bình luận về một vấn đề xã hội Chân trời sáng tạo. Hi vọng qua bài viết này bạn đọc có thêm tài liệu để học tập tốt hơn môn [Ngữ văn 11 Chân trời sáng tạo](<https://vndoc.com/ngu-van-11-chan-troi-sang-tao>). Mời các bạn cùng tham khảo thêm tại mục [Toán 11 Chân trời sáng tạo](<https://vndoc.com/toan-11-chan-troi-sang-tao>), [Hóa học 11 Chân trời sáng tạo](<https://vndoc.com/hoa-hoc-11-chan-troi-sang-tao>).
+Xem thêm các bài Tìm bài trong mục này khác:
+  * [Ôn tập trang 55](</soan-bai-on-tap-trang-55-chan-troi-sang-tao-298107>)
+  * [Lời tiễn dặn](</soan-bai-loi-tien-dan-chan-troi-sang-tao-298109>)
+  * [Tú Uyên gặp Giáng Kiều](</soan-bai-tu-uyen-gap-giang-kieu-chan-troi-sang-tao-298111>)
+  * [Ngồi đợi trước hiên nhà](</soan-bai-ngoi-doi-truoc-hien-nha-chan-troi-sang-tao-298113>)
+  * [Thực hành tiếng Việt trang 70](</soan-bai-thuc-hanh-tieng-viet-trang-70-chan-troi-sang-tao-298167>)
+  * [Thị Kính nuôi con cho Thị Mầu](</soan-bai-thi-kinh-nuoi-con-cho-thi-mau-chan-troi-sang-tao-298171>)
+  * [Viết văn bản nghị luận về một tác phẩm văn học hoặc một tác phẩm nghệ thuật](</soan-bai-viet-van-ban-nghi-luan-ve-mot-tac-pham-van-hoc-hoac-mot-tac-pham-nghe-thuat-chan-troi-sang-tao-298176>)
+  * [Giới thiệu một truyện thơ hoặc một bài hát theo lựa chọn cá nhân](</soan-bai-gioi-thieu-mot-truyen-tho-hoac-mot-bai-hat-theo-lua-chon-ca-nhan-chan-troi-sang-tao-298181>)
+  * [Ôn tập trang 82](</soan-bai-on-tap-trang-82-chan-troi-sang-tao-298185>)
+

@@ -1,0 +1,16 @@
+---
+url: https://vndoc.com/viet-doan-van-khoang-150-chu-trinh-bay-suy-nghi-cua-ban-ve-van-de-xa-hoi-duoc-dat-ra-trong-vinh-biet-cuu-trung-dai-300343
+title: Viết đoạn văn (khoảng 150 chữ) trình bày suy nghĩ của bạn về vấn đề xã hội được đặt ra trong "Vĩnh biệt Cửu Trùng Đài" - Văn mẫu lớp 11 Kết nối tri thức - VnDoc.com
+date_extracted: 2025-04-14 14:33:47
+description: Viết đoạn văn (khoảng 150 chữ) trình bày suy nghĩ của bạn về vấn đề xã hội được đặt ra trong "Vĩnh biệt Cửu Trùng Đài" là tài liệu học tập được VnDoc biên soạn chi tiết.
+keywords: viết đoạn văn khoảng 150 chữ trình bày suy nghĩ của bạn về vấn đề xã hội được đặt ra trong vĩnh biệt cửu trùng đài,viết đoạn văn trình bày suy nghĩ của bạn về vấn đề xã hội được đặt ra trong vĩnh biệt cửu trùng đài,trình bày suy nghĩ của bạn về vấn đề xã hội được đặt ra trong vĩnh biệt cửu trùng đài,nghị luận về vấn đề xã hội được đặt ra trong vĩnh biệt cửu trùng đài,vĩnh biệt cửu trùng đài kết nối tri thức
+---
+
+# Viết đoạn văn \(khoảng 150 chữ\) trình bày suy nghĩ của bạn về vấn đề xã hội được đặt ra trong "Vĩnh biệt Cửu Trùng Đài"
+_Văn mẫu lớp 11 Kết nối tri thức_
+## [Viết đoạn văn \(khoảng 150 chữ\) trình bày suy nghĩ của bạn về vấn đề xã hội được đặt ra trong "Vĩnh biệt Cửu Trùng Đài"](<https://vndoc.com/viet-doan-van-khoang-150-chu-trinh-bay-suy-nghi-cua-ban-ve-van-de-xa-hoi-duoc-dat-ra-trong-vinh-biet-cuu-trung-dai-300343>)
+[Viết đoạn văn \(khoảng 150 chữ\) trình bày suy nghĩ của bạn về vấn đề xã hội được đặt ra trong "Vĩnh biệt Cửu Trùng Đài"](<https://vndoc.com/viet-doan-van-khoang-150-chu-trinh-bay-suy-nghi-cua-ban-ve-van-de-xa-hoi-duoc-dat-ra-trong-vinh-biet-cuu-trung-dai-300343>) là tài liệu học tập được VnDoc biên soạn chi tiết. Mời các bạn tham khảo\!
+**Bản quyền tài liệu thuộc về VnDoc, nghiêm cấm hành vi sao chép với mục đích thương mại.**
+Đoạn trích “Vĩnh biệt Cửu Trùng Đài” trích từ vở kịch “Vũ Như Tô” chứa đựng rất nhiều vấn đề thế sự nhưng nổi bật nhất chính là vấn đề về mối quan hệ giữa nghệ thuật và cuộc sống. Nếu thiếu đi những tác phẩm nghệ thuật, đời sống tinh thần của con người sẽ trở nên nghèo nàn. Những giá trị tinh hoa văn hóa sẽ không được lưu truyền. Tâm hồn con người vì thế không được bồi đắp để trở nên thanh cao, tốt đẹp hơn. Thậm chí, tác phẩm nghệ thuật còn khai sáng tư duy con người, vượt ra khỏi giới hạn của không gian và thời gian. Để tạo ra những tác phẩm như vậy, người nghệ sĩ phải là lớp người giàu tính sáng tạo và có tài năng vượt bậc. Tuy nhiên, sự sáng tạo ấy phải phù hợp với hoàn cảnh thời đại chứ không thể xa rời thực tế. Nghệ thuật bắt nguồn từ cuộc sống và lấy cuộc sống là đích đến nên nghệ thuật phải phục vụ cho đời sống con người. Cửu Trùng Đài tráng lệ được xây nên từ xương máu của nhân dân nên cuối cùng bị hủy hoại dưới ngọn lửa. Từ đó, tác phẩm đề ra bài học về mối quan hệ mật thiết giữa nghệ thuật và hiện thực đời sống. Người nghệ sĩ chân chính trước hết phải là “nhà nhân đạo từ trong cốt tủy”\!
+\-----------------------------------------------------------
+Kho tài liệu phong phú của VnDoc vẫn còn rất nhiều tài liệu hay chờ các bạn khám phá. Mời các bạn truy cập vào [Ngữ văn lớp 11 Kết nối tri thức](<https://vndoc.com/ngu-van-11-ket-noi-tri-thuc>), [Văn mẫu lớp 11 Kết nối tri thức](<https://vndoc.com/van-mau-lop11>) để tìm kiếm những tư liệu mới. Chúc các bạn học tốt\!

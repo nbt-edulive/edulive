@@ -1,0 +1,710 @@
+2025-04-04 09:47:56,775 - INFO - Bắt đầu xử lý 5 URLs...
+2025-04-04 09:48:44,831 - INFO - 
+Đã hoàn thành xử lý!
+2025-04-04 09:48:44,831 - INFO - Tất cả các file được lưu trong thư mục 'markdown_files_tv1'
+2025-04-04 09:48:44,831 - INFO - 
+Tóm tắt:
+2025-04-04 09:48:44,831 - INFO - Tổng URL: 5
+2025-04-04 09:48:44,831 - INFO - Xử lý thành công: 5
+2025-04-04 09:48:44,831 - INFO - Thất bại: 0
+2025-04-04 09:48:44,831 - INFO - Danh sách URL thất bại được lưu tại: markdown_files_tv1/failed/failed_urls.json
+2025-04-04 09:50:49,637 - INFO - Đã tải 5 URL đã xử lý từ checkpoint
+2025-04-04 09:50:49,637 - INFO - Bắt đầu xử lý 278 URLs...
+2025-04-04 10:04:46,939 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-1-ket-noi-tri-thuc-tuan-1-de-3-327917, lần thử 1/3
+2025-04-04 10:12:55,792 - WARNING - Timeout khi truy cập https://vndoc.com/phieu-bai-tap-cuoi-tuan-tieng-viet-lop-1-nang-cao-tuan-4-so-1-206602, lần thử 1/3
+2025-04-04 10:20:18,331 - WARNING - Timeout khi truy cập https://vndoc.com/phieu-bai-tap-cuoi-tuan-tieng-viet-lop-1-nang-cao-tuan-5-de-4-205684, lần thử 1/3
+2025-04-04 10:21:33,676 - WARNING - Timeout khi truy cập https://vndoc.com/phieu-bai-tap-cuoi-tuan-tieng-viet-lop-1-nang-cao-tuan-6-de-1-205687, lần thử 1/3
+2025-04-04 10:22:28,085 - WARNING - Timeout khi truy cập https://vndoc.com/phieu-bai-tap-cuoi-tuan-tieng-viet-lop-1-nang-cao-tuan-6-de-2-205690, lần thử 1/3
+2025-04-04 10:50:32,643 - INFO - 
+Đã hoàn thành xử lý!
+2025-04-04 10:50:32,645 - INFO - Tất cả các file được lưu trong thư mục 'markdown_files_tv1'
+2025-04-04 10:50:32,645 - INFO - 
+Tóm tắt:
+2025-04-04 10:50:32,645 - INFO - Tổng URL: 278
+2025-04-04 10:50:32,645 - INFO - Xử lý thành công: 278
+2025-04-04 10:50:32,645 - INFO - Thất bại: 0
+2025-04-04 10:50:32,645 - INFO - Danh sách URL thất bại được lưu tại: markdown_files_tv1/failed/failed_urls.json
+2025-04-04 11:07:06,258 - INFO - Đã tải 282 URL đã xử lý từ checkpoint
+2025-04-04 11:07:06,259 - INFO - Bắt đầu xử lý 330 URLs...
+2025-04-04 11:07:36,828 - INFO - Đã tải 285 URL đã xử lý từ checkpoint
+2025-04-04 11:07:36,828 - INFO - Bắt đầu xử lý 570 URLs...
+2025-04-04 11:13:38,667 - WARNING - Timeout khi truy cập https://vndoc.com/de-on-tap-he-lop-3-len-lop-4-mon-toan-tieng-viet-sach-ket-noi-tri-thuc-so-1-299296, lần thử 1/3
+2025-04-04 11:13:40,195 - WARNING - Timeout khi truy cập https://vndoc.com/de-on-tap-he-lop-2-mon-tieng-viet-sach-ket-noi-tri-thuc-de-1-299246, lần thử 1/3
+2025-04-04 11:14:21,717 - WARNING - Timeout khi truy cập https://vndoc.com/de-on-tap-he-lop-3-len-lop-4-mon-toan-tieng-viet-sach-ket-noi-tri-thuc-so-1-299296, lần thử 2/3
+2025-04-04 11:14:37,302 - WARNING - Timeout khi truy cập https://vndoc.com/de-on-tap-he-lop-2-mon-tieng-viet-sach-ket-noi-tri-thuc-de-2-299646, lần thử 1/3
+2025-04-04 11:28:30,645 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-2-chan-troi-sang-tao-hoc-ki-1-316517, lần thử 1/3
+2025-04-04 11:31:33,695 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-2-canh-dieu-tuan-8-co-ban-306620, lần thử 1/3
+2025-04-04 11:44:23,703 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-viet-lop-2-trang-138-139-140-bai-3-co-giao-lop-em-239120, lần thử 1/3
+2025-04-04 11:46:16,917 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-viet-lop-2-trang-13-14-15-16-17-bai-2-con-suoi-ban-toi-241154, lần thử 1/3
+2025-04-04 11:52:14,586 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-viet-lop-2-trang-138-139-140-on-tap-1-241693, lần thử 1/3
+2025-04-04 11:56:50,857 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-nang-cao-lop-3-mon-tieng-viet-kntt-tuan-5-277022, lần thử 1/3
+2025-04-04 12:00:34,565 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-3-ket-noi-tri-thuc-tuan-14-co-ban-310709, lần thử 1/3
+2025-04-04 12:00:35,262 - WARNING - Timeout khi truy cập https://vndoc.com/giai-vo-bai-tap-tieng-viet-lop-2-trang-58-59-60-tap-1-canh-dieu-321308, lần thử 1/3
+2025-04-04 12:05:27,263 - WARNING - Timeout khi truy cập https://vndoc.com/giai-vo-bai-tap-tieng-viet-lop-2-trang-15-16-tap-2-canh-dieu-321400, lần thử 1/3
+2025-04-04 12:09:27,429 - WARNING - Timeout khi truy cập https://vndoc.com/giai-vo-bai-tap-tieng-viet-lop-2-trang-38-39-tap-2-canh-dieu-321480, lần thử 1/3
+2025-04-04 12:11:22,289 - WARNING - Timeout khi truy cập https://vndoc.com/de-kiem-tra-cuoi-tuan-tieng-viet-lop-3-tuan-28-149166, lần thử 1/3
+2025-04-04 12:18:36,931 - INFO - 
+Đã hoàn thành xử lý!
+2025-04-04 12:18:36,932 - INFO - Tất cả các file được lưu trong thư mục 'markdown_files_tv2'
+2025-04-04 12:18:36,932 - INFO - 
+Tóm tắt:
+2025-04-04 12:18:36,932 - INFO - Tổng URL: 330
+2025-04-04 12:18:36,932 - INFO - Xử lý thành công: 330
+2025-04-04 12:18:36,932 - INFO - Thất bại: 0
+2025-04-04 12:18:36,932 - INFO - Danh sách URL thất bại được lưu tại: markdown_files_tv2/failed/failed_urls.json
+2025-04-04 12:18:59,320 - INFO - Đã tải 565 URL đã xử lý từ checkpoint
+2025-04-04 12:18:59,320 - INFO - Bắt đầu xử lý 1127 URLs...
+2025-04-04 12:19:14,068 - INFO - Đã tải 567 URL đã xử lý từ checkpoint
+2025-04-04 12:19:14,069 - INFO - Bắt đầu xử lý 709 URLs...
+2025-04-04 12:28:14,641 - WARNING - Timeout khi truy cập https://vndoc.com/on-tap-giua-hoc-ki-1-tieng-viet-lop-3-trang-61-62-tiet-4-268648, lần thử 1/3
+2025-04-04 13:12:28,265 - INFO - 
+Đã hoàn thành xử lý!
+2025-04-04 13:12:28,265 - INFO - Tất cả các file được lưu trong thư mục 'markdown_files_tv3'
+2025-04-04 13:12:28,265 - INFO - 
+Tóm tắt:
+2025-04-04 13:12:28,265 - INFO - Tổng URL: 570
+2025-04-04 13:12:28,265 - INFO - Xử lý thành công: 570
+2025-04-04 13:12:28,265 - INFO - Thất bại: 0
+2025-04-04 13:12:28,265 - INFO - Danh sách URL thất bại được lưu tại: markdown_files_tv3/failed/failed_urls.json
+2025-04-04 15:37:41,348 - INFO - Đã tải 934 URL đã xử lý từ checkpoint
+2025-04-04 15:37:41,348 - INFO - Bắt đầu xử lý 305 URLs...
+2025-04-04 15:37:59,570 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/ff215cadca15a548a7baed487319dfa3
+2025-04-04 15:37:59,571 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79bf1e4fa950>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/ff215cadca15a548a7baed487319dfa3
+2025-04-04 15:37:59,571 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79bf1e4faaa0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/ff215cadca15a548a7baed487319dfa3
+2025-04-04 15:38:39,767 - INFO - Đã tải 935 URL đã xử lý từ checkpoint
+2025-04-04 15:38:39,767 - INFO - Bắt đầu xử lý 304 URLs...
+2025-04-04 15:39:12,638 - INFO - Đã tải 939 URL đã xử lý từ checkpoint
+2025-04-04 15:39:12,638 - INFO - Bắt đầu xử lý 290 URLs...
+2025-04-04 15:39:45,495 - INFO - Đã tải 940 URL đã xử lý từ checkpoint
+2025-04-04 15:39:45,495 - INFO - Bắt đầu xử lý 708 URLs...
+2025-04-04 15:40:14,156 - INFO - Đã tải 943 URL đã xử lý từ checkpoint
+2025-04-04 15:40:14,157 - INFO - Bắt đầu xử lý 333 URLs...
+2025-04-04 15:40:51,973 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-4-ket-noi-tri-thuc-tuan-1-297960, lần thử 1/3
+2025-04-04 23:24:48,042 - INFO - Bắt đầu xử lý 279 URLs...
+2025-04-04 23:24:51,559 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/8014ab9739c4c5d9c78e0b4b89035d22
+2025-04-04 23:24:51,559 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7023735dcf70>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/8014ab9739c4c5d9c78e0b4b89035d22
+2025-04-04 23:24:51,559 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7023735dd0c0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/8014ab9739c4c5d9c78e0b4b89035d22
+2025-04-04 23:24:55,091 - INFO - Bắt đầu xử lý 308 URLs...
+2025-04-04 23:25:11,847 - INFO - Đã tải 1 URL đã xử lý từ checkpoint
+2025-04-04 23:25:11,847 - INFO - Bắt đầu xử lý 501 URLs...
+2025-04-04 23:25:27,578 - INFO - Đã tải 4 URL đã xử lý từ checkpoint
+2025-04-04 23:25:27,578 - INFO - Bắt đầu xử lý 787 URLs...
+2025-04-04 23:25:42,034 - INFO - Đã tải 5 URL đã xử lý từ checkpoint
+2025-04-04 23:25:42,034 - INFO - Bắt đầu xử lý 333 URLs...
+2025-04-04 23:27:03,294 - WARNING - Timeout khi truy cập https://vndoc.com/de-thi-giua-hoc-ki-2-mon-tieng-viet-lop-3-canh-dieu-291603, lần thử 1/3
+2025-04-04 23:29:00,760 - WARNING - Timeout khi truy cập https://vndoc.com/de-thi-giua-hoc-ki-2-lop-5-mon-tieng-viet-sach-chan-troi-sang-tao-de-1-335190, lần thử 1/3
+2025-04-04 23:30:01,833 - WARNING - Timeout khi truy cập https://vndoc.com/bo-de-thi-tieng-viet-giua-ki-2-lop-4-sach-moi-nam-2024-so-2-317138, lần thử 1/3
+2025-04-04 23:33:48,379 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-2-ket-noi-tri-thuc-hoc-ki-2-327051, lần thử 1/3
+2025-04-04 23:36:12,086 - WARNING - Timeout khi truy cập https://vndoc.com/bo-de-on-tap-he-lop-5-len-lop-6-mon-toan-va-tieng-viet-203357, lần thử 1/3
+2025-04-04 23:38:18,851 - WARNING - Timeout khi truy cập https://vndoc.com/bo-de-on-tap-he-lop-4-mon-tieng-viet-sach-ket-noi-tri-thuc-318372, lần thử 1/3
+2025-04-04 23:38:21,266 - WARNING - Timeout khi truy cập https://vndoc.com/bo-bai-tap-cuoi-tuan-tieng-viet-lop-3-ket-noi-tri-thuc-hoc-ki-1-tron-bo-18-tuan-304623, lần thử 1/3
+2025-04-04 23:39:59,133 - WARNING - Timeout khi truy cập https://vndoc.com/phieu-bai-tap-cuoi-tuan-tieng-viet-lop-3-ket-noi-tri-thuc-tuan-2-325572, lần thử 1/3
+2025-04-04 23:40:30,934 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-5-ket-noi-tri-thuc-nang-cao-tuan-2-328006, lần thử 1/3
+2025-04-04 23:40:35,354 - WARNING - Timeout khi truy cập https://vndoc.com/bo-de-kiem-tra-cuoi-tuan-tieng-viet-lop-4-ket-noi-tri-thuc-tuan-1-325866, lần thử 1/3
+2025-04-04 23:41:34,792 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-3-ket-noi-tri-thuc-tuan-4-co-ban-305238, lần thử 1/3
+2025-04-04 23:42:53,040 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-lop-3-mon-tieng-viet-kntt-tuan-5-277018, lần thử 1/3
+2025-04-04 23:46:10,893 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-4-ket-noi-tri-thuc-tuan-13-nang-cao-310327, lần thử 1/3
+2025-04-04 23:49:03,162 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-5-ket-noi-tri-thuc-tuan-19-nang-cao-334920, lần thử 1/3
+2025-04-04 23:50:26,783 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-viet-lop-2-trang-101-102-103-104-105-bai-2-danh-sach-to-em-238984, lần thử 1/3
+2025-04-04 23:50:26,884 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-viet-lop-5-trang-10-tap-1-ket-noi-tri-thuc-319500, lần thử 1/3
+2025-04-04 23:50:53,993 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-3-ket-noi-tri-thuc-tuan-32-co-ban-317329, lần thử 1/3
+2025-04-04 23:52:45,396 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-3-canh-dieu-tuan-3-co-ban-305316, lần thử 1/3
+2025-04-04 23:53:16,312 - WARNING - Timeout khi truy cập https://vndoc.com/bo-de-kiem-tra-cuoi-tuan-tieng-viet-lop-4-ket-noi-tri-thuc-tuan-22-325066, lần thử 1/3
+2025-04-04 23:57:01,275 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-4-ket-noi-tri-thuc-tuan-28-317467, lần thử 1/3
+2025-04-04 23:57:04,800 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-viet-lop-2-trang-69-70-71-72-73-bai-4-song-huong-241350, lần thử 1/3
+2025-04-04 23:57:18,826 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-viet-lop-5-trang-65-tap-1-ket-noi-tri-thuc-319691, lần thử 1/3
+2025-04-04 23:58:12,049 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-viet-lop-5-trang-68-tap-1-ket-noi-tri-thuc-319694, lần thử 1/3
+2025-04-04 23:58:47,692 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-4-ket-noi-tri-thuc-tuan-30-nang-cao-318265, lần thử 1/3
+2025-04-04 23:59:07,787 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-viet-lop-2-trang-90-91-92-bai-3-chau-tham-nha-bac-241570, lần thử 1/3
+2025-04-04 23:59:12,131 - WARNING - Timeout khi truy cập https://vndoc.com/de-kiem-tra-cuoi-tuan-tieng-viet-lop-3-tuan-31-149193, lần thử 1/3
+2025-04-05 00:00:42,014 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-4-ket-noi-tri-thuc-tuan-33-nang-cao-324998, lần thử 1/3
+2025-04-05 00:04:38,978 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-3-nang-cao-tuan-12-chan-troi-sang-tao-309967, lần thử 1/3
+2025-04-05 00:05:50,027 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-tieng-viet-lop-5-tap-1-trang-19-chan-troi-sang-tao-319156, lần thử 1/3
+2025-04-05 00:06:10,117 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-3-chan-troi-sang-tao-tuan-15-co-ban-310714, lần thử 1/3
+2025-04-05 00:08:33,720 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-tieng-viet-lop-5-tap-1-trang-34-chan-troi-sang-tao-319186, lần thử 1/3
+2025-04-05 00:10:16,990 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-4-chan-troi-sang-tao-tuan-16-311854, lần thử 1/3
+2025-04-05 00:10:33,800 - WARNING - Timeout khi truy cập https://vndoc.com/giai-bai-4-di-tau-tren-song-von-ga-trang-116-tieng-viet-lop-3-tap-2-chan-troi-sang-tao-292350, lần thử 1/3
+2025-04-05 00:12:25,192 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-viet-lop-3-trang-5-6-7-ngay-khai-truong-267948, lần thử 1/3
+2025-04-05 00:12:39,146 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-tieng-viet-lop-5-tap-1-trang-59-chan-troi-sang-tao-319452, lần thử 1/3
+2025-04-05 00:14:00,534 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-4-chan-troi-sang-tao-tuan-24-nang-cao-315807, lần thử 1/3
+2025-04-05 00:14:46,821 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-tieng-viet-lop-5-tap-1-trang-77-chan-troi-sang-tao-319477, lần thử 1/3
+2025-04-05 00:15:47,408 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-tieng-viet-lop-5-tap-1-trang-80-chan-troi-sang-tao-319488, lần thử 1/3
+2025-04-05 00:19:16,220 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-viet-lop-3-em-doc-sach-bao-trang-54-55-canh-dieu-268553, lần thử 1/3
+2025-04-05 00:19:57,897 - WARNING - Timeout khi truy cập https://vndoc.com/on-tap-giua-ki-1-tieng-viet-lop-5-canh-dieu-tiet-5-320007, lần thử 1/3
+2025-04-05 00:20:49,705 - WARNING - Timeout khi truy cập https://vndoc.com/giai-vo-bai-tap-tieng-viet-lop-2-trang-48-49-tap-2-canh-dieu-321492, lần thử 1/3
+2025-04-05 00:25:08,355 - WARNING - Timeout khi truy cập https://vndoc.com/bo-de-kiem-tra-cuoi-tuan-tieng-viet-lop-4-canh-dieu-tuan-7-325902, lần thử 1/3
+2025-04-05 00:26:16,046 - WARNING - Timeout khi truy cập https://vndoc.com/vo-bai-tap-tieng-viet-lop-5-bai-23-gioi-thieu-sach-de-men-phieu-luu-ki-339056, lần thử 1/3
+2025-04-05 00:26:59,361 - WARNING - Timeout khi truy cập https://vndoc.com/vo-bai-tap-tieng-viet-lop-5-bai-23-gioi-thieu-sach-de-men-phieu-luu-ki-339056, lần thử 2/3
+2025-04-05 00:29:39,442 - WARNING - Timeout khi truy cập https://vndoc.com/mau-giao-an-mon-tieng-viet-lop-2-sach-ket-noi-tri-thuc-voi-cuoc-song-232834, lần thử 1/3
+2025-04-05 00:30:11,169 - WARNING - Timeout khi truy cập https://vndoc.com/viet-trang-115-116-tieng-viet-lop-3-tap-1-canh-dieu-271295, lần thử 1/3
+2025-04-05 00:30:32,016 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-4-canh-dieu-tuan-16-311849, lần thử 1/3
+2025-04-05 00:30:42,704 - INFO - 
+Đã hoàn thành xử lý!
+2025-04-05 00:30:42,704 - INFO - Tất cả các file được lưu trong thư mục 'markdown_files_tv2'
+2025-04-05 00:30:42,704 - INFO - 
+Tóm tắt:
+2025-04-05 00:30:42,704 - INFO - Tổng URL: 308
+2025-04-05 00:30:42,704 - INFO - Xử lý thành công: 308
+2025-04-05 00:30:42,704 - INFO - Thất bại: 0
+2025-04-05 00:30:42,704 - INFO - Danh sách URL thất bại được lưu tại: markdown_files_tv2/failed/failed_urls.json
+2025-04-05 00:31:53,284 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-4-canh-dieu-tuan-17-nang-cao-312596, lần thử 1/3
+2025-04-05 00:35:37,019 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-viet-lop-3-tu-doc-sach-bao-trang-33-canh-dieu-281492, lần thử 1/3
+2025-04-05 00:37:44,524 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-viet-lop-3-con-kenh-xanh-giua-long-thanh-pho-trang-41-42-43-281516, lần thử 1/3
+2025-04-05 00:38:49,600 - WARNING - Timeout khi truy cập https://vndoc.com/de-thi-giua-ki-1-lop-5-mon-tieng-viet-canh-dieu-de-so-4-329236, lần thử 1/3
+2025-04-05 00:39:32,904 - WARNING - Timeout khi truy cập https://vndoc.com/de-thi-giua-ki-1-lop-5-mon-tieng-viet-canh-dieu-de-so-5-329244, lần thử 1/3
+2025-04-05 00:41:52,053 - WARNING - Timeout khi truy cập https://vndoc.com/de-thi-hoc-ki-1-tieng-viet-lop-5-chan-troi-sang-tao-de-so-5-333428, lần thử 1/3
+2025-04-05 00:46:02,327 - WARNING - Timeout khi truy cập https://vndoc.com/de-kiem-tra-cuoi-tuan-mon-tieng-viet-lop-4-tuan-16-158787, lần thử 1/3
+2025-04-05 00:46:42,934 - INFO - 
+Đã hoàn thành xử lý!
+2025-04-05 00:46:42,934 - INFO - Tất cả các file được lưu trong thư mục 'markdown_files_tv5'
+2025-04-05 00:46:42,934 - INFO - 
+Tóm tắt:
+2025-04-05 00:46:42,934 - INFO - Tổng URL: 333
+2025-04-05 00:46:42,934 - INFO - Xử lý thành công: 333
+2025-04-05 00:46:42,934 - INFO - Thất bại: 0
+2025-04-05 00:46:42,934 - INFO - Danh sách URL thất bại được lưu tại: markdown_files_tv5/failed/failed_urls.json
+2025-04-05 00:46:45,463 - WARNING - Timeout khi truy cập https://vndoc.com/de-kiem-tra-cuoi-tuan-mon-tieng-viet-lop-4-tuan-16-158787, lần thử 2/3
+2025-04-05 00:51:44,165 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-toan-tieng-viet-lop-4-tuan-23-ket-noi-tri-thuc-315479, lần thử 1/3
+2025-04-05 00:58:31,188 - WARNING - Timeout khi truy cập https://vndoc.com/giai-bai-3-nhu-co-ai-di-vang-trang-87-vbt-tieng-viet-lop-3-tap-1-chan-troi-sang-tao-294962, lần thử 1/3
+2025-04-05 01:00:32,147 - WARNING - Timeout khi truy cập https://vndoc.com/on-tap-cuoi-hoc-ki-2-tieng-viet-lop-4-tiet-1-6741, lần thử 1/3
+2025-04-05 01:01:14,436 - WARNING - Timeout khi truy cập https://vndoc.com/on-tap-cuoi-hoc-ki-2-tieng-viet-lop-4-tiet-3-4-6851, lần thử 1/3
+2025-04-05 01:02:26,638 - WARNING - Timeout khi truy cập https://vndoc.com/giai-on-tap-giua-hoc-ki-2-tiet-3-trang-45-vbt-tieng-viet-lop-3-tap-2-chan-troi-sang-tao-294681, lần thử 1/3
+2025-04-05 01:06:15,035 - WARNING - Timeout khi truy cập https://vndoc.com/giai-bai-6-bo-cau-hieu-khach-trang-80-vbt-tieng-viet-lop-3-tap-2-chan-troi-sang-tao-294817, lần thử 1/3
+2025-04-05 01:06:58,512 - INFO - 
+Đã hoàn thành xử lý!
+2025-04-05 01:06:58,512 - INFO - Tất cả các file được lưu trong thư mục 'markdown_files_tv3'
+2025-04-05 01:06:58,512 - INFO - 
+Tóm tắt:
+2025-04-05 01:06:58,512 - INFO - Tổng URL: 501
+2025-04-05 01:06:58,512 - INFO - Xử lý thành công: 501
+2025-04-05 01:06:58,512 - INFO - Thất bại: 0
+2025-04-05 01:06:58,512 - INFO - Danh sách URL thất bại được lưu tại: markdown_files_tv3/failed/failed_urls.json
+2025-04-05 01:23:08,649 - WARNING - Timeout khi truy cập https://vndoc.com/bai-28-chuyen-du-lich-thu-vi-trang-98-vbt-tieng-viet-lop-4-ket-noi-tri-thuc-tap-2-319364, lần thử 1/3
+2025-04-05 01:27:05,074 - WARNING - Timeout khi truy cập https://vndoc.com/giai-vbt-tieng-viet-lop-4-luyen-tu-va-cau-luyen-tap-ve-danh-tu-canh-dieu-303382, lần thử 1/3
+2025-04-05 01:28:33,339 - WARNING - Timeout khi truy cập https://vndoc.com/giai-vbt-tieng-viet-lop-4-luyen-tu-va-cau-luyen-tap-ve-nhan-hoa-canh-dieu-303403, lần thử 1/3
+2025-04-05 01:35:00,411 - WARNING - Timeout khi truy cập https://vndoc.com/giai-vbt-tieng-viet-lop-4-bai-doc-2-de-hoc-tap-tot-canh-dieu-303612, lần thử 1/3
+2025-04-05 01:44:56,279 - WARNING - Timeout khi truy cập https://vndoc.com/giai-vbt-tieng-viet-lop-4-bai-doc-2-sang-tao-vi-cuoc-song-canh-dieu-303966, lần thử 1/3
+2025-04-08 08:46:17,239 - WARNING - Không thể tải checkpoint, bắt đầu từ đầu
+2025-04-08 08:46:17,239 - INFO - Bắt đầu xử lý 1 URLs...
+2025-04-08 08:46:31,552 - INFO - 
+Đã hoàn thành xử lý!
+2025-04-08 08:46:31,552 - INFO - Tất cả các file được lưu trong thư mục 'out_put_test.md'
+2025-04-08 08:46:31,552 - INFO - 
+Tóm tắt:
+2025-04-08 08:46:31,552 - INFO - Tổng URL: 1
+2025-04-08 08:46:31,552 - INFO - Xử lý thành công: 1
+2025-04-08 08:46:31,552 - INFO - Thất bại: 0
+2025-04-08 08:46:31,552 - INFO - Danh sách URL thất bại được lưu tại: out_put_test.md/failed/failed_urls.json
+2025-04-08 08:49:28,491 - INFO - Bắt đầu xử lý 1 URLs...
+2025-04-08 08:49:41,930 - INFO - 
+Đã hoàn thành xử lý!
+2025-04-08 08:49:41,931 - INFO - Tất cả các file được lưu trong thư mục 'out_put_test.md'
+2025-04-08 08:49:41,931 - INFO - 
+Tóm tắt:
+2025-04-08 08:49:41,931 - INFO - Tổng URL: 1
+2025-04-08 08:49:41,931 - INFO - Xử lý thành công: 1
+2025-04-08 08:49:41,931 - INFO - Thất bại: 0
+2025-04-08 08:49:41,931 - INFO - Danh sách URL thất bại được lưu tại: out_put_test.md/failed/failed_urls.json
+2025-04-08 08:55:37,437 - INFO - Đã tải 1 URL đã xử lý từ checkpoint
+2025-04-08 08:55:37,437 - INFO - Tất cả các URL đã được xử lý!
+2025-04-08 08:55:54,619 - INFO - Đã tải 1 URL đã xử lý từ checkpoint
+2025-04-08 08:55:54,619 - INFO - Tất cả các URL đã được xử lý!
+2025-04-08 08:56:09,861 - INFO - Bắt đầu xử lý 1 URLs...
+2025-04-08 08:56:20,618 - INFO - 
+Đã hoàn thành xử lý!
+2025-04-08 08:56:20,618 - INFO - Tất cả các file được lưu trong thư mục 'out_put_test.md'
+2025-04-08 08:56:20,618 - INFO - 
+Tóm tắt:
+2025-04-08 08:56:20,618 - INFO - Tổng URL: 1
+2025-04-08 08:56:20,618 - INFO - Xử lý thành công: 1
+2025-04-08 08:56:20,618 - INFO - Thất bại: 0
+2025-04-08 08:56:20,618 - INFO - Danh sách URL thất bại được lưu tại: out_put_test.md/failed/failed_urls.json
+2025-04-08 09:14:19,338 - INFO - Đã tải 1 URL đã xử lý từ checkpoint
+2025-04-08 09:14:19,338 - INFO - Tất cả các URL đã được xử lý!
+2025-04-08 09:14:30,040 - INFO - Bắt đầu xử lý 1 URLs...
+2025-04-08 09:14:41,096 - INFO - 
+Đã hoàn thành xử lý!
+2025-04-08 09:14:41,096 - INFO - Tất cả các file được lưu trong thư mục 'out_put_test.md'
+2025-04-08 09:14:41,097 - INFO - 
+Tóm tắt:
+2025-04-08 09:14:41,097 - INFO - Tổng URL: 1
+2025-04-08 09:14:41,097 - INFO - Xử lý thành công: 1
+2025-04-08 09:14:41,097 - INFO - Thất bại: 0
+2025-04-08 09:14:41,097 - INFO - Danh sách URL thất bại được lưu tại: out_put_test.md/failed/failed_urls.json
+2025-04-08 09:17:07,499 - INFO - Bắt đầu xử lý 1 URLs...
+2025-04-08 09:17:22,074 - INFO - 
+Đã hoàn thành xử lý!
+2025-04-08 09:17:22,075 - INFO - Tất cả các file được lưu trong thư mục 'out_put_test.md'
+2025-04-08 09:17:22,075 - INFO - 
+Tóm tắt:
+2025-04-08 09:17:22,075 - INFO - Tổng URL: 1
+2025-04-08 09:17:22,075 - INFO - Xử lý thành công: 1
+2025-04-08 09:17:22,075 - INFO - Thất bại: 0
+2025-04-08 09:17:22,075 - INFO - Danh sách URL thất bại được lưu tại: out_put_test.md/failed/failed_urls.json
+2025-04-08 09:28:43,778 - INFO - Bắt đầu xử lý 279 URLs...
+2025-04-08 09:28:50,889 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/719fd18ce35c1fb6f7bd76fbfdd564d5
+2025-04-08 09:28:50,890 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7770f69b1870>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/719fd18ce35c1fb6f7bd76fbfdd564d5
+2025-04-08 09:28:50,890 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7770f69b17b0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/719fd18ce35c1fb6f7bd76fbfdd564d5
+2025-04-08 09:29:13,204 - INFO - Bắt đầu xử lý 279 URLs...
+2025-04-08 09:38:27,452 - WARNING - Timeout khi truy cập https://vndoc.com/phieu-bai-tap-on-he-lop-1-len-lop-2-mon-tieng-viet-de-3-202743, lần thử 1/3
+2025-04-08 09:43:43,248 - WARNING - Timeout khi truy cập https://vndoc.com/phieu-bai-tap-cuoi-tuan-tieng-viet-lop-1-nang-cao-tuan-3-phieu-2-206295, lần thử 1/3
+2025-04-08 09:44:33,374 - WARNING - Timeout khi truy cập https://vndoc.com/phieu-bai-tap-cuoi-tuan-tieng-viet-lop-1-nang-cao-tuan-3-phieu-3-206298, lần thử 1/3
+2025-04-08 09:45:57,356 - WARNING - Timeout khi truy cập https://vndoc.com/phieu-bai-tap-cuoi-tuan-tieng-viet-lop-1-nang-cao-tuan-4-phieu-2-206576, lần thử 1/3
+2025-04-08 09:57:06,781 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-1-canh-dieu-tuan-2-de-4-327738, lần thử 1/3
+2025-04-08 10:05:16,733 - WARNING - Timeout khi truy cập https://vndoc.com/bo-4-bai-tap-cuoi-tuan-tieng-viet-lop-1-ket-noi-tri-thuc-tuan-3-328872, lần thử 1/3
+2025-04-08 10:09:01,731 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/a7f224b50541968b067e7fa09daf2cc6
+2025-04-08 10:09:01,732 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7c4a0fd9ce50>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/a7f224b50541968b067e7fa09daf2cc6
+2025-04-08 10:09:01,733 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7c4a0fd9f8e0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/a7f224b50541968b067e7fa09daf2cc6
+2025-04-08 10:23:08,084 - INFO - Bắt đầu xử lý 275 URLs...
+2025-04-08 10:23:44,207 - INFO - Bắt đầu xử lý 308 URLs...
+2025-04-08 10:24:19,072 - INFO - Bắt đầu xử lý 501 URLs...
+2025-04-08 10:25:01,254 - INFO - Bắt đầu xử lý 787 URLs...
+2025-04-08 10:25:24,804 - WARNING - Timeout khi truy cập https://vndoc.com/de-thi-giua-hoc-ki-2-lop-1-mon-tieng-viet-sach-ket-noi-tri-thuc-de-2-228042, lần thử 1/3
+2025-04-08 10:25:25,302 - WARNING - Timeout khi truy cập https://vndoc.com/bo-de-thi-hoc-ki-1-mon-tieng-viet-lop-3-theo-thong-tu-27-103334, lần thử 1/3
+2025-04-08 10:25:53,335 - INFO - Bắt đầu xử lý 334 URLs...
+2025-04-08 10:26:29,866 - WARNING - Timeout khi truy cập https://vndoc.com/de-thi-giua-hoc-ki-2-lop-1-mon-tieng-viet-sach-chan-troi-sang-tao-de-1-227505, lần thử 1/3
+2025-04-08 10:26:33,762 - WARNING - Timeout khi truy cập https://vndoc.com/bo-de-thi-giua-hoc-ki-2-mon-tieng-viet-lop-3-164716, lần thử 1/3
+2025-04-08 10:28:32,683 - WARNING - Timeout khi truy cập https://vndoc.com/de-thi-giua-ki-2-tieng-viet-lop-5-ket-noi-tri-thuc-de-so-2-336642, lần thử 1/3
+2025-04-08 10:31:51,812 - WARNING - Timeout khi truy cập https://vndoc.com/de-thi-giua-hoc-ki-2-lop-5-mon-tieng-viet-sach-chan-troi-sang-tao-de-6-335195, lần thử 1/3
+2025-04-08 10:32:58,775 - WARNING - Timeout khi truy cập https://vndoc.com/bo-de-thi-giua-ki-2-tieng-viet-lop-4-ket-noi-tri-thuc-ma-tran-de-thi-huong-dan-cham-316008, lần thử 1/3
+2025-04-08 10:34:27,366 - WARNING - Timeout khi truy cập https://vndoc.com/de-thi-tieng-viet-giua-ki-2-lop-4-sach-chan-troi-sang-tao-de-2-315526, lần thử 1/3
+2025-04-08 10:35:15,832 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-on-he-mon-tieng-viet-lop-1-95755, lần thử 1/3
+2025-04-08 10:35:34,496 - WARNING - Timeout khi truy cập https://vndoc.com/bo-5-de-on-tap-he-lop-3-len-lop-4-mon-tieng-viet-chan-troi-sang-tao-299605, lần thử 1/3
+2025-04-08 10:38:24,803 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-2-canh-dieu-tuan-8-nang-cao-307253, lần thử 1/3
+2025-04-08 10:39:28,356 - WARNING - Timeout khi truy cập https://vndoc.com/100-cau-hoi-boi-duong-hoc-sinh-gioi-mon-tieng-viet-lop-5-99367, lần thử 1/3
+2025-04-08 10:40:14,480 - WARNING - Timeout khi truy cập https://vndoc.com/bo-de-on-tap-he-lop-5-len-lop-6-mon-toan-va-tieng-viet-203357, lần thử 1/3
+2025-04-08 10:40:31,846 - WARNING - Timeout khi truy cập https://vndoc.com/de-kiem-tra-cuoi-tuan-tieng-viet-lop-1-tuan-3-de-1-148149, lần thử 1/3
+2025-04-08 10:41:01,850 - WARNING - Timeout khi truy cập https://vndoc.com/top-4-bai-tap-on-he-lop-4-len-5-mon-tieng-viet-sach-ket-noi-319288, lần thử 1/3
+2025-04-08 10:41:02,534 - WARNING - Timeout khi truy cập https://vndoc.com/phieu-bai-tap-on-he-lop-5-len-lop-6-mon-tieng-viet-de-1-203234, lần thử 1/3
+2025-04-08 10:42:34,829 - WARNING - Timeout khi truy cập https://vndoc.com/phieu-bai-tap-on-he-lop-5-len-lop-6-mon-tieng-viet-de-5-203339, lần thử 1/3
+2025-04-08 10:44:48,644 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-3-ket-noi-tri-thuc-tuan-2-304627, lần thử 1/3
+2025-04-08 10:45:38,180 - WARNING - Timeout khi truy cập https://vndoc.com/phieu-bai-tap-cuoi-tuan-tieng-viet-lop-1-nang-cao-tuan-4-phieu-2-206576, lần thử 1/3
+2025-04-08 10:45:55,109 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-viet-lop-2-sach-ket-noi-tri-thuc-trang-17-18-233214, lần thử 1/3
+2025-04-08 10:45:59,969 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-5-ket-noi-tri-thuc-nang-cao-tuan-1-328005, lần thử 1/3
+2025-04-08 10:47:27,352 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-4-nang-cao-ket-noi-tri-thuc-tuan-5-305922, lần thử 1/3
+2025-04-08 10:48:40,928 - WARNING - Timeout khi truy cập https://vndoc.com/phieu-bai-tap-cuoi-tuan-lop-4-nang-cao-mon-tieng-viet-ket-noi-tri-thuc-tuan-7-301391, lần thử 1/3
+2025-04-08 10:49:39,945 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-3-nang-cao-tuan-6-ket-noi-tri-thuc-306441, lần thử 1/3
+2025-04-08 10:49:59,326 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-5-chan-troi-sang-tao-nang-cao-tuan-4-328741, lần thử 1/3
+2025-04-08 10:50:00,083 - WARNING - Timeout khi truy cập https://vndoc.com/de-kiem-tra-kien-thuc-tieng-viet-lop-4-ket-noi-tri-thuc-tuan-8-online-307671, lần thử 1/3
+2025-04-08 10:50:29,272 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-3-ket-noi-tri-thuc-tuan-7-co-ban-306374, lần thử 1/3
+2025-04-08 10:51:35,757 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-1-chan-troi-sang-tao-336453, lần thử 1/3
+2025-04-08 10:52:16,653 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-viet-lop-2-trang-21-22-23-24-25-bai-4-ut-tin-233292, lần thử 1/3
+2025-04-08 10:52:19,637 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-3-nang-cao-tuan-9-ket-noi-tri-thuc-308129, lần thử 1/3
+2025-04-08 10:52:58,459 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-viet-lop-2-trang-21-22-23-24-25-bai-4-ut-tin-233292, lần thử 2/3
+2025-04-08 10:53:03,759 - WARNING - Timeout khi truy cập https://vndoc.com/de-kiem-tra-cuoi-tuan-mon-tieng-viet-lop-5-tuan-6-148099, lần thử 1/3
+2025-04-08 10:53:22,479 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-4-ket-noi-tri-thuc-tuan-13-310325, lần thử 1/3
+2025-04-08 10:54:05,379 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-4-ket-noi-tri-thuc-tuan-13-310325, lần thử 2/3
+2025-04-08 10:54:19,015 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-viet-lop-2-trang-29-30-31-32-33-bai-2-lam-viec-that-la-vui-238646, lần thử 1/3
+2025-04-08 10:54:20,251 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-3-ket-noi-tri-thuc-tuan-12-co-ban-309873, lần thử 1/3
+2025-04-08 10:54:56,256 - WARNING - Timeout khi truy cập https://vndoc.com/phieu-bai-tap-cuoi-tuan-tieng-viet-lop-5-tuan-8-205556, lần thử 1/3
+2025-04-08 10:56:15,338 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-viet-lop-2-trang-50-51-52-bai-3-me-238683, lần thử 1/3
+2025-04-08 10:56:15,497 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-3-nang-cao-tuan-14-ket-noi-tri-thuc-149012, lần thử 1/3
+2025-04-08 10:57:02,381 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-3-ket-noi-tri-thuc-tuan-15-co-ban-310710, lần thử 1/3
+2025-04-08 10:57:02,595 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-4-ket-noi-tri-thuc-tuan-16-nang-cao-311861, lần thử 1/3
+2025-04-08 10:57:03,005 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-5-ket-noi-tri-thuc-tuan-11-nang-cao-331882, lần thử 1/3
+2025-04-08 10:58:24,084 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-3-ket-noi-tri-thuc-tuan-16-nang-cao-312141, lần thử 1/3
+2025-04-08 10:58:37,811 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-5-canh-dieu-tuan-12-nang-cao-332311, lần thử 1/3
+2025-04-08 11:00:46,807 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-5-chan-troi-sang-tao-tuan-14-nang-cao-333011, lần thử 1/3
+2025-04-08 11:00:49,452 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-3-ket-noi-tri-thuc-tuan-25-co-ban-315525, lần thử 1/3
+2025-04-08 11:01:32,927 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-3-ket-noi-tri-thuc-tuan-26-co-ban-316390, lần thử 1/3
+2025-04-08 11:01:54,302 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-5-ket-noi-tri-thuc-tuan-14-nang-cao-333009, lần thử 1/3
+2025-04-08 11:02:21,909 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-viet-lop-2-trang-122-123-124-bai-3-khi-trang-sach-mo-ra-239049, lần thử 1/3
+2025-04-08 11:02:34,721 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-3-ket-noi-tri-thuc-tuan-28-co-ban-316392, lần thử 1/3
+2025-04-08 11:03:11,266 - WARNING - Timeout khi truy cập https://vndoc.com/phieu-bai-tap-cuoi-tuan-tieng-viet-lop-1-nang-cao-tuan-4-de-3-205603, lần thử 1/3
+2025-04-08 11:03:12,080 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-5-ket-noi-tri-thuc-tuan-19-nang-cao-334920, lần thử 1/3
+2025-04-08 11:03:19,212 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-3-ket-noi-tri-thuc-tuan-28-co-ban-316392, lần thử 2/3
+2025-04-08 11:03:35,341 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-viet-lop-2-trang-130-131-132-bai-1-me-cua-oanh-239075, lần thử 1/3
+2025-04-08 11:05:19,150 - WARNING - Timeout khi truy cập https://vndoc.com/phieu-bai-tap-cuoi-tuan-tieng-viet-lop-1-nang-cao-tuan-6-de-1-205687, lần thử 1/3
+2025-04-08 11:05:20,469 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-3-ket-noi-tri-thuc-tuan-35-320047, lần thử 1/3
+2025-04-08 11:05:27,809 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-viet-lop-5-trang-17-tap-1-ket-noi-tri-thuc-319564, lần thử 1/3
+2025-04-08 11:06:15,125 - WARNING - Timeout khi truy cập https://vndoc.com/phieu-bai-tap-cuoi-tuan-tieng-viet-lop-1-nang-cao-tuan-6-de-3-207112, lần thử 1/3
+2025-04-08 11:07:00,231 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-viet-lop-5-trang-26-tap-1-ket-noi-tri-thuc-319584, lần thử 1/3
+2025-04-08 11:08:10,556 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-4-ket-noi-tri-thuc-tuan-29-nang-cao-317889, lần thử 1/3
+2025-04-08 11:08:46,992 - WARNING - Timeout khi truy cập https://vndoc.com/de-kiem-tra-cuoi-tuan-tieng-viet-lop-3-tuan-9-148995, lần thử 1/3
+2025-04-08 11:08:53,268 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-4-ket-noi-tri-thuc-tuan-29-nang-cao-317889, lần thử 2/3
+2025-04-08 11:10:18,741 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-3-nang-cao-tuan-12-canh-dieu-309963, lần thử 1/3
+2025-04-08 11:10:26,069 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-viet-lop-2-trang-75-76-on-tap-2-241358, lần thử 1/3
+2025-04-08 11:11:07,873 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-4-ket-noi-tri-thuc-tuan-31-nang-cao-318622, lần thử 1/3
+2025-04-08 11:11:11,963 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-viet-lop-2-trang-77-78-on-tap-3-241371, lần thử 1/3
+2025-04-08 11:11:48,626 - WARNING - Timeout khi truy cập https://vndoc.com/bo-de-kiem-tra-cuoi-tuan-tieng-viet-lop-4-ket-noi-tri-thuc-tuan-31-318624, lần thử 1/3
+2025-04-08 11:12:03,649 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-viet-lop-5-trang-60-tap-1-ket-noi-tri-thuc-319673, lần thử 1/3
+2025-04-08 11:13:06,375 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-viet-lop-5-trang-63-tap-1-ket-noi-tri-thuc-319682, lần thử 1/3
+2025-04-08 11:13:08,818 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-3-canh-dieu-tuan-17-co-ban-312529, lần thử 1/3
+2025-04-08 11:19:16,259 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-4-chan-troi-sang-tao-tuan-6-co-ban-307071, lần thử 1/3
+2025-04-08 11:19:47,017 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-3-chan-troi-sang-tao-tuan-2-325139, lần thử 1/3
+2025-04-08 11:20:56,953 - WARNING - Timeout khi truy cập https://vndoc.com/on-tap-giua-ki-2-tieng-viet-lop-5-ket-noi-tri-thuc-tiet-6-7-323415, lần thử 1/3
+2025-04-08 11:21:27,464 - WARNING - Timeout khi truy cập https://vndoc.com/giai-vo-bai-tap-tieng-viet-lop-2-trang-13-14-tap-1-canh-dieu-321210, lần thử 1/3
+2025-04-08 11:22:02,107 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-4-chan-troi-sang-tao-tuan-9-co-ban-307368, lần thử 1/3
+2025-04-08 11:23:20,128 - WARNING - Timeout khi truy cập https://vndoc.com/on-tap-cuoi-hoc-ki-2-tieng-viet-lop-5-tiet-5-6816, lần thử 1/3
+2025-04-08 11:24:33,196 - WARNING - Timeout khi truy cập https://vndoc.com/giai-vo-bai-tap-tieng-viet-lop-1-trang-54-bai-71-on-ot-223426, lần thử 1/3
+2025-04-08 11:24:38,185 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-3-chan-troi-sang-tao-tuan-11-co-ban-309487, lần thử 1/3
+2025-04-08 11:25:13,479 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-4-chan-troi-sang-tao-tuan-12-309844, lần thử 1/3
+2025-04-08 11:25:18,141 - WARNING - Timeout khi truy cập https://vndoc.com/de-kiem-tra-cuoi-tuan-tieng-viet-lop-3-tuan-11-149002, lần thử 1/3
+2025-04-08 11:26:03,508 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-3-chan-troi-sang-tao-tuan-12-co-ban-309488, lần thử 1/3
+2025-04-08 11:26:28,628 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-4-chan-troi-sang-tao-tuan-13-310329, lần thử 1/3
+2025-04-08 11:26:31,745 - WARNING - Timeout khi truy cập https://vndoc.com/giai-bai-tap-tieng-viet-lop-1-trang-16-bai-4-o-o-205831, lần thử 1/3
+2025-04-08 11:27:25,685 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-tieng-viet-lop-5-tap-1-trang-27-chan-troi-sang-tao-319167, lần thử 1/3
+2025-04-08 11:27:44,235 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-4-chan-troi-sang-tao-tuan-14-co-ban-310735, lần thử 1/3
+2025-04-08 11:28:09,432 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-tieng-viet-lop-5-tap-1-trang-29-chan-troi-sang-tao-319168, lần thử 1/3
+2025-04-08 11:28:21,591 - WARNING - Timeout khi truy cập https://vndoc.com/giai-bai-tap-tieng-viet-lop-1-trang-26-bai-4-e-e-e-e-205918, lần thử 1/3
+2025-04-08 11:28:56,884 - WARNING - Timeout khi truy cập https://vndoc.com/giai-vo-bai-tap-tieng-viet-lop-2-trang-47-tap-1-canh-dieu-321289, lần thử 1/3
+2025-04-08 11:29:05,118 - WARNING - Timeout khi truy cập https://vndoc.com/giai-bai-tap-tieng-viet-lop-1-trang-26-bai-4-e-e-e-e-205918, lần thử 2/3
+2025-04-08 11:34:46,006 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-3-chan-troi-sang-tao-tuan-27-co-ban-317313, lần thử 1/3
+2025-04-08 11:36:04,695 - WARNING - Timeout khi truy cập https://vndoc.com/giai-bai-tap-tieng-viet-lop-1-trang-48-bai-5-on-tap-va-ke-chuyen-206428, lần thử 1/3
+2025-04-08 11:36:37,255 - WARNING - Timeout khi truy cập https://vndoc.com/bo-de-kiem-tra-cuoi-tuan-tieng-viet-lop-4-tuan-17-chan-troi-sang-tao-312595, lần thử 1/3
+2025-04-08 11:36:37,257 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-tieng-viet-lop-5-tap-1-trang-55-chan-troi-sang-tao-319440, lần thử 1/3
+2025-04-08 11:36:48,194 - WARNING - Timeout khi truy cập https://vndoc.com/giai-bai-tap-tieng-viet-lop-1-trang-48-bai-5-on-tap-va-ke-chuyen-206428, lần thử 2/3
+2025-04-08 11:38:07,838 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-tieng-viet-lop-5-tap-1-trang-56-chan-troi-sang-tao-319442, lần thử 1/3
+2025-04-08 11:39:12,301 - WARNING - Timeout khi truy cập https://vndoc.com/giai-vo-bai-tap-tieng-viet-lop-2-trang-70-tap-1-canh-dieu-321338, lần thử 1/3
+2025-04-08 11:39:28,885 - WARNING - Timeout khi truy cập https://vndoc.com/bo-de-kiem-tra-cuoi-tuan-tieng-viet-lop-4-tuan-19-chan-troi-sang-tao-313676, lần thử 1/3
+2025-04-08 11:39:31,322 - WARNING - Timeout khi truy cập https://vndoc.com/giai-bai-5-coc-kien-troi-trang-120-tieng-viet-lop-3-tap-2-chan-troi-sang-tao-292365, lần thử 1/3
+2025-04-08 11:40:46,004 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-tieng-viet-lop-5-tap-1-trang-70-chan-troi-sang-tao-319467, lần thử 1/3
+2025-04-08 11:40:46,951 - WARNING - Timeout khi truy cập https://vndoc.com/giai-vo-bai-tap-tieng-viet-lop-2-trang-73-tap-1-canh-dieu-321349, lần thử 1/3
+2025-04-08 11:40:50,334 - WARNING - Timeout khi truy cập https://vndoc.com/danh-gia-cuoi-hoc-ki-2-tieng-viet-lop-3-chan-troi-sang-tao-292382, lần thử 1/3
+2025-04-08 11:41:44,252 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-4-chan-troi-sang-tao-tuan-23-315459, lần thử 1/3
+2025-04-08 11:41:45,232 - WARNING - Timeout khi truy cập https://vndoc.com/giai-vo-bai-tap-tieng-viet-lop-1-trang-16-17-18-chu-de-5-o-nha-206350, lần thử 1/3
+2025-04-08 11:43:02,605 - WARNING - Timeout khi truy cập https://vndoc.com/giai-vo-bai-tap-tieng-viet-lop-1-trang-26-27-28-29-chu-de-8-do-choi-tro-choi-207417, lần thử 1/3
+2025-04-08 11:43:35,525 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-tieng-viet-lop-5-tap-1-trang-78-79-chan-troi-sang-tao-319479, lần thử 1/3
+2025-04-08 11:43:36,446 - WARNING - Timeout khi truy cập https://vndoc.com/viet-trang-13-14-tieng-viet-lop-3-canh-dieu-268011, lần thử 1/3
+2025-04-08 11:43:36,845 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-4-chan-troi-sang-tao-tuan-25-316186, lần thử 1/3
+2025-04-08 11:43:40,153 - WARNING - Timeout khi truy cập https://vndoc.com/giai-vo-bai-tap-tieng-viet-lop-2-trang-7-8-tap-2-canh-dieu-321370, lần thử 1/3
+2025-04-08 11:44:26,259 - WARNING - Timeout khi truy cập https://vndoc.com/bo-de-kiem-tra-cuoi-tuan-tieng-viet-lop-4-tuan-25-chan-troi-sang-tao-316188, lần thử 1/3
+2025-04-08 11:44:48,779 - WARNING - Timeout khi truy cập https://vndoc.com/giai-vo-bai-tap-tieng-viet-lop-1-trang-37-38-39-chu-de-11-ban-be-223189, lần thử 1/3
+2025-04-08 11:45:08,781 - WARNING - Timeout khi truy cập https://vndoc.com/bo-de-kiem-tra-cuoi-tuan-tieng-viet-lop-4-tuan-25-chan-troi-sang-tao-316188, lần thử 2/3
+2025-04-08 11:45:50,064 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-4-chan-troi-sang-tao-tuan-26-316508, lần thử 1/3
+2025-04-08 11:46:42,659 - WARNING - Timeout khi truy cập https://vndoc.com/giai-bai-tap-tieng-viet-lop-1-trang-32-bai-10-on-tap-va-ke-chuyen-205767, lần thử 1/3
+2025-04-08 11:46:44,707 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-4-chan-troi-sang-tao-tuan-26-nang-cao-316511, lần thử 1/3
+2025-04-08 11:47:16,545 - WARNING - Timeout khi truy cập https://vndoc.com/giai-vo-bai-tap-tieng-viet-lop-2-trang-21-tap-2-canh-dieu-321404, lần thử 1/3
+2025-04-08 11:48:10,314 - WARNING - Timeout khi truy cập https://vndoc.com/giai-bai-tap-tieng-viet-lop-1-trang-62-bai-25-on-tap-va-ke-chuyen-205784, lần thử 1/3
+2025-04-08 11:48:12,125 - WARNING - Timeout khi truy cập https://vndoc.com/giai-vo-bai-tap-tieng-viet-lop-2-trang-23-24-tap-2-canh-dieu-321445, lần thử 1/3
+2025-04-08 11:48:29,220 - WARNING - Timeout khi truy cập https://vndoc.com/tu-doc-sach-bao-trang-34-tieng-viet-lop-3-canh-dieu-268315, lần thử 1/3
+2025-04-08 11:49:22,798 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-viet-lop-3-tha-dieu-trang-36-37-canh-dieu-268343, lần thử 1/3
+2025-04-08 11:49:38,323 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-4-chan-troi-sang-tao-tuan-29-nang-cao-317878, lần thử 1/3
+2025-04-08 11:49:59,464 - WARNING - Timeout khi truy cập https://vndoc.com/on-tap-giua-ki-1-tieng-viet-lop-5-canh-dieu-tiet-6-320009, lần thử 1/3
+2025-04-08 11:50:00,714 - WARNING - Timeout khi truy cập https://vndoc.com/giai-vo-bai-tap-tieng-viet-lop-2-trang-30-31-tap-2-canh-dieu-321456, lần thử 1/3
+2025-04-08 11:50:04,671 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-viet-lop-3-tha-dieu-trang-36-37-canh-dieu-268343, lần thử 2/3
+2025-04-08 11:51:03,769 - WARNING - Timeout khi truy cập https://vndoc.com/giai-bai-tap-tieng-viet-1-trang-4-5-6-7-bai-1-toi-la-hoc-sinh-lop-1-225431, lần thử 1/3
+2025-04-08 11:51:46,448 - WARNING - Timeout khi truy cập https://vndoc.com/giai-bai-tap-tieng-viet-1-trang-4-5-6-7-bai-1-toi-la-hoc-sinh-lop-1-225431, lần thử 2/3
+2025-04-08 11:51:56,865 - WARNING - Timeout khi truy cập https://vndoc.com/goc-sang-tao-trang-43-44-tieng-viet-lop-3-canh-dieu-268364, lần thử 1/3
+2025-04-08 11:51:58,091 - WARNING - Timeout khi truy cập https://vndoc.com/bo-bai-tap-cuoi-tuan-tieng-viet-lop-4-tuan-31-chan-troi-sang-tao-318621, lần thử 1/3
+2025-04-08 11:52:40,030 - WARNING - Timeout khi truy cập https://vndoc.com/goc-sang-tao-trang-43-44-tieng-viet-lop-3-canh-dieu-268364, lần thử 2/3
+2025-04-08 11:52:40,833 - WARNING - Timeout khi truy cập https://vndoc.com/bo-bai-tap-cuoi-tuan-tieng-viet-lop-4-tuan-31-chan-troi-sang-tao-318621, lần thử 2/3
+2025-04-08 11:53:37,912 - WARNING - Timeout khi truy cập https://vndoc.com/giai-vo-bai-tap-tieng-viet-lop-2-trang-43-44-tap-2-canh-dieu-321487, lần thử 1/3
+2025-04-08 11:53:48,422 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-viet-lop-3-nhan-va-goi-dien-thoai-trang-48-49-canh-dieu-268531, lần thử 1/3
+2025-04-08 11:54:30,714 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-viet-lop-3-cha-se-luon-o-ben-con-trang-49-50-51-canh-dieu-268535, lần thử 1/3
+2025-04-08 11:54:31,236 - WARNING - Timeout khi truy cập https://vndoc.com/giai-vo-bai-tap-tieng-viet-lop-2-trang-45-tap-2-canh-dieu-321489, lần thử 1/3
+2025-04-08 11:54:32,807 - WARNING - Timeout khi truy cập https://vndoc.com/on-tap-cuoi-hoc-ki-2-tieng-viet-lop-5-tiet-7-7013, lần thử 1/3
+2025-04-08 11:56:07,711 - WARNING - Timeout khi truy cập https://vndoc.com/giai-vo-bai-tap-tieng-viet-lop-2-trang-50-51-52-tap-2-canh-dieu-321494, lần thử 1/3
+2025-04-08 11:56:24,416 - WARNING - Timeout khi truy cập https://vndoc.com/goc-sang-tao-trang-57-58-tieng-viet-lop-3-canh-dieu-268557, lần thử 1/3
+2025-04-08 11:57:04,227 - WARNING - Timeout khi truy cập https://vndoc.com/vo-bai-tap-tieng-viet-lop-5-bai-20-kho-luyen-thanh-tai-339018, lần thử 1/3
+2025-04-08 11:57:19,572 - WARNING - Timeout khi truy cập https://vndoc.com/bo-de-kiem-tra-cuoi-tuan-tieng-viet-lop-4-canh-dieu-tuan-2-325851, lần thử 1/3
+2025-04-08 11:58:29,312 - WARNING - Timeout khi truy cập https://vndoc.com/giai-vo-bai-tap-tieng-viet-lop-2-trang-60-61-tap-2-canh-dieu-321516, lần thử 1/3
+2025-04-08 11:59:29,602 - WARNING - Timeout khi truy cập https://vndoc.com/bo-de-kiem-tra-cuoi-tuan-tieng-viet-lop-4-canh-dieu-tuan-4-325856, lần thử 1/3
+2025-04-08 11:59:34,702 - WARNING - Timeout khi truy cập https://vndoc.com/giai-vo-bai-tap-tieng-viet-lop-2-trang-64-65-tap-2-canh-dieu-321524, lần thử 1/3
+2025-04-08 12:00:15,741 - WARNING - Timeout khi truy cập https://vndoc.com/giao-an-tieng-viet-lop-1-sach-vi-su-binh-dang-va-dan-chu-trong-giao-duc-ki-2-225738, lần thử 1/3
+2025-04-08 12:00:16,055 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-4-canh-dieu-nang-cao-tuan-5-305925, lần thử 1/3
+2025-04-08 12:00:16,372 - WARNING - Timeout khi truy cập https://vndoc.com/giai-vo-bai-tap-tieng-viet-lop-2-trang-65-tap-2-canh-dieu-321527, lần thử 1/3
+2025-04-08 12:00:16,415 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-viet-lop-3-ban-trang-71-72-canh-dieu-269928, lần thử 1/3
+2025-04-08 12:00:17,027 - WARNING - Timeout khi truy cập https://vndoc.com/vo-bai-tap-tieng-viet-lop-5-bai-30-nghe-thuat-mua-ba-le-339346, lần thử 1/3
+2025-04-08 12:00:59,354 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-viet-lop-3-ban-trang-71-72-canh-dieu-269928, lần thử 2/3
+2025-04-08 13:33:41,755 - INFO - Đã tải 272 URL đã xử lý từ checkpoint
+2025-04-08 13:33:41,755 - INFO - Bắt đầu xử lý 2 URLs...
+2025-04-08 13:34:14,301 - INFO - 
+Đã hoàn thành xử lý!
+2025-04-08 13:34:14,301 - INFO - Tất cả các file được lưu trong thư mục 'markdown_files_tv1'
+2025-04-08 13:34:14,301 - INFO - 
+Tóm tắt:
+2025-04-08 13:34:14,301 - INFO - Tổng URL: 2
+2025-04-08 13:34:14,301 - INFO - Xử lý thành công: 2
+2025-04-08 13:34:14,301 - INFO - Thất bại: 0
+2025-04-08 13:34:14,301 - INFO - Danh sách URL thất bại được lưu tại: markdown_files_tv1/failed/failed_urls.json
+2025-04-08 13:34:32,751 - INFO - Đã tải 289 URL đã xử lý từ checkpoint
+2025-04-08 13:34:32,751 - INFO - Bắt đầu xử lý 19 URLs...
+2025-04-08 13:40:48,147 - WARNING - Timeout khi truy cập https://vndoc.com/giao-an-tieng-viet-lop-2-sach-chan-troi-sang-tao-233145, lần thử 1/3
+2025-04-08 13:42:17,066 - WARNING - Timeout khi truy cập https://vndoc.com/bo-de-on-tap-he-lop-2-len-lop-3-mon-tieng-viet-202898, lần thử 1/3
+2025-04-08 13:42:40,971 - INFO - 
+Đã hoàn thành xử lý!
+2025-04-08 13:42:40,971 - INFO - Tất cả các file được lưu trong thư mục 'markdown_files_tv2'
+2025-04-08 13:42:40,971 - INFO - 
+Tóm tắt:
+2025-04-08 13:42:40,971 - INFO - Tổng URL: 19
+2025-04-08 13:42:40,971 - INFO - Xử lý thành công: 19
+2025-04-08 13:42:40,971 - INFO - Thất bại: 0
+2025-04-08 13:42:40,971 - INFO - Danh sách URL thất bại được lưu tại: markdown_files_tv2/failed/failed_urls.json
+2025-04-08 13:42:49,349 - INFO - Đã tải 267 URL đã xử lý từ checkpoint
+2025-04-08 13:42:49,349 - INFO - Bắt đầu xử lý 234 URLs...
+2025-04-08 13:43:32,279 - INFO - Đã tải 252 URL đã xử lý từ checkpoint
+2025-04-08 13:43:32,283 - INFO - Bắt đầu xử lý 502 URLs...
+2025-04-08 13:43:52,336 - INFO - Đã tải 251 URL đã xử lý từ checkpoint
+2025-04-08 13:43:52,337 - INFO - Bắt đầu xử lý 78 URLs...
+2025-04-08 13:44:20,236 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-4-canh-dieu-tuan-6-325823, lần thử 1/3
+2025-04-08 13:52:25,646 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-4-nang-cao-tuan-11-canh-dieu-309391, lần thử 1/3
+2025-04-08 13:54:34,624 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-viet-lop-3-trong-nang-chieu-trang-101-102-canh-dieu-271204, lần thử 1/3
+2025-04-08 13:55:42,695 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-viet-lop-3-nguoi-chay-cuoi-cung-trang-104-105-canh-dieu-271235, lần thử 1/3
+2025-04-08 13:56:24,981 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-viet-lop-3-nguoi-chay-cuoi-cung-trang-104-105-canh-dieu-271235, lần thử 2/3
+2025-04-08 13:58:05,130 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-viet-lop-3-on-chu-viet-hoa-m-n-trang-110-canh-dieu-271269, lần thử 1/3
+2025-04-08 13:59:37,800 - WARNING - Timeout khi truy cập https://vndoc.com/de-thi-giua-ki-1-lop-5-mon-tieng-viet-chan-troi-sang-tao-de-so-1-328874, lần thử 1/3
+2025-04-08 14:00:48,336 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-viet-lop-4-canh-dieu-tuan-22-315470, lần thử 1/3
+2025-04-08 14:09:54,060 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-viet-lop-3-tran-bong-tren-duong-pho-trang-37-38-39-canh-dieu-281512, lần thử 1/3
+2025-04-08 14:11:12,491 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-viet-lop-3-rung-go-quy-trang-45-46-47-canh-dieu-285299, lần thử 1/3
+2025-04-08 14:12:31,937 - INFO - 
+Đã hoàn thành xử lý!
+2025-04-08 14:12:31,937 - INFO - Tất cả các file được lưu trong thư mục 'markdown_files_tv5'
+2025-04-08 14:12:31,937 - INFO - 
+Tóm tắt:
+2025-04-08 14:12:31,937 - INFO - Tổng URL: 78
+2025-04-08 14:12:31,937 - INFO - Xử lý thành công: 78
+2025-04-08 14:12:31,937 - INFO - Thất bại: 0
+2025-04-08 14:12:31,937 - INFO - Danh sách URL thất bại được lưu tại: markdown_files_tv5/failed/failed_urls.json
+2025-04-08 14:14:59,650 - WARNING - Timeout khi truy cập https://vndoc.com/on-tap-giua-hoc-ki-2-tieng-viet-lop-3-trang-60-61-tiet-2-canh-dieu-290302, lần thử 1/3
+2025-04-08 14:18:42,625 - WARNING - Timeout khi truy cập https://vndoc.com/bo-bai-tap-cuoi-tuan-tieng-viet-lop-4-tuan-26-day-du-3-bo-sach-316542, lần thử 1/3
+2025-04-08 14:23:06,315 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-toan-tieng-viet-lop-4-tuan-22-ket-noi-tri-thuc-315477, lần thử 1/3
+2025-04-08 14:26:44,386 - WARNING - Timeout khi truy cập https://vndoc.com/on-tap-hoc-ki-2-tieng-viet-lop-3-trang-119-tiet-4-canh-dieu-291644, lần thử 1/3
+2025-04-08 14:28:08,987 - WARNING - Timeout khi truy cập https://vndoc.com/on-tap-hoc-ki-2-tieng-viet-lop-3-trang-122-tiet-7-canh-dieu-291651, lần thử 1/3
+2025-04-08 14:28:51,308 - WARNING - Timeout khi truy cập https://vndoc.com/doc-mo-rong-lop-4-trang-69-tieng-viet-lop-4-tap-2-ket-noi-tri-thuc-301139, lần thử 1/3
+2025-04-08 14:29:40,765 - WARNING - Timeout khi truy cập https://vndoc.com/on-tap-giua-hoc-ki-2-tieng-viet-lop-4-tiet-1-2-3815, lần thử 1/3
+2025-04-08 14:34:30,911 - WARNING - Timeout khi truy cập https://vndoc.com/bai-11-chuyen-ben-cua-so-vbt-tieng-viet-lop-3-tap-2-ket-noi-tri-thuc-295294, lần thử 1/3
+2025-04-08 14:36:12,708 - WARNING - Timeout khi truy cập https://vndoc.com/giai-vo-bai-tap-tieng-viet-lop-3-tap-2-tuan-27-on-tap-giua-hoc-ki-2-tiet-1-145523, lần thử 1/3
+2025-04-08 14:36:54,551 - WARNING - Timeout khi truy cập https://vndoc.com/giai-vo-bai-tap-tieng-viet-lop-3-tap-2-tuan-27-on-tap-giua-hoc-ki-2-tiet-1-145523, lần thử 2/3
+2025-04-08 14:38:24,482 - WARNING - Timeout khi truy cập https://vndoc.com/bai-20-tieng-nuoc-minh-vbt-tieng-viet-lop-3-tap-2-ket-noi-tri-thuc-295384, lần thử 1/3
+2025-04-08 14:39:17,566 - WARNING - Timeout khi truy cập https://vndoc.com/on-tap-giua-hoc-ki-1-tieng-viet-lop-4-tiet-6-133731, lần thử 1/3
+2025-04-08 14:40:04,016 - WARNING - Timeout khi truy cập https://vndoc.com/on-tap-giua-hoc-ki-2-tieng-viet-lop-4-tiet-1-trang-72-chan-troi-sang-tao-300746, lần thử 1/3
+2025-04-08 14:40:04,109 - WARNING - Timeout khi truy cập https://vndoc.com/bai-25-ngon-lua-o-lim-pich-vbt-tieng-viet-lop-3-tap-2-ket-noi-tri-thuc-295421, lần thử 1/3
+2025-04-08 14:40:48,096 - WARNING - Timeout khi truy cập https://vndoc.com/on-tap-giua-hoc-ki-2-tieng-viet-lop-4-tiet-1-trang-72-chan-troi-sang-tao-300746, lần thử 2/3
+2025-04-08 14:47:15,967 - WARNING - Timeout khi truy cập https://vndoc.com/bai-20-bau-troi-mua-thu-trang-69-vbt-tieng-viet-lop-4-ket-noi-tri-thuc-tap-1-319377, lần thử 1/3
+2025-04-08 14:47:19,596 - WARNING - Timeout khi truy cập https://vndoc.com/giai-bai-3-choi-bong-voi-bo-trang-29-vbt-tieng-viet-lop-3-tap-2-chan-troi-sang-tao-294652, lần thử 1/3
+2025-04-08 14:49:25,859 - WARNING - Timeout khi truy cập https://vndoc.com/bai-27-neu-em-co-mot-khu-vuon-trang-90-vbt-tieng-viet-lop-4-ket-noi-tri-thuc-tap-1-319394, lần thử 1/3
+2025-04-08 14:49:26,408 - WARNING - Timeout khi truy cập https://vndoc.com/giai-on-tap-giua-hoc-ki-2-tiet-3-trang-45-vbt-tieng-viet-lop-3-tap-2-chan-troi-sang-tao-294681, lần thử 1/3
+2025-04-08 14:51:04,182 - WARNING - Timeout khi truy cập https://vndoc.com/bai-32-anh-ba-trang-106-vbt-tieng-viet-lop-4-ket-noi-tri-thuc-tap-1-319412, lần thử 1/3
+2025-04-08 14:53:49,978 - INFO - 
+Đã hoàn thành xử lý!
+2025-04-08 14:53:49,979 - INFO - Tất cả các file được lưu trong thư mục 'markdown_files_tv3'
+2025-04-08 14:53:49,979 - INFO - 
+Tóm tắt:
+2025-04-08 14:53:49,979 - INFO - Tổng URL: 234
+2025-04-08 14:53:49,979 - INFO - Xử lý thành công: 234
+2025-04-08 14:53:49,979 - INFO - Thất bại: 0
+2025-04-08 14:53:49,979 - INFO - Danh sách URL thất bại được lưu tại: markdown_files_tv3/failed/failed_urls.json
+2025-04-08 14:54:10,767 - INFO - Bắt đầu xử lý 203 URLs...
+2025-04-08 14:54:22,509 - INFO - Bắt đầu xử lý 378 URLs...
+2025-04-08 14:54:25,971 - WARNING - Timeout khi truy cập https://vndoc.com/ngua-bien-phong-trang-53-vbt-tieng-viet-lop-4-ket-noi-tri-thuc-tap-2-315169, lần thử 1/3
+2025-04-08 14:55:01,478 - INFO - Bắt đầu xử lý 384 URLs...
+2025-04-08 14:56:44,189 - WARNING - Timeout khi truy cập https://vndoc.com/de-cuong-on-tap-mon-toan-lop-3-hoc-ki-1-116813, lần thử 1/3
+2025-04-08 14:58:30,061 - WARNING - Timeout khi truy cập https://vndoc.com/bo-de-thi-giua-hoc-ki-2-toan-lop-1-ket-noi-tri-thuc-338962, lần thử 1/3
+2025-04-08 14:58:33,668 - WARNING - Timeout khi truy cập https://vndoc.com/de-cuong-on-tap-giua-hoc-ki-2-mon-toan-lop-2-338637, lần thử 1/3
+2025-04-08 14:59:15,660 - WARNING - Timeout khi truy cập https://vndoc.com/de-thi-giua-hoc-ki-2-mon-toan-lop-1-sach-chan-troi-nam-hoc-2020-2021-de-so-1-228043, lần thử 1/3
+2025-04-08 14:59:16,935 - WARNING - Timeout khi truy cập https://vndoc.com/bo-de-thi-giua-hoc-ki-2-toan-lop-2-338760, lần thử 1/3
+2025-04-08 15:00:05,754 - WARNING - Timeout khi truy cập https://vndoc.com/bo-de-thi-toan-lop-3-hoc-ki-2-ket-noi-tri-thuc-293607, lần thử 1/3
+2025-04-08 15:00:07,652 - WARNING - Timeout khi truy cập https://vndoc.com/bo-de-thi-giua-hoc-ki-2-lop-2-mon-toan-ket-noi-tri-thuc-290607, lần thử 1/3
+2025-04-08 15:01:10,622 - WARNING - Timeout khi truy cập https://vndoc.com/de-thi-giua-hoc-ki-2-mon-toan-lop-1-sach-canh-dieu-nam-hoc-2020-2021-de-so-1-227925, lần thử 1/3
+2025-04-08 15:01:53,891 - WARNING - Timeout khi truy cập https://vndoc.com/de-thi-giua-hoc-ki-2-mon-toan-lop-1-sach-canh-dieu-nam-hoc-2020-2021-de-so-1-227925, lần thử 2/3
+2025-04-08 15:02:47,208 - WARNING - Timeout khi truy cập https://vndoc.com/giai-vbt-tieng-viet-lop-4-tu-danh-gia-cay-tre-viet-nam-canh-dieu-303409, lần thử 1/3
+2025-04-08 15:03:52,632 - WARNING - Timeout khi truy cập https://vndoc.com/de-cuong-on-tap-hoc-ki-2-mon-toan-lop-3-chan-troi-sang-tao-318323, lần thử 1/3
+2025-04-08 15:08:46,846 - WARNING - Timeout khi truy cập https://vndoc.com/phieu-bai-tap-cuoi-tuan-lop-2-mon-toan-nang-cao-tuan-2-206130, lần thử 1/3
+2025-04-08 15:09:26,572 - WARNING - Timeout khi truy cập https://vndoc.com/bo-4-de-on-tap-he-lop-3-len-lop-4-mon-toan-sach-chan-troi-sang-tao-300162, lần thử 1/3
+2025-04-08 15:10:38,475 - WARNING - Timeout khi truy cập https://vndoc.com/bai-on-tap-he-lop-1-len-lop-2-mon-toan-203087, lần thử 1/3
+2025-04-08 15:11:09,385 - WARNING - Timeout khi truy cập https://vndoc.com/giai-vbt-tieng-viet-lop-4-bai-doc-1-don-than-mat-troi-canh-dieu-303610, lần thử 1/3
+2025-04-08 15:11:32,752 - WARNING - Timeout khi truy cập https://vndoc.com/de-on-tap-he-lop-1-len-lop-2-mon-toan-nam-2019-2020-de-so-1-202448, lần thử 1/3
+2025-04-08 15:12:47,759 - WARNING - Timeout khi truy cập https://vndoc.com/giai-vbt-tieng-viet-lop-4-luyen-tu-va-cau-luyen-tap-ve-chu-ngu-canh-dieu-303623, lần thử 1/3
+2025-04-08 15:12:48,786 - WARNING - Timeout khi truy cập https://vndoc.com/phieu-bai-tap-cuoi-tuan-lop-2-mon-toan-nang-cao-tuan-12-223367, lần thử 1/3
+2025-04-08 15:13:37,509 - WARNING - Timeout khi truy cập https://vndoc.com/giai-vbt-tieng-viet-lop-4-tu-danh-gia-nghin-thang-thuoc-bo-canh-dieu-303626, lần thử 1/3
+2025-04-08 15:14:20,442 - WARNING - Timeout khi truy cập https://vndoc.com/giai-vbt-tieng-viet-lop-4-tu-danh-gia-nghin-thang-thuoc-bo-canh-dieu-303626, lần thử 2/3
+2025-04-08 15:15:57,252 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-toan-lop-1-chan-troi-sang-tao-tuan-8-326283, lần thử 1/3
+2025-04-08 15:18:12,228 - WARNING - Timeout khi truy cập https://vndoc.com/de-khao-sat-chat-luong-dau-nam-mon-toan-lop-3-nam-hoc-2020-2021-de-so-6-204690, lần thử 1/3
+2025-04-08 15:20:35,883 - WARNING - Timeout khi truy cập https://vndoc.com/de-kiem-tra-cuoi-tuan-toan-lop-2-ket-noi-tri-thuc-tuan-34-nang-cao-319724, lần thử 1/3
+2025-04-08 15:21:00,810 - WARNING - Timeout khi truy cập https://vndoc.com/phieu-bai-tap-cuoi-tuan-lop-1-mon-toan-sach-chan-troi-tuan-22-226877, lần thử 1/3
+2025-04-08 15:22:23,896 - WARNING - Timeout khi truy cập https://vndoc.com/phieu-bai-tap-cuoi-tuan-mon-toan-lop-1-chan-troi-sang-tao-tuan-26-316469, lần thử 1/3
+2025-04-08 15:24:23,539 - WARNING - Timeout khi truy cập https://vndoc.com/phieu-bai-tap-cuoi-tuan-mon-toan-lop-1-chan-troi-sang-tao-tuan-33-319253, lần thử 1/3
+2025-04-08 15:24:29,286 - WARNING - Timeout khi truy cập https://vndoc.com/de-kiem-tra-cuoi-tuan-toan-lop-2-tuan-4-de-2-149555, lần thử 1/3
+2025-04-08 15:25:17,969 - WARNING - Timeout khi truy cập https://vndoc.com/phieu-bai-tap-cuoi-tuan-toan-lop-2-chan-troi-sang-tao-tuan-5-306005, lần thử 1/3
+2025-04-08 15:25:18,253 - WARNING - Timeout khi truy cập https://vndoc.com/giai-vbt-tieng-viet-lop-4-bai-16-tuoi-nho-chi-lon-chia-se-canh-dieu-303839, lần thử 1/3
+2025-04-08 15:25:18,684 - WARNING - Timeout khi truy cập https://vndoc.com/phieu-bai-tap-cuoi-tuan-mon-toan-lop-1-chan-troi-sang-tao-tuan-35-319928, lần thử 1/3
+2025-04-08 15:28:19,654 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-toan-lop-2-chan-troi-sang-tao-tuan-11-309534, lần thử 1/3
+2025-04-08 15:28:37,250 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-toan-lop-1-vi-su-binh-dang-va-dan-chu-tuan-11-330919, lần thử 1/3
+2025-04-08 15:29:33,678 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-toan-lop-1-vi-su-binh-dang-va-dan-chu-tuan-13-332405, lần thử 1/3
+2025-04-08 15:30:05,775 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-toan-lop-2-chan-troi-sang-tao-tuan-14-310626, lần thử 1/3
+2025-04-08 15:32:43,209 - WARNING - Timeout khi truy cập https://vndoc.com/tiet-5-luyen-tap-ve-trang-ngu-trang-85-vbt-tieng-viet-lop-4-tap-2-canh-dieu-315119, lần thử 1/3
+2025-04-08 15:33:22,014 - WARNING - Timeout khi truy cập https://vndoc.com/tiet-6-chu-be-ban-bao-trang-86-vbt-tieng-viet-lop-4-tap-2-canh-dieu-315122, lần thử 1/3
+2025-04-08 15:33:52,118 - WARNING - Timeout khi truy cập https://vndoc.com/de-kiem-tra-cuoi-tuan-toan-lop-2-tuan-25-de-1-151816, lần thử 1/3
+2025-04-08 15:34:51,465 - WARNING - Timeout khi truy cập https://vndoc.com/giai-vbt-tieng-viet-lop-4-bai-3-gieo-ngay-moi-chan-troi-sang-tao-304052, lần thử 1/3
+2025-04-08 15:37:13,549 - WARNING - Timeout khi truy cập https://vndoc.com/giai-vbt-tieng-viet-lop-4-bai-4-than-thuong-xu-vam-chan-troi-sang-tao-304081, lần thử 1/3
+2025-04-08 15:37:16,550 - WARNING - Timeout khi truy cập https://vndoc.com/phieu-bai-tap-cuoi-tuan-lop-3-mon-toan-nang-cao-tuan-27-228711, lần thử 1/3
+2025-04-08 15:37:29,617 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-toan-lop-1-so-10-328498, lần thử 1/3
+2025-04-08 15:38:22,289 - WARNING - Timeout khi truy cập https://vndoc.com/giai-vbt-tieng-viet-lop-4-bai-7-gio-vuon-chan-troi-sang-tao-304090, lần thử 1/3
+2025-04-08 15:39:24,223 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-toan-lop-1-so-sanh-so-328568, lần thử 1/3
+2025-04-08 15:39:25,940 - WARNING - Timeout khi truy cập https://vndoc.com/phieu-bai-tap-cuoi-tuan-lop-3-mon-toan-ket-noi-tuan-31-nang-cao-154710, lần thử 1/3
+2025-04-08 15:40:24,716 - WARNING - Timeout khi truy cập https://vndoc.com/de-kiem-tra-cuoi-tuan-toan-lop-3-tuan-32-de-1-152373, lần thử 1/3
+2025-04-08 15:41:09,718 - WARNING - Timeout khi truy cập https://vndoc.com/phieu-bai-tap-cuoi-tuan-lop-3-mon-toan-ket-noi-tuan-32-nang-cao-318968, lần thử 1/3
+2025-04-08 15:42:10,061 - WARNING - Timeout khi truy cập https://vndoc.com/giai-vbt-tieng-viet-lop-4-bai-8-nhung-mua-hoa-tren-cao-nguyen-da-chan-troi-sang-tao-304126, lần thử 1/3
+2025-04-08 15:43:03,155 - WARNING - Timeout khi truy cập https://vndoc.com/de-thi-toan-lop-1-hoc-ky-2-sach-canh-dieu-de-2-262395, lần thử 1/3
+2025-04-08 15:43:03,904 - WARNING - Timeout khi truy cập https://vndoc.com/giai-vbt-tieng-viet-lop-4-bai-2-cau-be-ham-hoc-hoi-chan-troi-sang-tao-304131, lần thử 1/3
+2025-04-08 15:45:03,381 - WARNING - Timeout khi truy cập https://vndoc.com/giai-toan-lop-1-trang-18-19-hinh-tron-hinh-tam-giac-hinh-vuong-hinh-chu-nhat-sach-chan-troi-sang-tao-235080, lần thử 1/3
+2025-04-08 15:45:29,000 - WARNING - Timeout khi truy cập https://vndoc.com/de-kiem-tra-cuoi-tuan-toan-lop-2-tuan-18-de-1-226254, lần thử 1/3
+2025-04-08 15:45:59,805 - WARNING - Timeout khi truy cập https://vndoc.com/bai-8-ve-lai-go-cong-trang-47-vbt-tieng-viet-lop-4-tap-2-chan-troi-sang-tao-315198, lần thử 1/3
+2025-04-08 15:46:42,159 - WARNING - Timeout khi truy cập https://vndoc.com/bai-8-ve-lai-go-cong-trang-47-vbt-tieng-viet-lop-4-tap-2-chan-troi-sang-tao-315198, lần thử 2/3
+2025-04-08 15:48:45,411 - WARNING - Timeout khi truy cập https://vndoc.com/bai-3-tu-cu-ba-trang-67-vbt-tieng-viet-lop-4-tap-2-chan-troi-sang-tao-315205, lần thử 1/3
+2025-04-08 15:49:54,438 - WARNING - Timeout khi truy cập https://vndoc.com/de-kiem-tra-cuoi-tuan-toan-lop-2-tuan-34-de-1-152564, lần thử 1/3
+2025-04-08 15:50:15,857 - WARNING - Timeout khi truy cập https://vndoc.com/phieu-bai-tap-cuoi-tuan-lop-3-mon-toan-nang-cao-tuan-23-227267, lần thử 1/3
+2025-04-08 15:50:24,017 - WARNING - Timeout khi truy cập https://vndoc.com/bai-8-ki-dieu-ma-roc-trang-84-vbt-tieng-viet-lop-4-tap-2-chan-troi-sang-tao-315217, lần thử 1/3
+2025-04-08 15:51:14,780 - WARNING - Timeout khi truy cập https://vndoc.com/bai-1-ca-heo-o-bien-truong-sa-trang-87-vbt-tieng-viet-lop-4-tap-2-chan-troi-sang-tao-315218, lần thử 1/3
+2025-04-08 15:52:24,313 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-toan-lop-3-canh-dieu-tuan-31-297079, lần thử 1/3
+2025-04-08 15:55:55,645 - WARNING - Timeout khi truy cập https://vndoc.com/giao-an-stem-lop-1-thuc-hanh-cung-the-hoc-toan-335058, lần thử 1/3
+2025-04-08 15:56:33,040 - INFO - 
+Đã hoàn thành xử lý!
+2025-04-08 15:56:33,040 - INFO - Tất cả các file được lưu trong thư mục 'markdown_files_toan1'
+2025-04-08 15:56:33,040 - INFO - 
+Tóm tắt:
+2025-04-08 15:56:33,040 - INFO - Tổng URL: 203
+2025-04-08 15:56:33,040 - INFO - Xử lý thành công: 203
+2025-04-08 15:56:33,040 - INFO - Thất bại: 0
+2025-04-08 15:56:33,040 - INFO - Danh sách URL thất bại được lưu tại: markdown_files_toan1/failed/failed_urls.json
+2025-04-08 15:56:49,111 - WARNING - Timeout khi truy cập https://vndoc.com/de-thi-giua-hoc-ki-1-mon-tieng-viet-lop-4-nam-2019-2020-184653, lần thử 1/3
+2025-04-08 19:36:55,630 - INFO - Đã tải 203 URL đã xử lý từ checkpoint
+2025-04-08 19:36:55,631 - INFO - Tất cả các URL đã được xử lý!
+2025-04-08 19:37:00,065 - INFO - Đã tải 233 URL đã xử lý từ checkpoint
+2025-04-08 19:37:00,065 - INFO - Bắt đầu xử lý 144 URLs...
+2025-04-08 19:57:55,292 - INFO - 
+Đã hoàn thành xử lý!
+2025-04-08 19:57:55,292 - INFO - Tất cả các file được lưu trong thư mục 'markdown_files_toan2'
+2025-04-08 19:57:55,292 - INFO - 
+Tóm tắt:
+2025-04-08 19:57:55,292 - INFO - Tổng URL: 144
+2025-04-08 19:57:55,292 - INFO - Xử lý thành công: 144
+2025-04-08 19:57:55,292 - INFO - Thất bại: 0
+2025-04-08 19:57:55,292 - INFO - Danh sách URL thất bại được lưu tại: markdown_files_toan2/failed/failed_urls.json
+2025-04-08 19:59:02,979 - INFO - Đã tải 244 URL đã xử lý từ checkpoint
+2025-04-08 19:59:02,979 - INFO - Bắt đầu xử lý 140 URLs...
+2025-04-08 20:00:31,451 - WARNING - Timeout khi truy cập https://vndoc.com/de-kiem-tra-cuoi-tuan-toan-lop-3-tuan-10-de-2-151989, lần thử 1/3
+2025-04-08 20:07:37,316 - INFO - Đã tải 377 URL đã xử lý từ checkpoint
+2025-04-08 20:07:37,316 - INFO - Tất cả các URL đã được xử lý!
+2025-04-08 20:07:40,605 - INFO - Đã tải 284 URL đã xử lý từ checkpoint
+2025-04-08 20:07:40,605 - INFO - Bắt đầu xử lý 100 URLs...
+2025-04-08 20:08:18,749 - INFO - Bắt đầu xử lý 911 URLs...
+2025-04-08 20:08:42,710 - INFO - Bắt đầu xử lý 785 URLs...
+2025-04-08 20:13:47,166 - WARNING - Timeout khi truy cập https://vndoc.com/de-thi-giua-ki-2-mon-toan-lop-5-chan-troi-sang-tao-de-4-335315, lần thử 1/3
+2025-04-08 20:14:50,244 - WARNING - Timeout khi truy cập https://vndoc.com/de-thi-giua-ki-2-mon-toan-lop-5-chan-troi-sang-tao-de-7-335300, lần thử 1/3
+2025-04-08 20:14:59,726 - WARNING - Timeout khi truy cập https://vndoc.com/bo-de-thi-giua-hoc-ki-2-mon-toan-lop-4-165167, lần thử 1/3
+2025-04-08 20:15:00,100 - WARNING - Timeout khi truy cập https://vndoc.com/vo-bai-tap-toan-lop-3-canh-dieu-bai-24-luyen-tap-trang-50-51-307530, lần thử 1/3
+2025-04-08 20:15:32,197 - WARNING - Timeout khi truy cập https://vndoc.com/de-thi-giua-ki-2-mon-toan-lop-5-chan-troi-sang-tao-de-7-335300, lần thử 2/3
+2025-04-08 20:15:41,544 - WARNING - Timeout khi truy cập https://vndoc.com/bo-de-thi-giua-hoc-ki-2-mon-toan-lop-4-165167, lần thử 2/3
+2025-04-08 20:15:41,624 - WARNING - Timeout khi truy cập https://vndoc.com/vo-bai-tap-toan-lop-3-canh-dieu-bai-24-luyen-tap-trang-50-51-307530, lần thử 2/3
+2025-04-08 20:18:29,655 - WARNING - Timeout khi truy cập https://vndoc.com/bo-de-thi-giua-ki-2-mon-toan-lop-4-sach-chan-troi-sang-tao-316011, lần thử 1/3
+2025-04-08 20:18:30,034 - WARNING - Timeout khi truy cập https://vndoc.com/vo-bai-tap-toan-lop-3-bai-53-chu-vi-hinh-chu-nhat-chu-vi-hinh-vuong-311468, lần thử 1/3
+2025-04-08 20:19:48,314 - INFO - Bắt đầu xử lý 46 URLs...
+2025-04-08 20:20:02,976 - WARNING - Timeout khi truy cập https://vndoc.com/vo-bai-tap-toan-lop-3-trang-11-cong-nham-tru-nham-chan-troi-sang-tao-304236, lần thử 1/3
+2025-04-08 20:20:58,026 - WARNING - Timeout khi truy cập https://vndoc.com/vo-bai-tap-toan-lop-3-trang-13-tim-so-bi-tru-tim-so-tru-chan-troi-sang-tao-304687, lần thử 1/3
+2025-04-08 20:21:42,960 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7bbf21f6e6e0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/c16e1a317b7ff30c920273f657e773ea/element
+2025-04-08 20:21:42,961 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7bbf21f6e9e0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/c16e1a317b7ff30c920273f657e773ea/element
+2025-04-08 20:21:42,961 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7bbf21f6ead0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/c16e1a317b7ff30c920273f657e773ea/element
+2025-04-08 20:21:42,963 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7bbf23276590>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/c16e1a317b7ff30c920273f657e773ea/element
+2025-04-08 20:21:42,963 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7bbf21855270>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/c16e1a317b7ff30c920273f657e773ea/element
+2025-04-08 20:21:42,963 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7bbf21854eb0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/c16e1a317b7ff30c920273f657e773ea/element
+2025-04-08 20:21:42,964 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7bbf21f6f580>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/c16e1a317b7ff30c920273f657e773ea/element
+2025-04-08 20:21:42,964 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7bbf21f6e7a0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/c16e1a317b7ff30c920273f657e773ea/element
+2025-04-08 20:21:42,965 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7bbf21f6f850>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/c16e1a317b7ff30c920273f657e773ea/element
+2025-04-08 20:21:42,965 - ERROR - Lỗi khi xử lý https://vndoc.com/de-thi-hoc-ki-2-lop-4-mon-toan-chan-troi-sang-tao: HTTPConnectionPool(host='localhost', port=39345): Max retries exceeded with url: /session/c16e1a317b7ff30c920273f657e773ea/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7bbf21f6ddb0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-08 20:21:42,966 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7bbf21f6eb30>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/c16e1a317b7ff30c920273f657e773ea
+2025-04-08 20:21:42,966 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7bbf21f6df60>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/c16e1a317b7ff30c920273f657e773ea
+2025-04-08 20:21:42,966 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7bbf21f6df30>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/c16e1a317b7ff30c920273f657e773ea
+2025-04-08 20:21:44,458 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/6adfcfd03ca8a599c5c8286d3d8eb45c
+2025-04-08 20:21:44,458 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7bbf23276920>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/6adfcfd03ca8a599c5c8286d3d8eb45c
+2025-04-08 20:21:44,459 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7bbf23276770>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/6adfcfd03ca8a599c5c8286d3d8eb45c
+2025-04-08 20:21:46,707 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /session/59009f7e8bde2d10eccba559db8dc848
+2025-04-08 20:21:46,708 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7d0bc1ea5960>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/59009f7e8bde2d10eccba559db8dc848
+2025-04-08 20:21:46,708 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7d0bc1ea5870>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/59009f7e8bde2d10eccba559db8dc848
+2025-04-08 20:22:00,700 - INFO - Bắt đầu xử lý 55 URLs...
+2025-04-08 20:22:07,001 - INFO - Bắt đầu xử lý 67 URLs...
+2025-04-08 20:22:28,163 - INFO - Bắt đầu xử lý 149 URLs...
+2025-04-08 20:22:59,193 - INFO - Bắt đầu xử lý 342 URLs...
+2025-04-08 20:25:49,816 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-on-he-tieng-anh-lop-5-len-lop-6-so-2-232952, lần thử 1/3
+2025-04-08 20:26:06,599 - WARNING - Timeout khi truy cập https://vndoc.com/de-thi-tieng-anh-lop-2-hoc-ki-1-i-learn-smart-start-nam-2020-224562, lần thử 1/3
+2025-04-08 20:26:50,330 - WARNING - Timeout khi truy cập https://vndoc.com/de-thi-tieng-anh-lop-2-hoc-ki-1-i-learn-smart-start-nam-2020-224562, lần thử 2/3
+2025-04-08 20:27:12,597 - WARNING - Timeout khi truy cập https://vndoc.com/bo-de-thi-tieng-anh-lop-4-hoc-ki-2-family-and-friends-295970, lần thử 1/3
+2025-04-08 20:30:05,067 - WARNING - Timeout khi truy cập https://vndoc.com/de-thi-hoc-ki-2-tieng-anh-lop-3-family-and-friends-so-3-339170, lần thử 1/3
+2025-04-08 20:32:17,962 - WARNING - Timeout khi truy cập https://vndoc.com/bai-tap-cuoi-tuan-tieng-anh-lop-4-family-and-friends-tuan-13-309835, lần thử 1/3
+2025-04-08 20:34:27,524 - WARNING - Timeout khi truy cập https://vndoc.com/de-thi-tieng-anh-lop-1-hoc-ky-2-i-learn-smart-start-nam-2021-so-2-230801, lần thử 1/3
+2025-04-08 20:34:28,525 - WARNING - Timeout khi truy cập https://vndoc.com/de-thi-tieng-anh-lop-2-hoc-ki-2-sach-canh-dieu-so-2-262856, lần thử 1/3
+2025-04-08 20:35:12,530 - WARNING - Timeout khi truy cập https://vndoc.com/de-thi-tieng-anh-lop-2-hoc-ki-2-sach-canh-dieu-so-2-262856, lần thử 2/3
+2025-04-08 20:36:27,744 - WARNING - Timeout khi truy cập https://vndoc.com/bai-on-tap-o-nha-trong-thoi-gian-nghi-dich-mon-tieng-anh-lop-5-194053, lần thử 1/3
+2025-04-08 20:36:28,467 - WARNING - Timeout khi truy cập https://vndoc.com/de-thi-tieng-anh-lop-2-hoc-ki-2-smart-start-so-1-262428, lần thử 1/3
+2025-04-08 20:36:41,097 - INFO - 
+Đã hoàn thành xử lý!
+2025-04-08 20:36:41,099 - INFO - Tất cả các file được lưu trong thư mục 'markdown_files_toan3'
+2025-04-08 20:36:41,100 - INFO - 
+Tóm tắt:
+2025-04-08 20:36:41,100 - INFO - Tổng URL: 100
+2025-04-08 20:36:41,101 - INFO - Xử lý thành công: 100
+2025-04-08 20:36:41,101 - INFO - Thất bại: 0
+2025-04-08 20:36:41,101 - INFO - Danh sách URL thất bại được lưu tại: markdown_files_toan3/failed/failed_urls.json
+2025-04-08 20:38:31,572 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-anh-lop-3-fluency-time-4-lesson-1-339754, lần thử 1/3
+2025-04-08 20:38:33,312 - INFO - 
+Đã hoàn thành xử lý!
+2025-04-08 20:38:33,313 - INFO - Tất cả các file được lưu trong thư mục 'markdown_files_ta2'
+2025-04-08 20:38:33,313 - INFO - 
+Tóm tắt:
+2025-04-08 20:38:33,313 - INFO - Tổng URL: 55
+2025-04-08 20:38:33,313 - INFO - Xử lý thành công: 55
+2025-04-08 20:38:33,313 - INFO - Thất bại: 0
+2025-04-08 20:38:33,313 - INFO - Danh sách URL thất bại được lưu tại: markdown_files_ta2/failed/failed_urls.json
+2025-04-08 20:38:58,002 - INFO - 
+Đã hoàn thành xử lý!
+2025-04-08 20:38:58,002 - INFO - Tất cả các file được lưu trong thư mục 'markdown_files_ta1'
+2025-04-08 20:38:58,002 - INFO - 
+Tóm tắt:
+2025-04-08 20:38:58,002 - INFO - Tổng URL: 46
+2025-04-08 20:38:58,002 - INFO - Xử lý thành công: 46
+2025-04-08 20:38:58,002 - INFO - Thất bại: 0
+2025-04-08 20:38:58,002 - INFO - Danh sách URL thất bại được lưu tại: markdown_files_ta1/failed/failed_urls.json
+2025-04-08 20:39:47,487 - INFO - 
+Đã hoàn thành xử lý!
+2025-04-08 20:39:47,487 - INFO - Tất cả các file được lưu trong thư mục 'markdown_files_ta3'
+2025-04-08 20:39:47,487 - INFO - 
+Tóm tắt:
+2025-04-08 20:39:47,487 - INFO - Tổng URL: 67
+2025-04-08 20:39:47,487 - INFO - Xử lý thành công: 67
+2025-04-08 20:39:47,487 - INFO - Thất bại: 0
+2025-04-08 20:39:47,487 - INFO - Danh sách URL thất bại được lưu tại: markdown_files_ta3/failed/failed_urls.json
+2025-04-08 20:46:28,021 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-anh-lop-5-global-success-unit-1-lesson-1-319710, lần thử 1/3
+2025-04-08 20:50:57,440 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-anh-lop-4-fluency-time-4-trang-96-family-and-friends-314310, lần thử 1/3
+2025-04-08 20:51:21,383 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-anh-lop-5-global-success-unit-7-lesson-2-320501, lần thử 1/3
+2025-04-08 20:52:07,136 - WARNING - Timeout khi truy cập https://vndoc.com/de-cuong-giua-ki-1-tieng-anh-lop-4-global-success-330698, lần thử 1/3
+2025-04-08 20:54:40,777 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-anh-lop-5-unit-11-lesson-3-trang-10-11-global-success-333525, lần thử 1/3
+2025-04-08 20:57:21,596 - INFO - 
+Đã hoàn thành xử lý!
+2025-04-08 20:57:21,596 - INFO - Tất cả các file được lưu trong thư mục 'markdown_files_ta4'
+2025-04-08 20:57:21,596 - INFO - 
+Tóm tắt:
+2025-04-08 20:57:21,596 - INFO - Tổng URL: 149
+2025-04-08 20:57:21,596 - INFO - Xử lý thành công: 149
+2025-04-08 20:57:21,596 - INFO - Thất bại: 0
+2025-04-08 20:57:21,596 - INFO - Danh sách URL thất bại được lưu tại: markdown_files_ta4/failed/failed_urls.json
+2025-04-08 20:57:49,379 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-anh-lop-5-unit-16-lesson-1-trang-40-41-global-success-337504, lần thử 1/3
+2025-04-08 21:00:34,022 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-anh-lop-5-unit-19-lesson-2-trang-60-61-global-success-337753, lần thử 1/3
+2025-04-08 21:07:05,107 - WARNING - Timeout khi truy cập https://vndoc.com/tieng-anh-lop-5-unit-4-lesson-2-i-learn-smart-start-322257, lần thử 1/3
+2025-04-08 21:18:30,821 - INFO - Đã tải 139 URL đã xử lý từ checkpoint
+2025-04-08 21:18:30,821 - INFO - Tất cả các URL đã được xử lý!
+2025-04-08 21:18:35,113 - INFO - Đã tải 258 URL đã xử lý từ checkpoint
+2025-04-08 21:18:35,113 - INFO - Bắt đầu xử lý 79 URLs...
+2025-04-08 21:34:07,917 - WARNING - Timeout khi truy cập https://vndoc.com/de-on-thi-hoc-ki-2-lop-5-mon-tieng-anh-theo-chuong-trinh-family-and-friends-co-dap-an-144027, lần thử 1/3
+2025-04-08 21:34:46,487 - WARNING - Timeout khi truy cập https://vndoc.com/de-thi-tieng-anh-lop-5-cuoi-hoc-ki-2-de-5-202148, lần thử 1/3
+2025-04-08 21:34:50,376 - WARNING - Timeout khi truy cập https://vndoc.com/de-thi-tieng-anh-lop-5-hoc-ki-2-family-and-friends-so-2-294185, lần thử 1/3
+2025-04-08 21:35:28,823 - WARNING - Timeout khi truy cập https://vndoc.com/de-thi-tieng-anh-lop-5-cuoi-hoc-ki-2-de-5-202148, lần thử 2/3
+2025-04-08 21:35:32,059 - WARNING - Timeout khi truy cập https://vndoc.com/de-thi-tieng-anh-lop-5-hoc-ki-2-family-and-friends-so-2-294185, lần thử 2/3
+2025-04-08 21:38:10,683 - INFO - 
+Đã hoàn thành xử lý!
+2025-04-08 21:38:10,683 - INFO - Tất cả các file được lưu trong thư mục 'markdown_files_ta5'
+2025-04-08 21:38:10,683 - INFO - 
+Tóm tắt:
+2025-04-08 21:38:10,683 - INFO - Tổng URL: 79
+2025-04-08 21:38:10,683 - INFO - Xử lý thành công: 79
+2025-04-08 21:38:10,683 - INFO - Thất bại: 0
+2025-04-08 21:38:10,683 - INFO - Danh sách URL thất bại được lưu tại: markdown_files_ta5/failed/failed_urls.json
+2025-04-08 21:38:42,093 - INFO - 
+Đã hoàn thành xử lý!
+2025-04-08 21:38:42,093 - INFO - Tất cả các file được lưu trong thư mục 'markdown_files_ta5'
+2025-04-08 21:38:42,093 - INFO - 
+Tóm tắt:
+2025-04-08 21:38:42,093 - INFO - Tổng URL: 342
+2025-04-08 21:38:42,093 - INFO - Xử lý thành công: 342
+2025-04-08 21:38:42,093 - INFO - Thất bại: 0
+2025-04-08 21:38:42,093 - INFO - Danh sách URL thất bại được lưu tại: markdown_files_ta5/failed/failed_urls.json

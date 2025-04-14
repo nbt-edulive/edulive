@@ -1,0 +1,54 @@
+---
+url: https://vndoc.com/ke-lai-mot-hoat-dong-nang-cao-y-thuc-cong-dong-lop-8-ke-lai-mot-hoat-dong-xa-hoi-lop-8-303244
+title: Kể lại một hoạt động nâng cao ý thức cộng đồng lớp 8 | Kể lại một hoạt động xã hội lớp 8 - VnDoc.com
+date_extracted: 2025-04-14 13:24:49
+description: Kể lại một hoạt động nâng cao ý thức cộng đồng lớp 8 được biên soạn nhằm giúp các em HS đạt kết quả tốt trong quá trình làm bài tập và học tập môn Ngữ văn lớp 8.
+keywords: Kể lại hoạt động nâng cao ý thức cộng đồng lớp 8,Kể lại một hoạt động nâng cao ý thức cộng đồng lớp 8,Viết bài văn kể lại một hoạt động nâng cao ý thức cộng đồng lớp 8,Kể lại một hoạt động xã hội lớp 8,Dàn ý Kể lại một hoạt động xã hội lớp 8,Bài văn Kể lại một hoạt động xã hội lớp 8,Viết bài văn Kể lại một hoạt động xã hội lớp 8,Văn mẫu lớp 8
+---
+
+# Kể lại một hoạt động nâng cao ý thức cộng đồng lớp 8 | Kể lại một hoạt động xã hội lớp 8
+## **Viết bài văn kể lại một hoạt động nâng cao ý thức cộng đồng lớp 8**
+  * 1\. Kể lại một hoạt động nâng cao ý thức cộng đồng lớp 8 Mẫu 1
+  * 2\. Kể lại một hoạt động nâng cao ý thức cộng đồng lớp 8 mẫu 2
+  * 3\. Viết bài văn kể lại một hoạt động xã hội lớp 8 Hay Nhất
+  * 4\. Viết bài văn kể lại một hoạt động xã hội Ngắn nhất lớp 8
+
+**[Viết bài văn kể lại một hoạt động nâng cao ý thức cộng đồng lớp 8](<https://vndoc.com/ke-lai-mot-hoat-dong-nang-cao-y-thuc-cong-dong-lop-8-ke-lai-mot-hoat-dong-xa-hoi-lop-8-303244>) **với các bài văn mẫu hay và đa dạng sẽ giúp các em có thêm tài liệu tham khảo, để học tập tốt môn Ngữ văn 8.
+**Bản quyền thuộc về VnDoc  
+Nghiêm cấm sao chép dưới mọi hình thức\!**
+## **1\. Kể lại một hoạt động nâng cao ý thức cộng đồng lớp 8 Mẫu 1**
+Ngày hôm qua, em đã cùng các bạn trong Câu lạc bộ tham gia hoạt động tuyên truyền về An toàn giao thông cho các bạn học sinh trong giờ Chào cờ đầu tuần.
+Để chuẩn bị cho hoạt động này, chúng em đã cùng nhau họp bàn để lên kế hoạch về cách truyền tải các thông điệp về an toàn giao thông sao cho thật gần gũi và dễ hiểu. Cuối cùng, chúng em thống nhất về phương án sử dụng các video tổng hợp về những tai nạn giao thông thương tâm trong thời gian vừa qua trên địa bàn thành phố. Cùng với đó là các tiểu phẩm ngắn do những thành viên trong câu lạc bộ chuẩn bị. Theo kế hoạch đó, chúng em cùng nhau tập luyện, sửa soạn các video, kịch bản suốt hơn hai tuần liền. Và đến ngày hôm qua, chương trình tuyên truyền của câu lạc bộ đã được diễn ra ngay trên sân chào cờ của trường.
+Sau phần giới thiệu của trưởng câu lạc bộ, chương trình bắt đầu diền ra. Khi màn hình chiếu lại những số liệu đã thống kê được về tai nạn giao thông ở lứa tuổi vị thành niên, sân trường im phăng phắc. Có lẽ các bạn học sinh đã phần nào hiểu được sự nghiêm trọng từ các hành động vẫn xem là bình thường: như không đội mũ bảo hiểm, vượt đèn đỏ, đèo ba đèo bốn, thả tay lái khi chạy xe… Thừa thắng xông lên, chúng em bắt đầu biểu diễn các tiểu phẩm để hướng dẫn những điều nên và không nên làm khi tham gia giao thông. Em đã đóng vai một bạn học sinh không đội mũ bảo hiểm, lại còn chạy nhanh, vượt đèn đỏ dẫn đến ngã xuống ruộng. Lúc giả vỡ ngã xuống, tay của em đã chạm vào nền xi măng rất đau, nhưng em vẫn cố găng ngồi dậy, tiếp tục diễn nốt tiểu phẩm. Tràng vỗ tay của các bạn học sinh ở dưới khán đài đã khiến cho em rất hạnh phúc, đến quên cả cơn đau ở khuỷu tay.
+Những tiểu phẩm phía sau đều diễn ra trong sự hưởng ứng của toàn thể mọi người. Mỗi khi một tiểu phẩm kết thúc, MC sẽ đặt câu hỏi về bài học rút ra cho khán giả. Lúc ấy, em rất lo lắng, vì sợ các bạn sẽ không quan tâm, chẳng muốn trả lời. Nhưng không ngờ là các bạn lại rất nhiệt tình giơ tay xin trả lời. Bầu không khí xôn xao, rạo rực ấy khiến em vui và xúc động lắm.
+Sau khi kết thúc chương trình tuyên truyền, toàn bộ các thành viên đã có mặt ở sân khấu để cùng cúi chào khán giả, thầy cô. Đến chiều, khi ra về, em cảm giác như hôm nay các bạn đều đi đứng chậm rãi hơn. Bạn nào cũng nghiêm túc đội mũ bảo hiểm, đi theo sự hướng dẫn của bác bảo vệ. Niềm vui sướng và tự hào cứ thế len lỏi khắp trong lồng ngực em. Có lẽ sự thay đổi ấy chính là hiệu quả đến từ buổi tuyên truyền sáng nay của câu lạc bộ chúng em chăng\!
+![Viết bài văn kể lại một hoạt động nâng cao ý thức cộng đồng lớp 8](https://i.vdoc.vn/data/image/2023/12/01/ke-lai-mot-hoat-dong-nang-cao-y-thuc-cong-dong-lop-8-ke-lai-mot-hoat-dong-xa-hoi-lop-8-h1.jpg)
+## **2.** **Kể lại một hoạt động nâng cao ý thức cộng đồng lớp 8 mẫu 2**
+Ma túy là một tệ nạn độc hại của xã hội, gây nên nhiều bi kịch cho các gia đình. Chính vì vậy, hoạt động phòng chống ma túy luôn được ưu tiên quan tâm hàng đầu trong xã hội. Môi trường học đường cũng không nằm ngoài vòng quay đó. Em đã được góp sức mình vào công cuộc phòng chống ma túy, bằng cách tham gia vào ngày hội “Nói không với ma túy” do nhà trường tổ chức.
+Ngày hội “Nói không với ma túy” là sự kiện do đoàn trường em phối hợp với ủy ban nhân dân xã Kiến Hưng cùng tổ chức. Hoạt động này diễn ra trong tháng kỉ niệm 60 năm thành lập trường em, nên được tổ chức rất công phu. Với tinh thần phổ biến cho các bạn học sinh về tác hại của ma túy, từ đó nói không với việc sử dụng, tàng trữ, vận chuyển ma túy ngay từ khi còn là học sinh ngồi trên ghế nhà trường.
+Đúng 8h sáng, ngày hội bắt đầu diễn ra ở Hội trường chính của trường em - nơi vẫn diễn ra các buổi lễ lớn quan trọng nhất của trường. Trên sân khấu là một tấm poster cỡ lớn với hình ảnh những chiếc kim tiêm, ma túy bị đánh dấu X rất to. Cùng với đó là hàng chữ “Hãy nói KHÔNG với ma túy” màu đỏ nối bật. Góc trái sân khấu, là bục phát biểu có sẵn Mic và nước khoáng. Dưới khán đài, từng hàng ghế xếp thẳng hàng cho chúng em cùng tham gia hoạt động. Riêng hai hàng ghế đầu tiên có bàn, đó chính là dãy ghế dành cho các khách mời và thầy cô trong nhà trường. Theo hướng dẫn của thầy, chúng em nhanh chóng ổn định chỗ ngồi để bắt đầu hoạt động.
+8h30, hội trường ổn định, chính thức bắt đầu chương trình. Đầu tiên là phần chào cờ và hát quốc ca. Tất cả mọi người đều đứng dậy, nghiêm túc làm lễ chào cờ. Khi hát quốc ca, chúng em ai cũng cố gắng hát thật to và rõ ràng để thể hiện lòng tự hào của mình. Tiếp theo đó, là phần phát biểu của thầy hiệu phó về lý do tổ chức ngày hội hôm nay, cùng với đó là mong muốn của thầy về ý nghĩa của ngày hội này với toàn thể học sinh trong nhà trường. Tiếp theo, cô giáo dẫn chương trình bắt đầu giới thiệu về các nội dung trong ngày hội hôm nay. Phần đầu tiên là phần chương trình văn nghệ với nội dung phòng chống ma túy ở hội trường. Phần tiếp theo là triển lãm tranh ảnh được trưng bày trên sân trường.
+Theo đó, sau khi lắng nghe những bài phát biểu của các thầy cô và khách mời về tác hại của ma túy. Chúng em được xem các tiểu phẩm rất hay và ý nghĩa. Các bạn học sinh vào vai rất chuyên nghiệp và nhiệt tình, cố gắng truyền tải nội dung một cách rõ ràng nhất cho người xem. Em ấn tượng nhất là vở kịch của lớp 9A, về một gia đình bị ma túy khiến cho tan nát. Hình ảnh người con bật khóc nức nở khi bố mình bị đưa đi cai nghiện thật ám ảnh và tội nghiệp. Kết thúc mỗi vở kịch, các lớp đều đưa ra các thông điệp vô cùng ý nghĩa, đúng với tinh thần của hoạt động “Hãy nói không với ma túy”. Sau khi kết thúc chương trình văn nghệ, chúng em cùng nhau di chuyển ra sân trường.
+Ở đó đã có sẵn rất nhiều tấm bảng với các hình ảnh, bài báo về chủ đề ma túy. Em và các bạn chăm chú đi qua từng khu trưng bày để đọc và xem hết các nội dung. Nhờ vậy, chúng em hiểu hơn về các loại ma túy và cách chúng được ngụy trang trong cuộc sống. Những bức ảnh về kẻ nghiện ma túy khiến chúng em rất ám ảnh và sợ hãi. Chính điều đó khiến chúng em đều quyết tâm nói không với ma túy.
+Kết thúc ngày hội, em rất vui vì đã biết thêm nhiều kiến thức bổ ích. Đồng thời, các học sinh trong toàn trường cũng đã nâng cao thêm hiểu biết và ý thức phòng chống ma túy. Em tin rằng, sau khi ngày hội “Nói không với ma túy” diễn ra, môi trường học đường sẽ trở nên trong sạch và vững mạnh hơn trước.
+## **3\. Viết bài văn kể lại một hoạt động xã hội lớp 8 Hay Nhất**
+Tham khảo các bài văn mẫu hay và đa dạng về nội dung tại đây: [Viết bài văn kể lại một hoạt động xã hội lớp 8](<https://vndoc.com/viet-bai-van-ke-lai-mot-hoat-dong-xa-hoi-lop-8-303237>)
+## **4\. Viết bài văn kể lại một hoạt động xã hội Ngắn nhất lớp 8**
+Tham khảo các bài văn mẫu ngắn gọn và hay nhất tại đây: [Viết bài văn kể lại một hoạt động xã hội Ngắn gọn](<https://vndoc.com/viet-bai-van-ke-lai-mot-hoat-dong-xa-hoi-ngan-gon-lop-8-303238>)
+\-----------------------------------------------------------------------------------
+Ngoài ra, mời các em tham khảo thêm các tài liệu [ Ngữ văn lớp 8 Sách mới ](<https://vndoc.com/ngu-van-lop8>) khác do đội ngũ giáo viên VnDoc biên soạn, cùng các bài soạn văn chi tiết nhất tại [ Soạn Văn 8 Cánh Diều ](<https://vndoc.com/ngu-van-8-canh-dieu>) , [ Soạn Văn 8 Kết nối tri thức ](<https://vndoc.com/ngu-van-8-ket-noi-tri-thuc>) , [ Soạn Văn 8 Siêu ngắn Chân trời sáng tạo ](<https://vndoc.com/soan-van-8-sieu-ngan>) . Chúc các em học tập tốt\!
+Xem thêm các bài Tìm bài trong mục này khác:
+  * [Kể lại một hoạt động giáo dục truyền thống và lịch sử](</ke-lai-mot-hoat-dong-giao-duc-truyen-thong-va-lich-su-lop-8-ke-lai-mot-hoat-dong-xa-hoi-lop-8-303245>)
+  * [Kể lại một hoạt động bảo vệ thiên nhiên, môi trường](</ke-lai-mot-hoat-dong-bao-ve-thien-nhien-moi-truong-lop-8-ke-lai-mot-hoat-dong-xa-hoi-lop-8-303246>)
+  * [Kể lại một hoạt động bảo vệ, phát huy giá trị văn hóa, lịch sử của địa phương](</ke-lai-mot-hoat-dong-bao-ve-phat-huy-gia-tri-van-hoa-lich-su-cua-dia-phuong-lop-8-303247>)
+  * [Kể lại một hoạt động thể hiện tình yêu quê hương, đất nước](</ke-lai-mot-hoat-dong-the-hien-tinh-yeu-que-huong-dat-nuoc-lop-8-ke-lai-mot-hoat-dong-xa-hoi-lop-8-303248>)
+  * [Viết bài văn kể lại một chuyến đi tham quan](</van-mau-lop-8-ke-ve-mot-chuyen-du-lich-dang-nho-cua-em-114396>)
+  * [Viết bài văn kể lại một chuyến đi tham quan Ngắn gọn](</ke-ve-mot-cuoc-di-tham-di-tich-lich-su-136405>)
+  * [Kể lại một chuyến đi tham quan một di tích lịch sử văn hóa Lăng Bác](</viet-bai-van-ke-lai-mot-chuyen-di-tham-quan-mot-di-tich-lich-su-van-hoa-lang-bac-308598>)
+  * [Kể lại một chuyến đi tham quan một di tích lịch sử văn hóa Quê Bác](</viet-bai-van-ve-que-noi-cua-bac-ho-169294>)
+  * [Kể lại một chuyến đi tham quan một di tích lịch sử văn hóa Văn Miếu](</viet-bai-van-ke-lai-mot-chuyen-di-tham-quan-mot-di-tich-lich-su-van-hoa-van-mieu-308599>)
+  * [Kể lại một chuyến đi tham quan một di tích lịch sử Ngã ba Đồng Lộc](</ke-ve-chuyen-di-tham-quan-di-tich-lich-su-nga-ba-dong-loc-lop-8-308604>)
+  * [Kể lại một chuyến đi tham quan một di tích lịch sử văn hóa Đền Hùng](</viet-bai-van-ke-lai-mot-chuyen-di-tham-quan-mot-di-tich-lich-su-van-hoa-den-hung-308605>)
+  * [Kể về chuyến đi tham quan di tích lịch sử Bạch Đằng Giang](</ke-ve-chuyen-di-tham-quan-di-tich-lich-su-bach-dang-giang-lop-8-308601>)
+  * [Kể về chuyến tham quan hồ Núi Cốc](</em-hay-ta-va-ke-lai-mot-chuyen-di-tham-quan-o-ho-nui-coc-169962>)
+

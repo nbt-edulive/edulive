@@ -1,0 +1,29 @@
+---
+url: https://vndoc.com/giai-sbt-ngu-van-8-ket-noi-tri-thuc-bai-34-308913
+title: Giải SBT Ngữ văn 8 Kết nối tri thức bài 34 - Đọc mở rộng trang 34 - VnDoc.com
+date_extracted: 2025-04-14 13:32:07
+description: Giải SBT Ngữ văn 8 bài 34: Đọc mở rộng trang 34 sách Kết nối tri thức có đáp án chi tiết cho các bạn cùng tham khảo.
+keywords: Giải SBT Ngữ văn 8 bài 34,Giải SBT Ngữ văn 8 bài 34 Kết nối tri thức,Giải sách bài tập Ngữ văn KNTT lớp 8,Ngữ văn lớp 8 Kết nối tri thức,giải bài tập ngữ văn lớp 8,bài Đọc mở rộng trang 34,giải SBT ngữ văn 8 KNTT trang 34
+---
+
+# Giải SBT Ngữ văn 8 Kết nối tri thức bài 34
+ _Đọc mở rộng trang 34_
+VnDoc xin giới thiệu bài [**Giải sách bài tập Ngữ văn 8 bài 34: Đọc mở rộng trang 34**](<https://vndoc.com/giai-sbt-ngu-van-8-ket-noi-tri-thuc-bai-34-308913>) sách Kết nối tri thức và cuộc sống chi tiết giúp học sinh dễ dàng xem và so sánh lời giải từ đó biết cách làm bài tập trong SBT Ngữ văn 8.
+## Bài: **Đọc mở rộng trang 34**
+**Bài tập 1 trang 34 SBT Ngữ Văn 8 Tập 2** : Tìm đọc một số văn bản nghị luận văn học viết về chủ đề nhà văn và trang viết. Khi đọc, cần chú ý đến vai trò của luận điểm, lí lẽ, bằng chứng trong việc thể hiện luận đề cách tiếp nhận của tác giả bài viết đối với tác giả văn học. Ghi vào nhật kí đọc sách luận đề, luận điểm, lí lẽ và bằng chứng tiêu biểu trong văn bản; kinh nghiệm đọc hoặc phân tích một tác phẩm văn học em rút ra được từ việc đọc văn bản nghị luận.
+**Trả lời:**
+Các văn bản đọc mở rộng ở bài 8 và bài 9 thuộc văn bản phi hư cấu: nghị luận văn học và văn bản thông tin. Việc tìm kiếm văn bản nghị luận văn học ở phần đọc mở rộng cho bài 8 \(bài tập 1\) có phần khó, vì vậy nội dung văn bản em tìm đọc có thể mở và linh hoạt hơn, miễn là văn bản tìm được đúng là văn bản nghị luận văn học. Em có thể tìm thấy văn bản nghị luận văn học phù hợp từ các tiểu luận, sách phê bình văn học có trong tủ sách của lớp, thư viện trường hoặc ở hiệu sách.
+Một số văn bản loại này cũng được đăng tải trên in-tơ-nét. Tuy nhiên, với nguồn văn bản trên in-tơ-nét, em cần lưu ý chọn đọc những văn bản có nguồn gốc đáng tin cậy, chẳng hạn từ trang web của các khoa, trường đại học, viện nghiên cứu văn học, tạp chí chuyên ngành văn học.
+Khi đọc các văn bản nghị luận văn học, trước hết, em cần nắm được: Vấn đề được bàn luận trong văn bản là gì? Ý kiến của người viết về vấn đề đó như thế nào? Thông thường, em có thể tìm thấy câu trả lời cho hai câu hỏi này ngay từ phần mở đầu của văn bản. Để thuyết phục người đọc đồng ý với ý kiến của mình về vấn đề được bàn, trong một văn bản nghị luận, người viết thường sử dụng nhiều lí lẽ và bằng chứng để chứng minh. Các lí lẽ thường được trình bày tách bạch trong những đoạn văn riêng biệt. Ngoài việc lựa chọn vấn đề bàn luận và ý kiến của người viết về vấn đề đó thì cách mà người viết sử dụng, sắp xếp các lí lẽ bằng chứng để đạt mục đích thuyết phục người đọc cũng là những nội dung quan trọng mà em cần chú ý khi đọc một văn bản nghị luận. Khác với văn bản nghị luận xã hội, bằng chứng trong văn bản nghị luận văn học là những câu văn, đoạn văn, dòng thơ, chi tiết, hình ảnh,... được dẫn từ tác phẩm văn học; những tài liệu, trích dẫn liên quan đến tác phẩm, tác giả, thể loại văn học được dùng để làm sáng tỏ luận điểm.
+Hãy ghi lại đầy đủ nội dung vào nhật kí đọc sách do em tự thiết kế.
+**Bài tập 2 trang 34 SBT Ngữ Văn 8 Tập 2** : Tìm đọc một số văn bản thông tin giải thích một hiện tượng tự nhiên và văn bản thông tin giới thiệu một bộ phim. Ghi vào nhật kí đọc sách nội dung chính và cách triển khai nội dung trong văn bản thông tin \(chẳng hạn theo trật tự thời gian, quan hệ nhân quả, mức độ quan trọng, các đối tượng được phân loại,...\); hiệu quả biểu đạt của phương tiện phi ngôn ngữ; suy nghĩ của em về mối liên hệ giữa thông tin trong văn bản với những vấn đề của xã hội đương đại.
+**Trả lời:**
+So với văn bản nghị luận văn học ở bài tập đọc mở rộng cho bài 8 \(bài tập 1\) thì nguồn văn bản thông tin ở phần đọc mở rộng cho bài 9 \(bài tập 2\) có thể phong phú hơn vì loại văn bản thông tin có tính đại chúng hơn, được dùng phổ biến trong đời sống hằng ngày. Văn bản thông tin giải thích một hiện tượng tự nhiên và văn bản thông tin giới thiệu một bộ phim có thể tìm thấy trên báo, tạp chí in phát hành theo ngày, tuần hoặc tháng và trên in-tơ-nét. Em cũng cần tận dụng tối đa nguồn văn bản từ tủ sách của lớp, thư viện trường.
+Như bài tập yêu cầu, khi đọc, em cần nắm được nội dung chính, cách triển khai nội dung trong văn bản thông tin \(chẳng hạn theo trật tự thời gian, quan hệ nhân quả, mức độ quan trọng hoặc các đối tượng được phân loại\), hiệu quả của phương tiện phi ngôn ngữ \(hình ảnh, số liệu,..\) trong việc truyền đạt thông tin \(chẳng hạn giúp cho người đọc tiếp nhận thông tin đầy đủ hơn, chính xác hơn, thuận lợi hơn, nhớ lâu hơn,...\); lưu ý kết nối thông tin trong văn bản với những vấn đề của xã hội đương đại. Cần ghi những thông tin quan trọng vào nhật kí đọc sách do em tự thiết kế.
+>>>> Bài tiếp theo: **[Giải SBT Ngữ văn 8 Kết nối tri thức bài 35](<https://vndoc.com/giai-sbt-ngu-van-8-ket-noi-tri-thuc-bai-35-308917>)**
+Trên đây là toàn bộ lời giải [Giải SBT Ngữ văn lớp 8 bài 34: Đọc mở rộng trang 34](<https://vndoc.com/giai-sbt-ngu-van-8-ket-noi-tri-thuc-bai-34-308913>) sách Kết nối tri thức. Các em học sinh tham khảo thêm [Ngữ văn 8 Chân trời sáng tạo ](<https://vndoc.com/ngu-van-8-chan-troi-sang-tao>)và [Ngữ văn lớp 8 Cánh Diều.](<https://vndoc.com/ngu-van-8-canh-dieu>) VnDoc liên tục cập nhật lời giải cũng như đáp án sách mới của SGK cũng như SBT các môn cho các bạn cùng tham khảo.
+Xem thêm các bài Tìm bài trong mục này khác:
+  * [Bài: Đọc hiểu và thực hành Tiếng Việt trang 35](</giai-sbt-ngu-van-8-ket-noi-tri-thuc-bai-35-308917>)
+  * [Bài: Viết trang 39](</giai-sbt-ngu-van-8-ket-noi-tri-thuc-bai-36-308923>)
+  * [Bài: Nói và Nghe trang 40](</giai-sbt-ngu-van-8-ket-noi-tri-thuc-bai-37-308924>)
+
