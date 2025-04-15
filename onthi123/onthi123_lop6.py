@@ -198,6 +198,27 @@ def load_urls_from_json(json_file):
         print(f"Lỗi khi đọc file JSON: {e}")
         return []
 
+def save_checkpoint(checkpoint_file, completed_urls):
+    try:
+        with open(checkpoint_file, 'w', encoding='utf-8') as f:
+            json.dump(completed_urls, f, ensure_ascii=False, indent=2)
+        print(f"Đã lưu checkpoint với {len(completed_urls)} URL hoàn thành.")
+    except Exception as e:
+        print(f"Lỗi khi lưu checkpoint: {e}")
+
+def load_checkpoint(checkpoint_file):
+    if not os.path.exists(checkpoint_file):
+        return []
+    
+    try:
+        with open(checkpoint_file, 'r', encoding='utf-8') as f:
+            completed_urls = json.load(f)
+        print(f"Đã tải checkpoint: {len(completed_urls)} URL đã hoàn thành trước đó.")
+        return completed_urls
+    except Exception as e:
+        print(f"Lỗi khi tải checkpoint: {e}. Bắt đầu từ đầu.")
+        return []
+
 def crawl_multiple_urls(username, password, json_file, output_dir="crawled_data"):
     # Tạo thư mục output nếu chưa tồn tại
     if not os.path.exists(output_dir):
@@ -210,6 +231,21 @@ def crawl_multiple_urls(username, password, json_file, output_dir="crawled_data"
         print("Không có URL nào để crawl. Kiểm tra lại file JSON.")
         return
     
+    # Tạo tên file checkpoint dựa trên tên file JSON
+    checkpoint_file = os.path.join(output_dir, os.path.basename(json_file).replace('.json', '_checkpoint.json'))
+    
+    # Tải danh sách URLs đã hoàn thành từ checkpoint (nếu có)
+    completed_urls = load_checkpoint(checkpoint_file)
+    
+    # Lọc những URL chưa xử lý
+    remaining_urls = [url for url in urls if url not in completed_urls]
+    
+    if not remaining_urls:
+        print("Tất cả URL đã được xử lý trước đó!")
+        return
+    
+    print(f"Cần xử lý {len(remaining_urls)}/{len(urls)} URL.")
+    
     # Đăng nhập vào hệ thống
     driver = login_to_onthi123(username, password)
     
@@ -219,8 +255,8 @@ def crawl_multiple_urls(username, password, json_file, output_dir="crawled_data"
     
     try:
         # Duyệt qua từng URL và trích xuất nội dung
-        for i, url in enumerate(urls, 1):
-            print(f"\n[{i}/{len(urls)}] Đang xử lý URL: {url}")
+        for i, url in enumerate(remaining_urls, 1):
+            print(f"\n[{i}/{len(remaining_urls)}] Đang xử lý URL: {url}")
             
             # Tạo tên file dựa trên URL
             filename = generate_filename_from_url(url)
@@ -234,6 +270,10 @@ def crawl_multiple_urls(username, password, json_file, output_dir="crawled_data"
                 
                 if success:
                     print(f"Đã crawl thành công: {url} -> {output_path}")
+                    # Thêm URL đã crawl thành công vào danh sách hoàn thành
+                    completed_urls.append(url)
+                    # Lưu checkpoint sau mỗi URL thành công
+                    save_checkpoint(checkpoint_file, completed_urls)
                     break
                 elif "dang-nhap" in driver.current_url or attempt < max_retries - 1:
                     print(f"Phiên đăng nhập có thể đã hết hạn. Đang đăng nhập lại (lần thử {attempt+1}/{max_retries})...")
@@ -241,6 +281,8 @@ def crawl_multiple_urls(username, password, json_file, output_dir="crawled_data"
                     driver = login_to_onthi123(username, password)
                     if not driver:
                         print("Không thể đăng nhập lại. Dừng quá trình crawl.")
+                        # Lưu checkpoint trước khi thoát
+                        save_checkpoint(checkpoint_file, completed_urls)
                         return
                     time.sleep(3)  # Đợi đăng nhập hoàn tất
                 else:
@@ -249,7 +291,17 @@ def crawl_multiple_urls(username, password, json_file, output_dir="crawled_data"
             # Đợi một chút để tránh quá tải server
             time.sleep(2)
         
-        print(f"\nĐã hoàn thành việc crawl {len(urls)} URL.")
+        print(f"\nĐã hoàn thành việc crawl {len(remaining_urls)} URL.")
+    
+    except KeyboardInterrupt:
+        print("\nQuá trình crawl bị gián đoạn. Đang lưu tiến trình...")
+        save_checkpoint(checkpoint_file, completed_urls)
+        print(f"Đã lưu tiến trình. {len(completed_urls)}/{len(urls)} URL đã hoàn thành.")
+    
+    except Exception as e:
+        print(f"Lỗi không mong muốn: {e}")
+        save_checkpoint(checkpoint_file, completed_urls)
+        print(f"Đã lưu tiến trình. {len(completed_urls)}/{len(urls)} URL đã hoàn thành.")
     
     finally:
         driver.quit()
@@ -260,10 +312,10 @@ if __name__ == "__main__":
     password = "Taotentien123a@"
     
     # File JSON chứa danh sách URLs cần crawl
-    json_file = "data/lop4/links_lop4.json"
+    json_file = "data/lop6/links_lop6.json"
     
     # Thư mục lưu trữ kết quả
-    output_dir = "data/lop4"
+    output_dir = "data/lop6"
     
     # Crawl nhiều URLs
     crawl_multiple_urls(username, password, json_file, output_dir)

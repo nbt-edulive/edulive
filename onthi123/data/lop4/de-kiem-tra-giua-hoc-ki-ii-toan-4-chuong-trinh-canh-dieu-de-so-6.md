@@ -38,13 +38,13 @@ Câu 4
 
 Xếp các phân số theo thứ tự từ bé đến lớn: 65,85,15,3565,85,15,35
 
-1515 1515
-
-6565 6565
-
 3535 3535
 
 8585 8585
+
+1515 1515
+
+6565 6565
 
 Các phân số được sắp xếp theo thứ tự từ bé đến lớn là:
 
@@ -76,11 +76,11 @@ Nối số đo ở cột AA với số đo ở cột BB sao cho phù hợp:
 
 7m22dm27m22dm2
 
-7070 200cm2200cm2
+7070 020cm2020cm2
 
 1
 
-7070 020cm2020cm2
+7070 200cm2200cm2
 
 2
 

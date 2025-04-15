@@ -46,11 +46,11 @@ Câu 3
 
 1
 
-857857 082082
+4545 660660
 
 2
 
-4545 660660
+857857 082082
 
 3
 
@@ -88,13 +88,13 @@ Dựa vào dãy số liệu, hãy sắp xếp tên các bạn theo thứ tự c�
 
 ![](https://onthi123.vn/public/uploads/6_491.png)
 
-Dũng Dũng
+Chi Chi
 
 Bình Bình
 
-Chi Chi
-
 Lan Lan
+
+Dũng Dũng
 
 ;  ;  ;  
 

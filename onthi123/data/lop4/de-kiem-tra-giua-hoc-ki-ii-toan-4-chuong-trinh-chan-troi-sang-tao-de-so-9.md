@@ -1,4 +1,4 @@
-49':56s
+49':57s
 
 Câu 1
 
@@ -16,9 +16,9 @@ Câu 2
 
 Kéo thả các phân số thích hợp vào chỗ trống
 
-2525 2525
-
 8686 8686
+
+2525 2525
 
 Phân số tối giản:  
 

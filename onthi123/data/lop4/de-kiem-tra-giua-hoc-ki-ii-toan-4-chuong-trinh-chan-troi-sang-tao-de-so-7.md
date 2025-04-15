@@ -34,19 +34,19 @@ Các phân số sau được đọc là:
 
 83228322
 
-Hai phần ba
+Tám mươi ba phần hai mươi hai
 
 1
 
-Mười hai phần năm mươi sáu
+Hai phần ba
 
 2
 
-Tám mươi ba phần hai mươi hai
+Một trăm năm mươi lăm phần bốn
 
 3
 
-Một trăm năm mươi lăm phần bốn
+Mười hai phần năm mươi sáu
 
 4
 
@@ -148,13 +148,13 @@ Câu 11
 
 Sắp xếp các phân số dưới đây theo thứ tự tăng dần bằng cách kéo thả các đáp án vào ô trống:
 
-3434 3434
-
-3232 3232
+7777 7777
 
 4343 4343
 
-7777 7777
+3232 3232
+
+3434 3434
 
 ; ; ;  
 
