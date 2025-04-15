@@ -10,19 +10,10 @@ import time
 import html2text
 import os
 import re
+import json
+import urllib.parse
 
 def login_to_onthi123(username, password, max_retries=3):
-    """
-    Hàm đăng nhập vào trang onthi123.vn sử dụng Selenium với xử lý lỗi click
-    
-    Args:
-        username (str): Tên đăng nhập
-        password (str): Mật khẩu
-        max_retries (int): Số lần thử lại tối đa
-    
-    Returns:
-        webdriver: Trình duyệt đã đăng nhập
-    """
     # Thiết lập trình duyệt Chrome
     chrome_options = Options()
     chrome_options.add_argument("--disable-gpu")
@@ -36,7 +27,7 @@ def login_to_onthi123(username, password, max_retries=3):
     try:
         # Truy cập trang đăng nhập
         print("Đang truy cập trang đăng nhập...")
-        driver.get("https://onthi123.vn/de-kiem-tra-giua-ki-i-toan-de-so-1")
+        driver.get("https://onthi123.vn/de-luyen-so-01-mon-tieng-viet")
         
         # Chờ trang tải xong và chờ form xuất hiện
         wait = WebDriverWait(driver, 10)
@@ -47,18 +38,15 @@ def login_to_onthi123(username, password, max_retries=3):
         username_field.clear()
         username_field.send_keys(username)
         
-        # Tìm và điền password
         password_field = driver.find_element(By.NAME, "password")
         password_field.clear()
         password_field.send_keys(password)
         
-        # Nhấn nút đăng nhập với xử lý lỗi
+
         print("Đang nhấn nút đăng nhập...")
         
-        # Tìm nút đăng nhập
         login_button = wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, "button[type='submit']")))
         
-        # Thử các phương pháp khác nhau để click nút
         retries = 0
         success = False
         
@@ -109,7 +97,15 @@ def login_to_onthi123(username, password, max_retries=3):
         driver.quit()
         return None
 
-def extract_content_to_markdown(driver, output_file="output.md"):
+def extract_content_to_markdown(driver, url=None, output_file="output.md"):
+    if url:
+        try:
+            print(f"Đang truy cập URL: {url}")
+            driver.get(url)
+            time.sleep(3)  # Đợi trang tải xong
+        except Exception as e:
+            print(f"Lỗi khi truy cập URL {url}: {e}")
+            return False
 
     try:
         # Chờ cho class module-content__test xuất hiện
@@ -140,10 +136,6 @@ def extract_content_to_markdown(driver, output_file="output.md"):
         
         markdown_content = converter.handle(html_content)
         
-        # Xử lý lại markdown để đảm bảo src ảnh đã được thêm domain
-        # html2text chuyển src ảnh thành dạng ![alt](link)
-        
-        # Xử lý đường dẫn bắt đầu bằng /
         pattern_md1 = r'!\[(.*?)\]\((/[^)]*)\)'
         markdown_content = re.sub(pattern_md1, r'![\1](https://onthi123.vn\2)', markdown_content)
         
@@ -163,19 +155,115 @@ def extract_content_to_markdown(driver, output_file="output.md"):
         print(f"Có lỗi khi trích xuất nội dung: {e}")
         return False
 
+def generate_filename_from_url(url):
+    # Trích xuất phần cuối của URL
+    path = urllib.parse.urlparse(url).path
+    # Lấy phần cuối của đường dẫn
+    filename = os.path.basename(path)
+    
+    # Nếu không có tên file (url kết thúc bằng /), lấy phần trước /
+    if not filename:
+        parts = path.strip('/').split('/')
+        if parts:
+            filename = parts[-1]
+        else:
+            # Nếu không thể trích xuất, sử dụng domain
+            domain = urllib.parse.urlparse(url).netloc
+            filename = domain.replace('.', '-')
+    
+    # Thay thế các ký tự không hợp lệ trong tên file
+    filename = re.sub(r'[^\w\-\.]', '-', filename)
+    
+    # Nếu filename vẫn trống, dùng timestamp
+    if not filename:
+        filename = f"crawl-{int(time.time())}"
+    
+    # Thêm .md nếu không có extension
+    if not filename.endswith('.md'):
+        filename += '.md'
+    
+    return filename
+
+def load_urls_from_json(json_file):
+    try:
+        with open(json_file, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        
+        if isinstance(data, list):
+            return data
+        else:
+            print(f"Lỗi: Định dạng JSON không hợp lệ. Cần là mảng URLs.")
+            return []
+    except Exception as e:
+        print(f"Lỗi khi đọc file JSON: {e}")
+        return []
+
+def crawl_multiple_urls(username, password, json_file, output_dir="crawled_data"):
+    # Tạo thư mục output nếu chưa tồn tại
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+    
+    # Tải danh sách URLs từ file JSON
+    urls = load_urls_from_json(json_file)
+    
+    if not urls:
+        print("Không có URL nào để crawl. Kiểm tra lại file JSON.")
+        return
+    
+    # Đăng nhập vào hệ thống
+    driver = login_to_onthi123(username, password)
+    
+    if not driver:
+        print("Không thể đăng nhập. Kiểm tra lại thông tin đăng nhập.")
+        return
+    
+    try:
+        # Duyệt qua từng URL và trích xuất nội dung
+        for i, url in enumerate(urls, 1):
+            print(f"\n[{i}/{len(urls)}] Đang xử lý URL: {url}")
+            
+            # Tạo tên file dựa trên URL
+            filename = generate_filename_from_url(url)
+            output_path = os.path.join(output_dir, filename)
+            
+            # Trích xuất nội dung với cơ chế thử lại nếu phiên hết hạn
+            max_retries = 3
+            for attempt in range(max_retries):
+                # Trích xuất nội dung
+                success = extract_content_to_markdown(driver, url, output_path)
+                
+                if success:
+                    print(f"Đã crawl thành công: {url} -> {output_path}")
+                    break
+                elif "dang-nhap" in driver.current_url or attempt < max_retries - 1:
+                    print(f"Phiên đăng nhập có thể đã hết hạn. Đang đăng nhập lại (lần thử {attempt+1}/{max_retries})...")
+                    driver.quit()
+                    driver = login_to_onthi123(username, password)
+                    if not driver:
+                        print("Không thể đăng nhập lại. Dừng quá trình crawl.")
+                        return
+                    time.sleep(3)  # Đợi đăng nhập hoàn tất
+                else:
+                    print(f"Không thể crawl: {url} sau {max_retries} lần thử")
+            
+            # Đợi một chút để tránh quá tải server
+            time.sleep(2)
+        
+        print(f"\nĐã hoàn thành việc crawl {len(urls)} URL.")
+    
+    finally:
+        driver.quit()
+
 if __name__ == "__main__":
-    # Nhập thông tin đăng nhập
+    # Thông tin đăng nhập
     username = "NBT03"
     password = "Taotentien123a@"
     
-    # Thực hiện đăng nhập
-    driver = login_to_onthi123(username, password)
+    # File JSON chứa danh sách URLs cần crawl
+    json_file = "data/lop4/links_lop4.json"
     
-    # Sau khi đăng nhập, bạn có thể tiếp tục với các thao tác khác
-    if driver:
-        try:
-            # Trích xuất nội dung và chuyển sang Markdown
-            print("Bắt đầu trích xuất nội dung...")
-            extract_content_to_markdown(driver)
-        finally:
-            driver.quit()
+    # Thư mục lưu trữ kết quả
+    output_dir = "data/lop4"
+    
+    # Crawl nhiều URLs
+    crawl_multiple_urls(username, password, json_file, output_dir)
