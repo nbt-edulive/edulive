@@ -43,10 +43,10 @@ def save_links_to_file(links, file_path):
 def main():
     driver = setup_driver()
     print("start")
-    file_path = "data/lop9/toan.json"
+    file_path = "data/dethi_lop6_ta/tienganh.json"
     links = get_links_from_file(file_path)
     link_lop2 = get_links_from_url(driver, links)
-    save_links_to_file(link_lop2, "data/lop9/links_lop9.json")
+    save_links_to_file(link_lop2, "data/dethi_lop6_ta/dethi_tienganh.json")
 if __name__ == "__main__":
     main()
 
